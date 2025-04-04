@@ -1,5 +1,6 @@
 # 📊 Fundraising Insights for MWPCCC
 Author: Geneva Burleigh
+
 Project: End-to-End Data Pipeline: From Raw Records to Strategic Fundraising Insights
 
 This project explores 15+ years of donor and fundraising data for Mt. Washington Preschool and Child Care Center (MWPCCC), a nonprofit early childhood education organization in Los Angeles. 
@@ -21,9 +22,22 @@ This project analyzes historical fundraising data from MWPCCC (Mt. Washington Pr
 ├── README.md                   ← You're here!
 ├── LICENSE                     ← Open-source license (CC BY 4.0)
 ├── sql/                        ← SQL queries for analysis
-│   └── top_donors.sql
-│   └── donor_retention.sql
-│   └── donation_amount_distribution.sql
+│   └── 01_total_funds_over_time.sql
+│   └── 02_top_fundraisers.sql
+│   └── 03_structured_unstructured.sql
+│   └── 04_fundraiser_type.sql
+│   └── 05_direct_donations.sql
+│   └── 06_no_unique_events.sql
+│   └── 07_donor_retention_rate.sql
+│   └── 08_repeat_donors.sql
+│   └── 09_contribution_by_donor_type
+│   └── 10_individual_vs_corporate_giving.sql
+│   └── 11_donation_amounts.sql
+│   └── 12_largest_single_donor.sql
+│   └── 13_cumulative_contributions.sql
+│   └── 14_year_over_year_donors.sql
+│   └── 15_revenue_per_year.sql
+│   └── 16_fundraisers_by_year
 ├── python/                     ← Python scripts for visualizations
 │   └── donor_retention_heatmap.py
 │   └── donor_pareto_chart.py
