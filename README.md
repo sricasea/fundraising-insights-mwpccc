@@ -4,6 +4,8 @@ This project explores 15+ years of donor and fundraising data for Mt. Washington
 
 Using SQL, Python, and data visualization tools, I analyzed donor engagement, fundraiser performance, and long-term sustainability trends. The goal: provide actionable insights to support financial stability and strategic planning during a time of organizational transition.
 
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://deepnote.com/launch?template=github.com/sricasea/fundraising-insights-mwpccc/blob/main/notebooks/donor_fundraising_analysis.ipynb)
+
 ---
 
 ## 🔍 Project Highlights
@@ -47,7 +49,7 @@ fundraising-insights-mwpccc/
 │   └── ...
 │
 ├── notebooks/              # Markdown write-up of findings
-│   └── fundraising_insights.md
+│   └── donor_fundraising_analysis.ipynb
 │
 ├── images/                 # Visual assets (charts, graphs)
 │   └── donor_retention_heatmap.png
@@ -56,6 +58,17 @@ fundraising-insights-mwpccc/
 └── LICENSE                 # Optional: project license
 ```
 
+## 📓 Interactive Notebook
+This repository includes an interactive Jupyter notebook used to analyze and visualize donor and fundraising trends for MWPCCC. The notebook walks through:
+
+- Data cleaning and schema design
+- SQL queries for key metrics (retention, donation tiers, top donors, etc.)
+- Visualizations built in Python (matplotlib, seaborn)
+- Insightful commentary and analysis throughout
+
+🔗 [View the notebook](notebooks/donor_fundraising_analysis.ipynb)
+
+The notebook uses anonymized data and is intended for educational and illustrative purposes.
 ---
 
 ## 🧵 Background
