@@ -39,8 +39,10 @@ This project analyzes historical fundraising data from MWPCCC (Mt. Washington Pr
 │   └── 15_revenue_per_year.sql
 │   └── 16_fundraisers_by_year
 ├── python/                     ← Python scripts for visualizations
-│   └── donor_retention_heatmap.py
-│   └── donor_pareto_chart.py
+│   └── 01_retention_query.py
+│   └── 02_retention_heatmap.py
+│   └── 03_small_pareto_chart
+│   └── 04_big_pareto_chart
 ├── notebooks/                 ← Deepnote notebooks (exported)
 │   └── 01_data_migration_cleaning.ipynb
 │   └── 02_fundraising_analysis.ipynb
