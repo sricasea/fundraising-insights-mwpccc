@@ -51,6 +51,7 @@ The original data came from fragmented sources:
   - Uploaded to a PostgreSQL database (Supabase)
 
 🔗 📓 Notebook: [01_data_migration_cleaning.ipynb](notebooks/donor_fundraising_analysis.ipynb)
+    
     This notebook uses anonymized data and is intended for educational and illustrative purposes.
   
 ---
@@ -66,6 +67,7 @@ With clean data in place, we ran a series of queries and visualizations to asses
   - Shifts in donor type (individual vs. corporate)
 
 🔗 📓 Notebook: [02_fundraising_analysis.ipynb](notebooks/donor_fundraising_analysis.ipynb)
+    
     This notebook uses anonymized data and is intended for educational and illustrative purposes.
 
 *Sample Insights*
@@ -102,6 +104,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/geneva-burleigh-8b76b1
 ## 🙌 Get Involved
 
 If you’re part of a nonprofit working with messy data or looking to transform your fundraising strategy through analytics, feel free to fork, adapt, or reach out.
+
 PS: Want to support our mission? [Donate to MWPCCC and join my dataset](https://donorbox.org/mwpccc-annual-campaign) 😄
 
 ---
