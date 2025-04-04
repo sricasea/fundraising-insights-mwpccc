@@ -44,8 +44,14 @@ This project 15+ years of donor and fundraising data for Mt. Washington Preschoo
 ├── notebooks/                 ← Deepnote notebooks (exported)
 │   └── 01_data_cleaning_migration.ipynb
 │   └── 02_donor_fundraising_analysis.ipynb
-├── media/                      ← Screenshots / visuals (optional)
-│   └── heatmap_preview.png
+├── media/                      ← Screenshots / visuals 
+│   └── donation_pareto.png
+│   └── donor_retention_heatmap.png
+│   └── overall_donations.png
+│   └── structured_unstructured_donations.png
+│   └── trends_in_donor_behavior.png
+├── data/                      ← CSVs for transparency and reproducibility
+
 ```
 ---
 
