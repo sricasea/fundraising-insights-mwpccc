@@ -1,74 +1,92 @@
 # 📊 Fundraising Insights for MWPCCC
+Author: Geneva Burleigh
+Project: End-to-End Data Pipeline: From Raw Records to Strategic Fundraising Insights
 
-This project explores 15+ years of donor and fundraising data for Mt. Washington Preschool and Child Care Center (MWPCCC), a nonprofit early childhood organization in Los Angeles. 
+This project explores 15+ years of donor and fundraising data for Mt. Washington Preschool and Child Care Center (MWPCCC), a nonprofit early childhood education organization in Los Angeles. 
 
 Using SQL, Python, and data visualization tools, I analyzed donor engagement, fundraiser performance, and long-term sustainability trends. The goal: provide actionable insights to support financial stability and strategic planning during a time of organizational transition.
 
-[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://deepnote.com/launch?template=github.com/sricasea/fundraising-insights-mwpccc/blob/main/notebooks/donor_fundraising_analysis.ipynb)
+## 🎯 Objective
+
+This project analyzes historical fundraising data from MWPCCC (Mt. Washington Preschool and Child Care Center) to better understand donor behavior, fundraising trends, and organizational sustainability. The work is split into two main phases:
+1. Data Cleaning, Structuring & Migration — transforming messy Google Sheets and exported records into a clean, structured PostgreSQL database.
+2. Data Analysis & Visualization — using SQL, Python, and Deepnote to uncover insights, generate dashboards, and support decision-making.
 
 ---
 
-## 🔍 Project Highlights
-
-- **Structured raw donor data** from Google Sheets into a relational PostgreSQL database
-- **Wrote and documented SQL queries** to uncover key fundraising metrics (top fundraisers, retention, donation distribution, etc.)
-- **Visualized trends** in Deepnote using Python, Seaborn, and built-in SQL visual tools
-- **Identified financial outliers** and proposed future fundraising strategies
-- **Told the story behind the data**, connecting trends to real-world context (COVID, staffing, leadership turnover)
-
----
-
-## 🧠 Key Questions Answered
-
-- How much has MWPCCC raised over time?
-- Which fundraisers were most successful—and why?
-- What percentage of donors are one-time vs. recurring?
-- Are large donations carrying too much weight?
-- How have giving patterns changed over time?
-
----
-
-## 🛠️ Tools Used
-
-- **PostgreSQL**: data cleaning, structuring, and SQL queries  
-- **Deepnote**: exploratory analysis, visualization, and narrative  
-- **Python (Pandas, Matplotlib, Seaborn)**: advanced charting and cohort analysis  
-- **Google Sheets + Apps Script**: raw data structuring  
-- **GitHub**: version control and portfolio presentation
-
----
-
-## 📁 Project Structure
+## 🧭 Project Structure
 
 ```
-fundraising-insights-mwpccc/
-│
-├── sql/                     # Raw SQL queries for all major metrics
-│   ├── total_funds_over_time.sql
-│   ├── donor_retention.sql
-│   └── ...
-│
-├── notebooks/              # Markdown write-up of findings
-│   └── donor_fundraising_analysis.ipynb
-│
-├── images/                 # Visual assets (charts, graphs)
-│   └── donor_retention_heatmap.png
-│
-├── README.md               # This file
-└── LICENSE                 # Optional: project license
+/fundraising-insights-mwpccc
+├── README.md                   ← You're here!
+├── LICENSE                     ← Open-source license (CC BY 4.0)
+├── sql/                        ← SQL queries for analysis
+│   └── top_donors.sql
+│   └── donor_retention.sql
+│   └── donation_amount_distribution.sql
+├── python/                     ← Python scripts for visualizations
+│   └── donor_retention_heatmap.py
+│   └── donor_pareto_chart.py
+├── notebooks/                 ← Deepnote notebooks (exported)
+│   └── 01_data_migration_cleaning.ipynb
+│   └── 02_fundraising_analysis.ipynb
+├── media/                      ← Screenshots / visuals (optional)
+│   └── heatmap_preview.png
 ```
+---
 
-## 📓 Interactive Notebook
-This repository includes an interactive Jupyter notebook used to analyze and visualize donor and fundraising trends for MWPCCC. The notebook walks through:
+## 🔧 Phase 1: Data Cleaning & Migration
 
-- Data cleaning and schema design
-- SQL queries for key metrics (retention, donation tiers, top donors, etc.)
-- Visualizations built in Python (matplotlib, seaborn)
-- Insightful commentary and analysis throughout
+The original data came from fragmented sources:
+  - Google Sheets
+  - Procare (tuition and donor exports)
+  - Mailchimp (newsletter engagement)
+  - Manual entry
 
-🔗 [View the notebook](notebooks/donor_fundraising_analysis.ipynb)
+*Key Steps*
+  - Standardized donor names and addresses
+  - Resolved formatting inconsistencies
+  - Linked donations to events, fundraisers, and donor types
+  - Created a relational schema with 5 core tables
+  - Uploaded to a PostgreSQL database (Supabase)
 
-The notebook uses anonymized data and is intended for educational and illustrative purposes.
+🔗 📓 Notebook: [01_data_migration_cleaning.ipynb](notebooks/donor_fundraising_analysis.ipynb)
+    This notebook uses anonymized data and is intended for educational and illustrative purposes.
+  
+---
+
+## 📈 Phase 2: Fundraising Analysis
+
+With clean data in place, we ran a series of queries and visualizations to assess:
+  - Total funds raised over time
+  - Fundraiser effectiveness (cost vs. return)
+  - Donor retention trends (incl. cohort heatmaps)
+  - Donation amount distributions
+  - High-value donor impact
+  - Shifts in donor type (individual vs. corporate)
+
+🔗 📓 Notebook: [02_fundraising_analysis.ipynb](notebooks/donor_fundraising_analysis.ipynb)
+    This notebook uses anonymized data and is intended for educational and illustrative purposes.
+
+*Sample Insights*
+  - Unstructured donations contributed significant but inconsistent support
+  - Most effective fundraising type: goal-specific + time-bounded campaigns
+  - Donor retention dropped sharply in 2020 due to COVID and leadership turnover
+  - A single giving entity contributed over $50K across five years
+
+*Visualizations*
+  - Line graphs, bar charts, pie charts (via Deepnote)
+  - Heatmaps and Pareto charts (via Python + Seaborn / Matplotlib)
+
+##🛠️ Tools & Technologies
+  - Google Sheets: initial raw data, manual entry
+  - Google Apps Script: early automation for cleaning
+  - PostgreSQL (Supabase): structured cloud database
+  - pgAdmin: local database management
+  - Deepnote: analysis + notebook workspace
+  - Python / Pandas / Matplotlib / Seaborn: advanced visualizations
+  - Tableau (planned): stakeholder-ready dashboards
+
 ---
 
 ## 🧵 Background
@@ -80,6 +98,11 @@ MWPCCC faced a steep drop in fundraising revenue in the years following COVID-19
 ## 📬 Want to Learn More?
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/geneva-burleigh-8b76b117/) or check out more of my work on [Deepnote](https://deepnote.com/workspace/puddles-7d469830-b020-4998-9332-fad683944541/project/d50b48dc-8b60-4e72-885a-59c1190a91a3/notebook/Data-Driven-Fundraising-Insights-870451d5ae6d45a5bca1bd2f825144ae).
+
+## 🙌 Get Involved
+
+If you’re part of a nonprofit working with messy data or looking to transform your fundraising strategy through analytics, feel free to fork, adapt, or reach out.
+PS: Want to support our mission? [Donate to MWPCCC and join my dataset](https://donorbox.org/mwpccc-annual-campaign) 😄
 
 ---
 
