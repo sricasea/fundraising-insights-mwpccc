@@ -3,13 +3,11 @@ Author: Geneva Burleigh
 
 Project: End-to-End Data Pipeline: From Raw Records to Strategic Fundraising Insights
 
-This project explores 15+ years of donor and fundraising data for Mt. Washington Preschool and Child Care Center (MWPCCC), a nonprofit early childhood education organization in Los Angeles. 
-
-Using SQL, Python, and data visualization tools, I analyzed donor engagement, fundraiser performance, and long-term sustainability trends. The goal: provide actionable insights to support financial stability and strategic planning during a time of organizational transition.
+---
 
 ## 🎯 Objective
 
-This project analyzes historical fundraising data from MWPCCC (Mt. Washington Preschool and Child Care Center) to better understand donor behavior, fundraising trends, and organizational sustainability. The work is split into two main phases:
+This project 15+ years of donor and fundraising data for Mt. Washington Preschool and Child Care Center (MWPCCC), a nonprofit early childhood education organization in Los Angeles, to better understand donor behavior, fundraising trends, and organizational sustainability. The work is split into two main phases:
 1. Data Cleaning, Structuring & Migration — transforming messy Google Sheets and exported records into a clean, structured PostgreSQL database.
 2. Data Analysis & Visualization — using SQL, Python, and Deepnote to uncover insights, generate dashboards, and support decision-making.
 
