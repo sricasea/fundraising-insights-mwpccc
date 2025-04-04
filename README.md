@@ -44,8 +44,8 @@ This project analyzes historical fundraising data from MWPCCC (Mt. Washington Pr
 │   └── 03_small_pareto_chart
 │   └── 04_big_pareto_chart
 ├── notebooks/                 ← Deepnote notebooks (exported)
-│   └── 01_data_migration_cleaning.ipynb
-│   └── 02_fundraising_analysis.ipynb
+│   └── 01_data_cleaning_migration.ipynb
+│   └── 02_donor_fundraising_analysis.ipynb
 ├── media/                      ← Screenshots / visuals (optional)
 │   └── heatmap_preview.png
 ```
@@ -66,9 +66,9 @@ The original data came from fragmented sources:
   - Created a relational schema with 5 core tables
   - Uploaded to a PostgreSQL database (Supabase)
 
-🔗 📓 Notebook: [01_data_migration_cleaning.ipynb](notebooks/donor_fundraising_analysis.ipynb)
-    
-    This notebook uses anonymized data and is intended for educational and illustrative purposes.
+🔗 📓 Notebook: [01_data_cleaning_migration.ipynb](notebooks/01_data_cleaning_migration.ipynb)
+
+This notebook uses anonymized data and is intended for educational and illustrative purposes.
   
 ---
 
@@ -82,9 +82,9 @@ With clean data in place, we ran a series of queries and visualizations to asses
   - High-value donor impact
   - Shifts in donor type (individual vs. corporate)
 
-🔗 📓 Notebook: [02_fundraising_analysis.ipynb](notebooks/donor_fundraising_analysis.ipynb)
-    
-    This notebook uses anonymized data and is intended for educational and illustrative purposes.
+🔗 📓 Notebook: [02_donor_fundraising_analysis.ipynb](notebooks/02_donor_fundraising_analysis.ipynb)
+
+This notebook uses anonymized data and is intended for educational and illustrative purposes.
 
 *Sample Insights*
   - Unstructured donations contributed significant but inconsistent support
@@ -96,7 +96,7 @@ With clean data in place, we ran a series of queries and visualizations to asses
   - Line graphs, bar charts, pie charts (via Deepnote)
   - Heatmaps and Pareto charts (via Python + Seaborn / Matplotlib)
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
   - Google Sheets: initial raw data, manual entry
   - Google Apps Script: early automation for cleaning
   - PostgreSQL (Supabase): structured cloud database
