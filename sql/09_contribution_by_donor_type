@@ -1,0 +1,10 @@
+-- Query to calculate the total amount donated by each donor type (individual vs. corporate) and their percentage share of overall contributions.
+
+SELECT 
+    donor_type, 
+    COUNT(donation_id) AS total_donations,
+    SUM(amount) AS total_amount,
+    (SUM(amount) * 100.0 / (SELECT SUM(amount) FROM donations)) AS percentage_of_total
+FROM donations
+GROUP BY donor_type
+ORDER BY total_amount DESC;
