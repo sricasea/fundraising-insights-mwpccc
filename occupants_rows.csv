@@ -1,0 +1,1580 @@
+entity_id,occupant_full_name,occupant_first_name,occupant_surname,occupant_email,occupant_email2,phone,child(ren)_enrolled,photo_release,connection,center,status
+FAM0277,Alex Adams 760,Alex,Adams,donor760@example.com,,555-000-760,ChildA-1760,,Former Parent,La Casita,Living
+FAM0971,Alex Anderson 960,Alex,Anderson,donor960@example.com,,555-000-960,ChildA-1044,,Former Parent,JP,Living
+IND0246,Alex Brown 880,Alex,Brown,donor880@example.com,,555-000-880,,N/A,Former Parent,JP,Living
+FAM0445,Alex Cook 1160,Alex,Cook,donor1160@example.com,,555-000-1160,ChildA-2022,,Former Parent,La Casita,Living
+FAM0743,Alex Cook 480,Alex,Cook,donor480@example.com,,555-000-480,ChildA-1480,,Former Parent,La Casita,Living
+UNK1169,Alex Cook 560,Alex,Cook,donor560@example.com,,,,N/A,Community,Community,Living
+FAM0267,Alex Edwards 920,Alex,Edwards,donor920@example.com,,555-000-920,ChildA-1199,,Former Parent,La Casita,Living
+IND1290,Alex Flores 1120,Alex,Flores,donor1120@example.com,,,,N/A,Community,Community,Living
+FAM0333,Alex Hall 1040,Alex,Hall,donor1040@example.com,,555-000-1040,ChildA-1523,,Parent,TD,Living
+FAM0530,Alex Lewis 160,Alex,Lewis,donor160@example.com,,555-000-160,ChildA-1160,,Former Parent,La Casita,Living
+IND1302,Alex Lewis 240,Alex,Lewis,donor240@example.com,,,,N/A,Community,Community,Living
+FAM0515,Alex Lewis 360,Alex,Lewis,donor360@example.com,,,ChildA-1360,,Former Parent,JP,Living
+FAM0856,Alex Lewis 400,Alex,Lewis,donor400@example.com,,,,N/A,Former Parent,JP,Living
+IND0164,Alex Lopez 1400,Alex,Lopez,donor1400@example.com,,555-000-1400,ChildA-2400,,Former Parent,La Casita,Living
+FAM0721,Alex Lopez 440,Alex,Lopez,donor440@example.com,,555-000-440,ChildA-1440,,Former Parent,La Casita,Living
+FAM0690,Alex Morris 1200,Alex,Morris,donor1200@example.com,,555-000-1200,ChildA-1927,,Former Parent,La Casita,Living
+IND1280,Alex Murphy 1080,Alex,Murphy,donor1080@example.com,,,,N/A,Community,Community,Living
+FAM0883,Alex Murphy 1360,Alex,Murphy,donor1360@example.com,,555-000-1360,ChildA-2021,,Former Parent,La Casita,Living
+FAM0053,Alex Murphy 840,Alex,Murphy,donor840@example.com,,555-000-840,ChildA-1840,,Former Parent,JP,Living
+IND1178,Alex Parker 600,Alex,Parker,donor600@example.com,,,,N/A,Community,Community,Living
+IND1337,Alex Perez 1280,Alex,Perez,donor1280@example.com,,,,N/A,Community,Community,Living
+IND1454,Alex Perez 1454,Alex,Perez,,,,,N/A,Community,Community,Living
+IND0317,Alex Perez 640,Alex,Perez,donor640@example.com,,,ChildA-1640,,Former Parent,JP,Living
+FAM0509,Alex Rivera 200,Alex,Rivera,donor200@example.com,,555-000-200,ChildA-1200,,Former Parent,La Casita,Living
+IND1327,Alex Roberts 1240,Alex,Roberts,donor1240@example.com,,,,N/A,Community,Community,Living
+FAM1409,Alex Roberts 1409,Alex,Roberts,,,,,N/A,Community,Community,Living
+FAM0280,Alex Rogers 280,Alex,Rogers,donor280@example.com,,,ChildA-1064,,Former Parent,La Casita,Living
+IND1051,Alex Rogers 40,Alex,Rogers,donor40@example.com,,,,N/A,Community,Community,Living
+FAM0175,Alex Rogers 520,Alex,Rogers,donor520@example.com,,555-000-520,ChildA-1520,,Parent,TD,Living
+IND0583,Alex Scott 1440,Alex,Scott,donor1440@example.com,,,,N/A,Community,Community,Living
+IND0682,Alex Smith 320,Alex,Smith,donor320@example.com,,555-000-320,ChildA-1320,,Former Parent,La Casita,Living
+IND1046,Alex Smith 80,Alex,Smith,donor80@example.com,,,,N/A,Community,Community,Living
+FAM0131,Alex Stewart 1320,Alex,Stewart,donor1320@example.com,,,ChildA-1912,,Former Parent,La Casita,Living
+IND0615,Alex Stewart 1480,Alex,Stewart,donor1480@example.com,,555-000-1480,ChildA-2480,,Former Parent,La Casita,Living
+IND1194,Alex Thomas 680,Alex,Thomas,donor680@example.com,,,,N/A,Community,Community,Living
+FAM0562,Alex Thompson 720,Alex,Thompson,donor720@example.com,,555-000-720,,N/A,Former Parent,JP,Living
+FAM1471,Alex Torres 1471,Alex,Torres,,,,,N/A,Community,Community,Living
+UNK1507,Amazon Smile Foundation,,,,,,,,Corporate Donor,,Defunct
+UNK1508,"Antique Portraiture, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1509,Ardon V. City of LA Claims Admin,,,,,,,,Corporate Donor,,Defunct
+FAM1268,Aubrey Allen 1273,Aubrey,Allen,donor1273@example.com,,555-000-1273,ChildA-1933,,Former Parent,JP,Living
+FAM0758,Aubrey Allen 1433,Aubrey,Allen,donor1433@example.com,,555-000-1433,ChildA-2169,,Former Parent,JP,Living
+FAM0022,Aubrey Brown 1113,Aubrey,Brown,donor1113@example.com,,,ChildA-1849,,Former Parent,La Casita,Living
+IND1304,Aubrey Brown 1153,Aubrey,Brown,donor1153@example.com,,,,N/A,Community,Community,Living
+IND0764,Aubrey Carter 73,Aubrey,Carter,donor73@example.com,,555-000-73,ChildA-1073,,Former Parent,La Casita,Living
+IND1143,Aubrey Clark 433,Aubrey,Clark,donor433@example.com,,,,N/A,Community,Community,Living
+IND0967,Aubrey Collins 913,Aubrey,Collins,donor913@example.com,,555-000-913,,N/A,Former Parent,JP,Living
+FAM0415,Aubrey Edwards 1353,Aubrey,Edwards,donor1353@example.com,,555-000-1353,ChildA-1598,,Former Parent,La Casita,Living
+FAM0545,Aubrey Edwards 153,Aubrey,Edwards,donor153@example.com,,,ChildA-1153,,Former Parent,La Casita,Living
+FAM0313,Aubrey Edwards 953,Aubrey,Edwards,donor953@example.com,,555-000-953,ChildA-1331,,Former Parent,JP,Living
+IND0437,Aubrey Hall 1313,Aubrey,Hall,donor1313@example.com,,,ChildA-2313,,Former Parent,La Casita,Living
+FAM1004,Aubrey Hall 1473,Aubrey,Hall,donor1473@example.com,,,,N/A,Community,Community,Living
+FAM0818,Aubrey Lewis 193,Aubrey,Lewis,donor193@example.com,,555-000-193,ChildA-1193,,Former Parent,La Casita,Living
+FAM1008,Aubrey Lopez 233,Aubrey,Lopez,donor233@example.com,donor2332@example.com,555-000-233,,N/A,Community,Community,Living
+FAM0522,Aubrey Lopez 673,Aubrey,Lopez,donor673@example.com,,555-000-673,,N/A,Former Parent,JP,Living
+FAM0403,Aubrey Martin 33,Aubrey,Martin,donor33@example.com,,555-000-33,,N/A,Former Parent,JP,Living
+FAM0988,Aubrey Martin 793,Aubrey,Martin,donor793@example.com,,555-000-793,,N/A,Former Parent,JP,Living
+IND1017,Aubrey Mitchell 1193,Aubrey,Mitchell,donor1193@example.com,,555-000-1193,,N/A,Former Parent,JP,Living
+FAM0799,Aubrey Murphy 633,Aubrey,Murphy,donor633@example.com,,555-000-633,ChildA-1633,,Former Parent,La Casita,Living
+FAM1022,Aubrey Murphy 993,Aubrey,Murphy,donor993@example.com,,555-000-993,ChildA-1709,,Former Parent,La Casita,Living
+IND1084,Aubrey Nguyen 1233,Aubrey,Nguyen,donor1233@example.com,,,,N/A,Community,Community,Living
+IND0221,Aubrey Nguyen 1393,Aubrey,Nguyen,donor1393@example.com,,555-000-1393,,N/A,Former Parent,La Casita,Living
+FAM0004,Aubrey Parker 593,Aubrey,Parker,donor593@example.com,,555-000-593,ChildA-1593,,Former Parent,JP,Living
+IND1277,Aubrey Rivera 1073,Aubrey,Rivera,donor1073@example.com,,,,N/A,Community,Community,Living
+FAM0284,Aubrey Rivera 473,Aubrey,Rivera,donor473@example.com,,555-000-473,ChildA-1473,,Parent,TD,Living
+IND0266,Aubrey Rivera 513,Aubrey,Rivera,donor513@example.com,,555-000-513,ChildA-1513,,Former Parent,La Casita,Living
+IND1367,Aubrey Roberts 713,Aubrey,Roberts,donor713@example.com,,,,N/A,Community,Community,Living
+FAM0852,Aubrey Rogers 833,Aubrey,Rogers,donor833@example.com,,555-000-833,ChildA-1833,,Former Parent,JP,Living
+FAM0973,Aubrey Rogers 873,Aubrey,Rogers,donor873@example.com,,555-000-873,,N/A,Former Parent,JP,Living
+IND1479,Aubrey Smith 1479,Aubrey,Smith,,,,,N/A,Community,Community,Living
+IND1121,Aubrey Stewart 353,Aubrey,Stewart,donor353@example.com,,,,N/A,Community,Community,Living
+IND0850,Aubrey Taylor 393,Aubrey,Taylor,donor393@example.com,,,,N/A,Community,Community,Living
+FAM0309,Aubrey Thomas 273,Aubrey,Thomas,donor273@example.com,,555-000-273,,N/A,Former Parent,JP,Living
+FAM0361,Aubrey Thomas 552,Aubrey,Thomas,donor553@example.com,,555-000-553,,N/A,Former Parent,JP,Living
+FAM0370,Aubrey Walker 753,Aubrey,Walker,donor753@example.com,,555-000-753,ChildA-1753,,Former Parent,JP,Living
+IND1422,Aubrey White 1422,Aubrey,White,,,,,N/A,Community,Community,Living
+IND1062,Aubrey Wright 113,Aubrey,Wright,donor113@example.com,,,,N/A,Community,Community,Living
+FAM0985,Avery Adams 1292,Avery,Adams,donor1292@example.com,,555-000-1292,ChildA-2075,,Former Parent,JP,Living
+IND1475,Avery Brown 1475,Avery,Brown,,,,,N/A,Community,Community,Living
+FAM0867,Avery Campbell 612,Avery,Campbell,donor612@example.com,,,,N/A,Community,Community,Living
+FAM0361,Avery Carter 12,Avery,Carter,donor12@example.com,,555-000-12,,N/A,Former Parent,JP,Living
+FAM0844,Avery Carter 772,Avery,Carter,donor772@example.com,,555-000-772,ChildA-1772,,Parent,TD,Living
+FAM0193,Avery Collins 372,Avery,Collins,donor372@example.com,,555-000-372,,N/A,Former Parent,JP,Living
+IND1079,Avery Cook 172,Avery,Cook,donor172@example.com,,,,N/A,Community,Community,Living
+IND0337,Avery Edwards 492,Avery,Edwards,donor492@example.com,,555-000-492,ChildA-1492,,Former Parent,La Casita,Living
+FAM0165,Avery Edwards 892,Avery,Edwards,donor892@example.com,,555-000-892,,N/A,Former Parent,JP,Living
+IND0653,Avery Evans 1092,Avery,Evans,donor1092@example.com,,555-000-1092,ChildA-2092,,Former Parent,La Casita,Living
+IND0511,Avery Hall  1412,Avery,Hall,donor1412@example.com,,555-000-1412,ChildA-2412,,Former Parent,La Casita,Living
+FAM0520,Avery Hall 252,Avery,Hall,donor252@example.com,,555-000-252,ChildA-1221,,Former Parent,La Casita,Living
+FAM0937,Avery Johnson 1452,Avery,Johnson,donor1452@example.com,,555-000-1452,ChildA-1215,,Board Member,HP,Living
+FAM0741,Avery Johnson 212,Avery,Johnson,donor212@example.com,,555-000-212,ChildA-1212,,Former Parent,JP,Living
+FAM0378,Avery King 692,Avery,King,donor692@example.com,,555-000-692,ChildA-1146,,Former Parent,La Casita,Living
+FAM0206,Avery Lewis 1132,Avery,Lewis,donor1132@example.com,,555-000-1132,ChildA-2132,,Former Parent,JP,Living
+FAM0240,Avery Lewis 1172,Avery,Lewis,donor1172@example.com,,555-000-1172,,N/A,Former Parent,JP,Living
+FAM0762,Avery Lewis 132,Avery,Lewis,donor132@example.com,,555-000-132,,N/A,Former Parent,JP,Living
+FAM0769,Avery Lopez 572,Avery,Lopez,donor572@example.com,,555-000-572,ChildA-1572,,Former Parent,La Casita,Living
+IND1468,Avery Martin 1468,Avery,Martin,,,,,N/A,Community,Community,Living
+FAM0822,Avery Morris 1252,Avery,Morris,donor1252@example.com,,555-000-1252,,N/A,Former Parent,JP,Living
+UNK1057,Avery Nguyen 92,Avery,Nguyen,donor92@example.com,,,,N/A,Community,Community,Living
+FAM0725,Avery Perez 532,Avery,Perez,donor532@example.com,,555-000-532,ChildA-1036,,Former Parent,JP,Living
+IND1383,Avery Phillips 1372,Avery,Phillips,donor1372@example.com,,,,N/A,Community,Community,Living
+IND0629,Avery Roberts 1332,Avery,Roberts,donor1332@example.com,donor13322@example.com,555-000-1332,ChildA-2332,,Former Parent,JP,Living
+FAM0621,Avery Roberts 1492,Avery,Roberts,donor1492@example.com,,555-000-1492,ChildA-1085,,Former Parent,La Casita,Living
+IND1577,Avery Roberts 1577,Avery,Roberts,,,,,N/A,Community,Community,Living
+FAM0709,Avery Roberts 452,Avery,Roberts,donor452@example.com,,555-000-452,ChildA-1452,,Former Parent,La Casita,Living
+FAM0112,Avery Rogers 52,Avery,Rogers,donor52@example.com,,555-000-52,,N/A,Former Parent,JP,Living
+IND1338,Avery Smith 1212,Avery,Smith,donor1212@example.com,,,,N/A,Community,Community,Living
+FAM0930,Avery Smith 932,Avery,Smith,donor932@example.com,,555-000-932,ChildA-1932,,Former Parent,La Casita,Living
+FAM1450,Avery Stewart 1450,Avery,Stewart,,,,,N/A,Community,Community,Living
+FAM0200,Avery Taylor 852,Avery,Taylor,donor852@example.com,,555-000-852,ChildA-1656,,Parent,TD,Living
+IND0652,Avery Thomas 812,Avery,Thomas,donor812@example.com,,555-000-812,ChildA-1812,,Former Parent,La Casita,Living
+FAM0392,Avery White 292,Avery,White,donor292@example.com,,555-000-292,ChildA-1292,,Former Parent,La Casita,Living
+UNK1447,Avery Wright 1447,Avery,Wright,,,,,N/A,Community,Community,Living
+FAM0464,Avery Young 1052,Avery,Young,donor1052@example.com,,,ChildA-2052,,Former Parent,La Casita,Living
+IND1134,Avery Young 412,Avery,Young,donor412@example.com,,,,N/A,Community,Community,Living
+UNK1576,Benevity,,,,,,,,Corporate Donor,,Active
+UNK1510,Big Sunday,,,,,,,,Corporate Donor,,Active
+FAM0640,Blake Adams 584,Blake,Adams,donor584@example.com,,,,N/A,Community,Community,Living
+UNK1384,Blake Allen 1501,,,donor1501@example.com,,,,N/A,Community,Community,Living
+FAM0290,Blake Anderson 544,Blake,Anderson,donor544@example.com,,,,N/A,Community,Community,Living
+IND1232,Blake Brown 1224,Blake,Brown,donor1224@example.com,,,ChildA-2224,,Former Parent,HP,Living
+IND1375,Blake Brown 264,Blake,Brown,donor264@example.com,,,,N/A,Community,Community,Living
+FAM0457,Blake Carter 304,Blake,Carter,donor304@example.com,,555-000-304,ChildA-1304,,Former Parent,La Casita,Living
+FAM0625,Blake Clark 1064,Blake,Clark,donor1064@example.com,,555-000-1064,ChildA-1355,,Former Parent,JP,Living
+IND1131,Blake Flores 344,Blake,Flores,donor344@example.com,,,,N/A,Community,Community,Living
+FAM0280,Blake Flores 64,Blake,Flores,donor64@example.com,,555-000-64,ChildA-1064,,Former Parent,La Casita,Living
+FAM0692,Blake Hall 424,Blake,Hall,donor424@example.com,,555-000-424,ChildA-1071,,Former Parent,JP,Dead
+IND0630,Blake Hall 624,Blake,Hall,donor624@example.com,,555-000-624,ChildA-1624,,Former Parent,La Casita,Living
+IND1189,Blake Harris 664,Blake,Harris,donor664@example.com,,,,N/A,Community,Community,Living
+IND1077,Blake Martin 184,Blake,Martin,donor184@example.com,,555-000-184,,N/A,Former Parent,JP,Living
+FAM0112,Blake Martin 24,Blake,Martin,donor24@example.com,,,,N/A,Former Parent,JP,Living
+FAM0949,Blake Mitchell 104,Blake,Mitchell,donor104@example.com,,555-000-104,,N/A,Former Parent,JP,Living
+IND1345,Blake Mitchell 1344,Blake,Mitchell,donor1344@example.com,,,,N/A,Community,Community,Living
+IND1122,Blake Nguyen 384,Blake,Nguyen,donor384@example.com,,,,N/A,Community,Community,Living
+FAM0824,Blake Perez 1264,Blake,Perez,donor1264@example.com,,555-000-1264,,N/A,Former Parent,JP,Living
+IND1500,Blake Perez 1500,Blake,Perez,,,,,N/A,Community,Community,Living
+IND1071,Blake Phillips 144,Blake,Phillips,donor144@example.com,,,,N/A,Community,Community,Living
+IND0441,Blake Phillips 984,Blake,Phillips,donor984@example.com,,,,N/A,Community,Community,Living
+IND0456,Blake Rogers 1144,Blake,Rogers,donor1144@example.com,,,ChildA-2144,,Former Parent,La Casita,Living
+FAM0105,Blake Rogers 784,Blake,Rogers,donor784@example.com,,,,N/A,Community,Community,Living
+IND1435,Blake Scott 1435,Blake,Scott,,,,,N/A,Community,Community,Living
+IND1091,Blake Scott 224,Blake,Scott,donor224@example.com,,,,N/A,Community,Community,Living
+IND0395,Blake Scott 704,Blake,Scott,donor704@example.com,,555-000-704,ChildA-1704,,Former Parent,JP,Living
+FAM0043,Blake Scott 824,Blake,Scott,donor824@example.com,,555-000-824,,N/A,Former Board Member,Community,Living
+FAM0387,Blake Scott 864,Blake,Scott,donor864@example.com,,555-000-864,,N/A,Former Parent,JP,Living
+IND0830,Blake Smith 944,Blake,Smith,donor944@example.com,,555-000-944,,N/A,Former Parent,JP,Living
+FAM0223,Blake Stewart 1424,Blake,Stewart,donor1424@example.com,,,,N/A,Community,Community,Living
+UNK1150,Blake Stewart 464,Blake,Stewart,donor464@example.com,,,,N/A,Community,Community,Living
+FAM0299,Blake Thomas 744,Blake,Thomas,donor744@example.com,,555-000-744,ChildA-1744,,Former Parent,JP,Living
+IND1316,Blake Thompson 1184,Blake,Thompson,donor1184@example.com,,,,N/A,Community,Community,Living
+IND1477,Blake Torres 1477,Blake,Torres,,,,,N/A,Community,Community,Living
+IND0236,Blake White 1464,Blake,White,donor1464@example.com,,555-000-1464,ChildA-2464,,Former Parent,La Casita,Living
+IND0372,Blake White 904,Blake,White,donor904@example.com,,,,N/A,Community,Community,Living
+FAM0762,Blake Young 1104,Blake,Young,donor1104@example.com,,555-000-1104,,N/A,Former Parent,JP,Living
+IND1341,Blake Young 1304,Blake,Young,donor1304@example.com,,,,N/A,Community,Community,Living
+UNK1511,"Books Are Fun, Ltd.",,,,,,,,Corporate Donor,,Active
+FAM0577,Brooklyn Adams 1274,Brooklyn,Adams,donor1274@example.com,,555-000-1274,ChildA-2053,N/A,Former Parent,JP,Living
+FAM0746,Brooklyn Allen 714,Brooklyn,Allen,donor714@example.com,,555-000-714,,N/A,Former Parent,JP,Living
+IND0849,Brooklyn Anderson 1354,Brooklyn,Anderson,donor1354@example.com,,555-000-1354,ChildA-2354,,Former Parent,JP,Living
+IND1132,Brooklyn Brown 34,Brooklyn,Brown,donor34@example.com,,,,N/A,Community,Community,Living
+IND1358,Brooklyn Carter 1394,Brooklyn,Carter,donor1394@example.com,,,,N/A,Community,Community,Living
+IND1262,Brooklyn Carter 994,Brooklyn,Carter,donor994@example.com,,,,N/A,Community,Community,Living
+FAM1013,Brooklyn Clark 354,Brooklyn,Clark,donor354@example.com,,555-000-354,,N/A,Former Parent,JP,Living
+FAM0376,Brooklyn Cook 1074,Brooklyn,Cook,donor1074@example.com,,555-000-1074,ChildA-1550,,Former Parent,JP,Living
+IND1444,Brooklyn Edwards 1444,Brooklyn,Edwards,,,,,N/A,Community,Community,Living
+FAM0787,Brooklyn Evans 474,Brooklyn,Evans,donor474@example.com,,555-000-474,,N/A,Former Parent,JP,Living
+FAM0795,Brooklyn Hall 1234,Brooklyn,Hall,donor1234@example.com,,555-000-1234,,N/A,Former Parent,JP,Living
+IND1139,Brooklyn Hall 314,Brooklyn,Hall,donor314@example.com,,,,N/A,Community,Community,Living
+IND1457,Brooklyn Harris 1457,Brooklyn,Harris,,,,,N/A,Community,Community,Living
+FAM0485,Brooklyn King 1434,Brooklyn,King,donor1434@example.com,,555-000-1434,,N/A,Former Parent,JP,Living
+IND1343,Brooklyn Lopez 1314,Brooklyn,Lopez,donor1314@example.com,,,,N/A,Community,Community,Living
+IND1055,Brooklyn Lopez 74,Brooklyn,Lopez,donor74@example.com,,,,N/A,Community,Community,Living
+IND0011,Brooklyn Lopez 794,Brooklyn,Lopez,donor794@example.com,,555-000-794,ChildA-1794,,Former Parent,La Casita,Living
+FAM0417,Brooklyn Martin 274,Brooklyn,Martin,donor274@example.com,,555-000-274,,N/A,Former Parent,JP,Living
+FAM0806,Brooklyn Martin 554,Brooklyn,Martin,donor554@example.com,,555-000-554,ChildA-1554,,Former Parent,La Casita,Living
+IND1424,Brooklyn Nguyen 1424,Brooklyn,Nguyen,,,,,N/A,Community,Community,Living
+IND1301,Brooklyn Perez 1474,Brooklyn,Perez,donor1474@example.com,,,,N/A,Community,Community,Living
+FAM0616,Brooklyn Perez 154,Brooklyn,Perez,donor154@example.com,,555-000-154,ChildA-1154,,Former Parent,La Casita,Living
+FAM0256,Brooklyn Perez 754,Brooklyn,Perez,donor754@example.com,,555-000-754,ChildA-1754,,Former Parent,La Casita,Living
+FAM0161,Brooklyn Phillips 1154,Brooklyn,Phillips,donor1154@example.com,,,,N/A,Community,Community,Living
+FAM0328,Brooklyn Phillips 514,Brooklyn,Phillips,donor514@example.com,,555-000-514,,N/A,Former Parent,JP,Living
+FAM0721,Brooklyn Rivera 1034,Brooklyn,Rivera,donor1034@example.com,,555-000-1034,ChildA-1440,,Former Parent,La Casita,Living
+FAM0067,Brooklyn Rivera 594,Brooklyn,Rivera,donor594@example.com,,555-000-594,ChildA-1334,,Former Parent,JP,Living
+IND1386,Brooklyn Smith 114,Brooklyn,Smith,donor114@example.com,,,,N/A,Community,Community,Living
+IND1481,Brooklyn Taylor 1481,Brooklyn,Taylor,,,,,N/A,Community,Community,Living
+FAM0988,Brooklyn Taylor 674,Brooklyn,Taylor,donor674@example.com,,555-000-674,,N/A,Former Parent,JP,Living
+FAM1409,Brooklyn Thomas 1409,Brooklyn,Thomas,,,,,N/A,Community,Community,Living
+IND1144,Brooklyn Thomas 434,Brooklyn,Thomas,donor434@example.com,,,,N/A,Community,Community,Living
+IND1318,Brooklyn Thompson 1194,Brooklyn,Thompson,donor1194@example.com,,,,N/A,Community,Community,Living
+IND1254,Brooklyn Thompson 954,Brooklyn,Thompson,donor954@example.com,,,,N/A,Community,Community,Living
+IND1363,Brooklyn Torres 914,Brooklyn,Torres,donor914@example.com,,,,N/A,Community,Community,Living
+FAM0867,Brooklyn White 234,Brooklyn,White,donor234@example.com,,,,N/A,Community,Community,Living
+FAM0435,Brooklyn Wright 194,Brooklyn,Wright,donor194@example.com,,555-000-194,ChildA-1194,Yes,Parent,HP,Living
+UNK1512,Bubblemania and Company LA,,,,,,,,Corporate Donor,,Active
+FAM0055,Cameron Allen 1331,Cameron,Allen,donor1331@example.com,,555-000-1331,ChildA-2331,,Former Parent,JP,Living
+FAM0731,Cameron Allen 1371,Cameron,Allen,donor1371@example.com,,555-000-1371,,N/A,Former Parent,JP,Living
+IND0535,Cameron Allen 171,Cameron,Allen,donor171@example.com,,555-000-171,ChildA-1171,,Former Parent,JP,Living
+FAM0797,Cameron Anderson 1491,Cameron,Anderson,donor1491@example.com,,555-000-1491,ChildA-1268,,Former Parent,La Casita,Living
+FAM0979,Cameron Anderson 571,Cameron,Anderson,donor571@example.com,,555-000-571,ChildA-1571,,Former Parent,JP,Living
+IND1217,Cameron Anderson 811,Cameron,Anderson,donor811@example.com,,,,N/A,Community,Community,Living
+IND1366,Cameron Campbell 1411,Cameron,Campbell,donor1411@example.com,,,,N/A,Community,Community,Living
+FAM0822,Cameron Campbell 251,Cameron,Campbell,donor251@example.com,,555-000-251,,N/A,Former Parent,JP,Living
+IND0250,Cameron Carter 1091,Cameron,Carter,donor1091@example.com,,555-000-1091,ChildA-2091,,Former Parent,La Casita,Living
+IND1244,Cameron Clark 931,Cameron,Clark,donor931@example.com,,,,N/A,Community,Community,Living
+FAM0483,Cameron Cook 1291,Cameron,Cook,donor1291@example.com,,555-000-1291,ChildA-1740,,Former Parent,La Casita,Living
+IND1133,Cameron Edwards 411,Cameron,Edwards,donor411@example.com,,,,N/A,Community,Community,Living
+FAM0550,Cameron Evans 51,Cameron,Evans,donor51@example.com,,555-000-51,ChildA-1051,,Former Parent,JP,Living
+FAM0032,Cameron Hall 291,Cameron,Hall,donor291@example.com,,,,N/A,Community,Community,Living
+IND0584,Cameron Hall 851,Cameron,Hall,donor851@example.com,,555-000-851,ChildA-1851,,Former Parent,La Casita,Living
+FAM0237,Cameron Lewis 1011,Cameron,Lewis,donor1011@example.com,,555-000-1011,,N/A,Former Parent,JP,Living
+IND0138,Cameron Martin 1451,Cameron,Martin,donor1451@example.com,,555-000-1451,ChildA-2451,,Former Parent,La Casita,Living
+IND1387,Cameron Morris 731,Cameron,Morris,donor731@example.com,,,,N/A,Community,Community,Living
+IND1483,Cameron Murphy 1483,Cameron,Murphy,,,,,N/A,Community,Community,Living
+IND0717,Cameron Nguyen 451,Cameron,Nguyen,donor451@example.com,,555-000-451,ChildA-1451,,Former Parent,JP,Living
+IND1068,Cameron Parker 11,Cameron,Parker,donor11@example.com,,,,N/A,Community,Community,Living
+FAM0664,Cameron Parker 531,Cameron,Parker,donor531@example.com,,,ChildA-1531,,Former Parent,La Casita,Living
+FAM0307,Cameron Phillips 691,Cameron,Phillips,donor691@example.com,,555-000-691,ChildA-1528,,Former Parent,JP,Living
+FAM0804,Cameron Phillips 891,Cameron,Phillips,donor891@example.com,,,ChildA-1279,,Former Parent,La Casita,Living
+IND1453,Cameron Scott 1453,Cameron,Scott,,,,,N/A,Community,Community,Living
+IND1278,Cameron Stewart 1051,Cameron,Stewart,donor1051@example.com,,,,N/A,Community,Community,Living
+IND0172,Cameron Stewart 131,Cameron,Stewart,donor131@example.com,,555-000-131,ChildA-1131,,Former Parent,La Casita,Living
+IND0450,Cameron Stewart 491,Cameron,Stewart,donor491@example.com,,555-000-491,ChildA-1491,,Former Parent,JP,Living
+FAM0871,Cameron Stewart 971,Cameron,Stewart,donor971@example.com,,555-000-971,ChildA-1938,,Former Parent,JP,Living
+FAM0765,Cameron Taylor 211,Cameron,Taylor,donor211@example.com,,555-000-211,ChildA-1211,,Former Parent,La Casita,Living
+FAM0080,Cameron Taylor 611,Cameron,Taylor,donor611@example.com,,555-000-611,ChildA-1602,Yes,Parent,HP,Living
+FAM0424,Cameron Taylor 91,Cameron,Taylor,donor91@example.com,,555-000-91,ChildA-1091,,Former Parent,La Casita,Living
+IND1188,Cameron Thomas 651,Cameron,Thomas,donor651@example.com,,,,N/A,Community,Community,Living
+FAM0313,Cameron Torres 331,Cameron,Torres,donor331@example.com,donor3312@example.com,555-000-331,ChildA-1331,,Former Parent,JP,Living
+FAM0898,Cameron Wright 1251,Cameron,Wright,donor1251@example.com,,555-000-1251,,N/A,Former Parent,JP,Living
+FAM0698,Cameron Young 1171,Cameron,Young,donor1171@example.com,,555-000-1171,ChildA-1943,,Former Parent,JP,Living
+IND0582,Cameron Young 1211,Cameron,Young,donor1211@example.com,,555-000-1211,ChildA-2211,,Former Parent,La Casita,Living
+IND0585,Casey Allen 1244,Casey,Allen,donor1244@example.com,,,,N/A,Community,Community,Living
+FAM0071,Casey Allen 444,Casey,Allen,donor444@example.com,,555-000-444,,N/A,Former Parent,HP,Living
+IND1402,Casey Brown 1324,Casey,Brown,donor1324@example.com,,555-000-1324,,N/A,Former Parent,La Casita,Living
+FAM1013,Casey Brown 84,Casey,Brown,donor84@example.com,,555-000-84,,N/A,Former Parent,JP,Living
+IND0187,Casey Campbell 164,Casey,Campbell,donor164@example.com,,555-000-164,,N/A,Former Parent,JP,Living
+IND1120,Casey Campbell 324,Casey,Campbell,donor324@example.com,,,,N/A,Community,Community,Living
+FAM0811,Casey Clark 604,Casey,Clark,donor604@example.com,,555-000-604,,N/A,Former Parent,JP,Living
+FAM0057,Casey Collins 764,Casey,Collins,donor764@example.com,,555-000-764,,N/A,Former Parent,JP,Living
+IND1158,Casey Collins 804,Casey,Collins,donor804@example.com,,,,N/A,Community,Community,Living
+FAM0242,Casey Cook 1284,Casey,Cook,donor1284@example.com,donor12842@example.com,,,N/A,Community,Community,Living
+FAM0656,Casey Cook 524,Casey,Cook,donor524@example.com,,555-000-524,ChildA-1388,,Former Parent,La Casita,Living
+FAM0700,Casey Cook 924,Casey,Cook,donor924@example.com,,555-000-924,ChildA-1173,,Parent,TD,Living
+FAM0943,Casey Evans 1444,Casey,Evans,donor1444@example.com,,555-000-1444,,N/A,Former Parent,JP,Living
+IND0186,Casey Evans 284,Casey,Evans,donor284@example.com,,,,N/A,Former Parent,JP,Living
+FAM0170,Casey Harris 724,Casey,Harris,donor724@example.com,,555-000-724,,N/A,Former Parent,JP,Living
+IND0052,Casey King 1004,Casey,King,donor1004@example.com,,,,N/A,Community,Community,Living
+FAM0971,Casey Lewis 44,Casey,Lewis,donor44@example.com,,555-000-44,ChildA-1044,,Former Parent,JP,Living
+FAM0006,Casey Morris 1124,Casey,Morris,donor1124@example.com,,555-000-1124,ChildA-1136,,Former Parent,JP,Living
+IND0838,Casey Murphy 124,Casey,Murphy,donor124@example.com,,555-000-124,ChildA-1124,,Former Parent,JP,Living
+IND1140,Casey Nguyen 484,Casey,Nguyen,donor484@example.com,,555-000-484,,N/A,Community,Community,Living
+IND0356,Casey Nguyen 884,Casey,Nguyen,donor884@example.com,,555-000-884,ChildA-1884,,Former Parent,La Casita,Living
+IND1445,Casey Parker 1445,Casey,Parker,,,,,N/A,Community,Community,Living
+IND1097,Casey Rivera 244,Casey,Rivera,donor244@example.com,,,,N/A,Community,Community,Living
+IND1256,Casey Roberts 964,Casey,Roberts,donor964@example.com,,,,N/A,Community,Community,Living
+IND1282,Casey Rogers 1084,Casey,Rogers,donor1084@example.com,,,,N/A,Community,Community,Living
+IND1458,Casey Scott 1458,Casey,Scott,,,,,N/A,Community,Community,Living
+FAM0568,Casey Stewart 1484,Casey,Stewart,donor1484@example.com,,555-000-1484,ChildA-2401,,Former Parent,HP,Living
+FAM0453,Casey Stewart 204,Casey,Stewart,donor204@example.com,,555-000-204,ChildA-1046,,Former Parent,JP,Living
+FAM0472,Casey Thomas 4,Casey,Thomas,donor4@example.com,,555-000-4,ChildA-1004,,Former Parent,La Casita,Living
+FAM0995,Casey Thompson 404,Casey,Thompson,donor404@example.com,,555-000-404,ChildA-1404,,Former Parent,La Casita,Living
+IND0936,Casey Thompson 684,Casey,Thompson,donor684@example.com,,555-000-684,,N/A,Former Parent,JP,Living
+FAM0943,Casey Torres 1044,Casey,Torres,donor1044@example.com,,555-000-1044,,N/A,Former Parent,JP,Living
+FAM0604,Casey Torres 1404,Casey,Torres,donor1404@example.com,,555-000-1404,ChildA-1905,,Former Parent,La Casita,Living
+IND1125,Casey Walker 1364,Casey,Walker,donor1364@example.com,,555-000-1364,,N/A,Former Parent,JP,Living
+FAM0487,Casey White 1164,Casey,White,donor1164@example.com,,555-000-1164,ChildA-1180,,Former Parent,HP,Living
+FAM0240,Casey Young 1204,Casey,Young,donor1204@example.com,,555-000-1204,,N/A,Former Parent,JP,Living
+IND1190,Casey Young 364,Casey,Young,donor364@example.com,,,,N/A,Community,Community,Living
+IND1170,Casey Young 564,Casey,Young,donor564@example.com,,,,N/A,Community,Community,Living
+FAM0405,Charlie Allen 613,Charlie,Allen,donor613@example.com,,555-000-613,ChildA-1467,,Former Parent,JP,Living
+FAM0027,Charlie Anderson 253,Charlie,Anderson,donor253@example.com,,555-000-253,,N/A,Former Parent,JP,Living
+FAM0599,Charlie Carter 453,Charlie,Carter,donor453@example.com,,555-000-453,,N/A,Former Parent,JP,Living
+FAM0908,Charlie Carter 493,Charlie,Carter,donor493@example.com,,555-000-493,,N/A,Former Parent,JP,Living
+IND1066,Charlie Collins 133,Charlie,Collins,donor133@example.com,,,,N/A,Community,Community,Living
+FAM0294,Charlie Cook 1173,Charlie,Cook,donor1173@example.com,,555-000-1173,,N/A,Former Parent,JP,Living
+IND1166,Charlie Cook 573,Charlie,Cook,donor573@example.com,,,,N/A,Community,Community,Living
+FAM0577,Charlie Edwards 1053,Charlie,Edwards,donor1053@example.com,,555-000-1053,ChildA-2053,,Former Parent,JP,Living
+IND0402,Charlie Edwards 1253,Charlie,Edwards,donor1253@example.com,,555-000-1253,ChildA-2253,,Former Parent,JP,Living
+FAM0396,Charlie Harris 1293,Charlie,Harris,donor1293@example.com,,555-000-1293,ChildA-1270,,Former Parent,JP,Living
+FAM0586,Charlie Harris 53,Charlie,Harris,donor53@example.com,,555-000-53,ChildA-1053,,Former Parent,JP,Living
+IND1455,Charlie Johnson 1455,Charlie,Johnson,,,,,N/A,Community,Community,Living
+FAM0858,Charlie Johnson 93,Charlie,Johnson,donor93@example.com,,555-000-93,ChildA-1093,,Former Parent,JP,Living
+FAM0589,Charlie Lopez 1333,Charlie,Lopez,donor1333@example.com,,555-000-1333,ChildA-1396,,Former Parent,JP,Living
+FAM0538,Charlie Lopez 333,Charlie,Lopez,donor333@example.com,,555-000-333,ChildA-1333,,Former Parent,JP,Living
+IND1294,Charlie Martin 1093,Charlie,Martin,donor1093@example.com,,,,N/A,Community,Community,Living
+IND1476,Charlie Martin 1476,Charlie,Martin,,,,,N/A,Community,Community,Living
+FAM1268,Charlie Mitchell 933,Charlie,Mitchell,donor933@example.com,,555-000-933,ChildA-1933,,Former Parent,JP,Living
+IND1087,Charlie Morris 213,Charlie,Morris,donor213@example.com,,,,N/A,Community,Community,Living
+FAM1020,Charlie Nguyen 1413,Charlie,Nguyen,donor1413@example.com,,555-000-1413,,N/A,Former Parent,JP,Living
+FAM0835,Charlie Parker 533,Charlie,Parker,donor533@example.com,,,ChildA-1417,,Former Parent,La Casita,Living
+FAM0148,Charlie Perez 293,Charlie,Perez,donor293@example.com,,555-000-293,ChildA-1293,,Former Parent,JP,Living
+IND0697,Charlie Phillips 1213,Charlie,Phillips,donor1213@example.com,,555-000-1213,ChildA-2213,,Former Parent,La Casita,Living
+UNK1187,Charlie Phillips 653,Charlie,Phillips,donor653@example.com,,,,N/A,Community,Community,Living
+IND1235,Charlie Phillips 893,Charlie,Phillips,donor893@example.com,,,,N/A,Community,Community,Living
+IND1045,Charlie Roberts 13,Charlie,Roberts,donor13@example.com,,,,N/A,Community,Community,Living
+FAM0428,Charlie Scott 1453,Charlie,Scott,donor1453@example.com,,555-000-1453,ChildA-1327,,Former Parent,La Casita,Living
+FAM0474,Charlie Stewart 1133,Charlie,Stewart,donor1133@example.com,,555-000-1133,,N/A,Former Parent,JP,Living
+IND1394,Charlie Stewart 1493,Charlie,Stewart,donor1493@example.com,,,,N/A,Community,Community,Living
+IND1259,Charlie Stewart 973,Charlie,Stewart,donor973@example.com,,,,N/A,Community,Community,Living
+FAM0700,Charlie Thomas 173,Charlie,Thomas,donor173@example.com,,555-000-173,ChildA-1173,,Parent,TD,Living
+FAM0536,Charlie Thompson 373,Charlie,Thompson,donor373@example.com,,555-000-373,ChildA-1373,,Former Parent,La Casita,Living
+UNK1400,Charlie Thompson 853,Charlie,Thompson,donor853@example.com,,555-000-853,ChildA-1853,,Former Parent,La Casita,Living
+IND1157,Charlie Torres 733,Charlie,Torres,donor733@example.com,,,,N/A,Community,Community,Living
+FAM0893,Charlie Walker 693,Charlie,Walker,donor693@example.com,,555-000-693,ChildA-1351,,Former Parent,La Casita,Living
+FAM1427,Charlie White 1427,Charlie,White,,,,,N/A,Community,Community,Living
+FAM1024,Charlie White 773,Charlie,White,donor773@example.com,,,ChildA-1248,N/A,Former Parent,La Casita,Living
+FAM0811,Charlie Young 1373,Charlie,Young,donor1373@example.com,,555-000-1373,,N/A,Former Parent,JP,Living
+UNK1513,"Child Related Research, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1514,City Of Los Angeles Giving Fund (ASNC),,,,,,,,Corporate Donor,,Active
+UNK1515,Community Discount Card Fundraising,,,,,,,,Corporate Donor,,Active
+UNK1516,Controller Ron Galperin,,,,,,,,Corporate Donor,,Defunct
+IND0837,Corey Adams 1347,Corey,Adams,donor1347@example.com,,555-000-1347,,N/A,Former Parent,JP,Living
+IND1223,Corey Anderson 67,Corey,Anderson,donor67@example.com,,,,N/A,Community,Community,Living
+FAM0926,Corey Campbell 1307,Corey,Campbell,donor1307@example.com,,555-000-1307,ChildA-2307,,Former Parent,JP,Living
+FAM0833,Corey Clark 827,Corey,Clark,donor827@example.com,,555-000-827,ChildA-1439,,Former Parent,La Casita,Living
+UNK1478,Corey Collins 1478,Corey,Collins,,,,,N/A,Community,Community,Living
+IND0791,Corey Collins 227,Corey,Collins,donor227@example.com,,555-000-227,ChildA-1227,,Former Parent,La Casita,Living
+FAM0148,Corey Flores 427,Corey,Flores,donor427@example.com,,555-000-427,ChildA-1293,,Former Parent,JP,Living
+FAM0889,Corey Flores 587,Corey,Flores,donor587@example.com,,555-000-587,ChildA-1587,,Former Parent,JP,Living
+FAM0086,Corey Hall 347,Corey,Hall,donor347@example.com,,555-000-347,,N/A,Former Parent,La Casita,Living
+FAM0862,Corey Harris 147,Corey,Harris,donor147@example.com,,555-000-147,ChildA-1147,,Former Parent,JP,Living
+FAM0405,Corey Lopez 467,Corey,Lopez,donor467@example.com,,555-000-467,ChildA-1467,,Former Parent,JP,Living
+IND1322,Corey Martin 1227,Corey,Martin,donor1227@example.com,,,,N/A,Community,Community,Living
+FAM0315,Corey Martin 1267,Corey,Martin,donor1267@example.com,,555-000-1267,ChildA-1752,,Former Parent,HP,Living
+IND0910,Corey Martin 1467,Corey,Martin,donor1467@example.com,,555-000-1467,ChildA-2467,,Former Parent,La Casita,Living
+IND1103,Corey Morris 267,Corey,Morris,donor267@example.com,,,,N/A,Community,Community,Living
+IND1124,Corey Morris 387,Corey,Morris,donor387@example.com,,,,N/A,Community,Community,Living
+IND1156,Corey Morris 507,Corey,Morris,donor507@example.com,,,,N/A,Community,Community,Living
+FAM0676,Corey Morris 787,Corey,Morris,donor787@example.com,,555-000-787,ChildA-1032,Yes,Parent,HP,Living
+FAM0398,Corey Murphy 547,Corey,Murphy,donor547@example.com,,555-000-547,,N/A,Former Parent,JP,Living
+FAM0014,Corey Nguyen 747,Corey,Nguyen,donor747@example.com,,,ChildA-1747,,Former Parent,JP,Living
+IND1274,Corey Perez 1067,Corey,Perez,donor1067@example.com,,,,N/A,Community,Community,Living
+FAM0020,Corey Perez 307,Corey,Perez,donor307@example.com,,,,N/A,Community,Community,Living
+FAM0760,Corey Roberts 27,Corey,Roberts,donor27@example.com,,,ChildA-1027,,Former Parent,La Casita,Living
+FAM0433,Corey Rogers 1107,Corey,Rogers,donor1107@example.com,,555-000-1107,,N/A,Former Parent,JP,Living
+IND1183,Corey Rogers 627,Corey,Rogers,donor627@example.com,,,,N/A,Community,Community,Living
+FAM0969,Corey Scott 1147,Corey,Scott,donor1147@example.com,,555-000-1147,ChildA-2015,,Former Parent,JP,Living
+IND1252,Corey Scott 947,Corey,Scott,donor947@example.com,,,,N/A,Community,Community,Living
+IND0163,Corey Stewart 707,Corey,Stewart,donor707@example.com,,555-000-707,ChildA-1707,,Former Parent,La Casita,Living
+IND1470,Corey Taylor 1470,Corey,Taylor,,,,,N/A,Community,Community,Living
+IND1250,Corey Taylor 907,Corey,Taylor,donor907@example.com,,,,N/A,Community,Community,Living
+IND1356,Corey Thomas 1387,Corey,Thomas,donor1387@example.com,,,,N/A,Community,Community,Living
+IND1371,Corey Thomas 1427,Corey,Thomas,donor1427@example.com,,,,N/A,Community,Community,Living
+FAM0103,Corey Thomas 667,Corey,Thomas,donor667@example.com,,,,N/A,Former Parent,JP,Living
+IND0214,Corey Walker 1187,Corey,Walker,donor1187@example.com,,555-000-1187,,N/A,Former Parent,JP,Living
+FAM0177,Corey Walker 867,Corey,Walker,donor867@example.com,,555-000-867,ChildA-1642,,Former Parent,La Casita,Living
+IND0960,Corey Wright 107,Corey,Wright,donor107@example.com,donor1072@example.com,,,N/A,Community,Community,Living
+IND1413,Corey Young 1413,Corey,Young,,,,,N/A,Community,Community,Living
+UNK1517,Costume Supercenter,,,,,,,,Corporate Donor,,Active
+UNK1518,Council Member Paul Koretz Cd 5,,,,,,,,Corporate Donor,,Defunct
+UNK1519,Custom Ink,,,,,,,,Corporate Donor,,Active
+IND1308,Dakota Adams 1176,Dakota,Adams,donor1176@example.com,,,,N/A,Community,Community,Living
+FAM0193,Dakota Adams 416,Dakota,Adams,donor416@example.com,,555-000-416,,N/A,Former Parent,JP,Living
+FAM0928,Dakota Adams 536,Dakota,Adams,donor536@example.com,,555-000-536,,N/A,Former Parent,JP,Living
+IND1181,Dakota Anderson 616,Dakota,Anderson,donor616@example.com,,,,N/A,Community,Community,Living
+IND0661,Dakota Campbell 1456,Dakota,Campbell,donor1456@example.com,,555-000-1456,ChildA-2456,,Former Parent,La Casita,Living
+FAM0593,Dakota Campbell 216,Dakota,Campbell,donor216@example.com,,555-000-216,ChildA-1216,Yes,Parent,HP,Living
+FAM0623,Dakota Campbell 256,Dakota,Campbell,donor256@example.com,,555-000-256,,N/A,Former Parent,JP,Living
+IND1449,Dakota Collins 1449,Dakota,Collins,,,,,N/A,Community,Community,Living
+IND0557,Dakota Cook 1216,Dakota,Cook,donor1216@example.com,,555-000-1216,,N/A,Parent,TD,Living
+FAM0354,Dakota Edwards 1256,Dakota,Edwards,donor1256@example.com,,555-000-1256,ChildA-1823,,Former Parent,La Casita,Living
+FAM0431,Dakota Edwards 456,Dakota,Edwards,donor456@example.com,,,,N/A,Former Parent,JP,Living
+FAM0918,Dakota Evans 1016,Dakota,Evans,donor1016@example.com,,555-000-1016,ChildA-1495,,Former Parent,JP,Living
+FAM0489,Dakota Hall 1296,Dakota,Hall,donor1296@example.com,,555-000-1296,ChildA-2296,,Former Parent,JP,Living
+FAM1015,Dakota Hall 816,Dakota,Hall,donor816@example.com,,,,N/A,Community,Community,Living
+FAM0602,Dakota Harris 896,Dakota,Harris,donor896@example.com,,555-000-896,,N/A,Former Parent,JP,Living
+IND1459,Dakota Johnson 1459,Dakota,Johnson,,,,,N/A,Community,Community,Living
+FAM0006,Dakota King 136,Dakota,King,donor136@example.com,,555-000-136,ChildA-1136,,Former Parent,JP,Living
+FAM0154,Dakota King 496,Dakota,King,donor496@example.com,,555-000-496,,N/A,Former Parent,JP,Living
+IND0639,Dakota Lewis 776,Dakota,Lewis,donor776@example.com,,555-000-776,ChildA-1776,,Former Parent,La Casita,Living
+IND0365,Dakota Lopez 976,Dakota,Lopez,donor976@example.com,,555-000-976,ChildA-1976,,Former Parent,La Casita,Living
+FAM0574,Dakota Mitchell 1376,Dakota,Mitchell,donor1376@example.com,,,ChildA-2245,,Former Parent,La Casita,Living
+FAM0059,Dakota Mitchell 336,Dakota,Mitchell,donor336@example.com,,555-000-336,ChildA-1059,,Former Parent,JP,Living
+IND1043,Dakota Morris 96,Dakota,Morris,donor96@example.com,,,,N/A,Community,Community,Living
+FAM0055,Dakota Murphy 1416,Dakota,Murphy,donor1416@example.com,,555-000-1416,ChildA-2331,,Former Parent,JP,Living
+IND0363,Dakota Nguyen 1496,Dakota,Nguyen,donor1496@example.com,,555-000-1496,ChildA-2496,,Former Parent,La Casita,Living
+IND0612,Dakota Parker 936,Dakota,Parker,donor936@example.com,,555-000-936,ChildA-1936,,Former Parent,La Casita,Living
+IND0534,Dakota Perez 16,Dakota,Perez,donor16@example.com,,555-000-16,,N/A,Former Parent,JP,Living
+FAM0806,Dakota Phillips 1056,Dakota,Phillips,donor1056@example.com,,555-000-1056,ChildA-1554,,Former Parent,La Casita,Living
+IND0042,Dakota Rivera 1096,Dakota,Rivera,donor1096@example.com,,555-000-1096,ChildA-2096,,Former Parent,La Casita,Living
+FAM0200,Dakota Scott 656,Dakota,Scott,donor656@example.com,,555-000-656,ChildA-1656,,Parent,TD,Living
+FAM0878,Dakota Stewart 1136,Dakota,Stewart,donor1136@example.com,,555-000-1136,ChildA-2136,,Board Member,HP,Living
+IND1080,Dakota Stewart 176,Dakota,Stewart,donor176@example.com,,,,N/A,Community,Community,Living
+IND1034,Dakota Stewart 376,Dakota,Stewart,donor376@example.com,,,,N/A,Community,Community,Living
+FAM0920,Dakota Taylor 738,Dakota,Taylor,donor736@example.com,,555-000-736,ChildA-1454,,Former Parent,JP,Living
+IND0650,Dakota Thomas 296,Dakota,Thomas,donor296@example.com,,555-000-296,ChildA-1296,,Former Parent,La Casita,Living
+UNK0232,Dakota Thompson 576,Dakota,Thompson,donor576@example.com,,555-000-576,,N/A,Former Parent,La Casita,Living
+IND1267,Dakota Walker 1336,Dakota,Walker,donor1336@example.com,,,,N/A,Community,Community,Living
+FAM0900,Dakota Walker 56,Dakota,Walker,donor56@example.com,,,,N/A,Community,Community,Living
+UNK1520,"David E. Ryu, Councilmember",,,,,,,,Corporate Donor,,Defunct
+UNK1521,Discount School Supply,,,,,,,,Corporate Donor,,Active
+UNK1522,Dog Haus LLC,,,,,,,,Corporate Donor,,Active
+IND1098,Drew Anderson 247,Drew,Anderson,donor247@example.com,,,,N/A,Community,Community,Living
+FAM0428,Drew Brown 327,Drew,Brown,donor327@example.com,,555-000-327,ChildA-1327,,Former Parent,La Casita,Living
+IND1333,Drew Campbell 1247,Drew,Campbell,donor1247@example.com,,,,N/A,Community,Community,Living
+IND1446,Drew Clark 1446,Drew,Clark,,,,,N/A,Community,Community,Living
+FAM0320,Drew Collins 1167,Drew,Collins,donor1167@example.com,,555-000-1167,ChildA-2117,,Former Parent,La Casita,Living
+IND0471,Drew Collins 687,Drew,Collins,donor687@example.com,,555-000-687,ChildA-1687,,Former Parent,La Casita,Living
+UNK1473,Drew Edwards 1473,Drew,Edwards,,,,,N/A,Community,Community,Living
+FAM0292,Drew Edwards 287,Drew,Edwards,donor287@example.com,,555-000-287,,N/A,Former Parent,JP,Living
+FAM0781,Drew Evans 1207,Drew,Evans,donor1207@example.com,,555-000-1207,ChildA-1799,Yes,Parent,HP,Living
+FAM0864,Drew Johnson 1407,Drew,Johnson,donor1407@example.com,,555-000-1407,ChildA-2325,,Parent,TD,Living
+FAM0736,Drew King 767,Drew,King,donor767@example.com,,555-000-767,ChildA-1658,,Former Parent,La Casita,Living
+FAM0340,Drew Lewis 1287,Drew,Lewis,donor1287@example.com,,,,N/A,Community,Community,Living
+FAM0272,Drew Lewis 1447,Drew,Lewis,donor1447@example.com,,555-000-1447,ChildA-1939,,Former Parent,JP,Living
+IND1177,Drew Lewis 607,Drew,Lewis,donor607@example.com,,,,N/A,Community,Community,Living
+IND0353,Drew Lopez 847,Drew,Lopez,donor847@example.com,,555-000-847,ChildA-1847,,Former Parent,La Casita,Living
+IND1257,Drew Lopez 967,Drew,Lopez,donor967@example.com,,,,N/A,Former Board Member,Community,Living
+FAM0815,Drew Martin 447,Drew,Martin,donor447@example.com,,555-000-447,,N/A,Former Parent,JP,Living
+FAM0690,Drew Martin 927,Drew,Martin,donor927@example.com,,,ChildA-1927,,Former Parent,La Casita,Living
+IND1052,Drew Murphy 47,Drew,Murphy,donor47@example.com,,,,N/A,Community,Community,Living
+IND0493,Drew Murphy 807,Drew,Murphy,donor807@example.com,,555-000-807,ChildA-1807,,Former Parent,La Casita,Living
+IND0780,Drew Perez 127,Drew,Perez,donor127@example.com,,555-000-127,ChildA-1127,,Parent,TD,Living
+FAM1205,Drew Perez 727,Drew,Perez,donor727@example.com,,,,N/A,Community,Community,Living
+FAM0820,Drew Rivera 1367,Drew,Rivera,donor1367@example.com,,555-000-1367,ChildA-2049,,Former Parent,JP,Living
+IND0499,Drew Rivera 1487,Drew,Rivera,donor1487@example.com,donor14872@example.com,555-000-1487,ChildA-2487,,Former Parent,JP,Living
+FAM0494,Drew Rivera 527,Drew,Rivera,donor527@example.com,,555-000-527,ChildA-1197,,Former Parent,JP,Living
+FAM0515,Drew Roberts 887,Drew,Roberts,donor887@example.com,,555-000-887,ChildA-1360,,Former Parent,JP,Living
+FAM0282,Drew Rogers 1087,Drew,Rogers,donor1087@example.com,,555-000-1087,ChildA-1957,,Former Parent,JP,Living
+IND1289,Drew Rogers 1127,Drew,Rogers,donor1127@example.com,,,,N/A,Community,Community,Living
+FAM0419,Drew Rogers 407,Drew,Rogers,donor407@example.com,,555-000-407,,N/A,Former Parent,JP,Living
+FAM0979,Drew Scott 1047,Drew,Scott,donor1047@example.com,,555-000-1047,ChildA-1571,,Former Parent,JP,Living
+FAM0383,Drew Scott 487,Drew,Scott,donor487@example.com,,,ChildA-1487,,Former Parent,La Casita,Living
+IND1078,Drew Thompson 167,Drew,Thompson,donor167@example.com,,,,N/A,Community,Community,Living
+IND1417,Drew Torres 1417,Drew,Torres,,,,,N/A,Community,Community,Living
+FAM0671,Drew Torres 87,Drew,Torres,donor87@example.com,,,ChildA-1087,,Former Parent,La Casita,Living
+FAM0082,Drew Walker 367,Drew,Walker,donor367@example.com,,555-000-367,ChildA-1037,Yes,Parent,HP,Living
+FAM0014,Drew White 1327,Drew,White,donor1327@example.com,,555-000-1327,ChildA-1747,,Former Parent,JP,Living
+IND1106,Drew White 567,Drew,White,donor567@example.com,,,,N/A,Community,Community,Living
+FAM0711,Drew White 7,Drew,White,donor7@example.com,,555-000-7,ChildA-1007,,Former Parent,JP,Living
+UNK1523,Drivewise Auto,,,,,,,,Corporate Donor,,Active
+FAM0431,Dylan Allen 1223,Dylan,Allen,donor1223@example.com,,555-000-1223,,N/A,Former Parent,JP,Living
+IND0496,Dylan Anderson,Dylan,Anderson,donor1103@example.com,,555-000-1103,ChildA-2103,,Former Parent,La Casita,Living
+IND0573,Dylan Anderson 1023,Dylan,Anderson,donor1023@example.com,,555-000-1023,ChildA-2023,,Former Parent,La Casita,Living
+IND0156,Dylan Campbell 1423,Dylan,Campbell,donor1423@example.com,,555-000-1423,ChildA-2423,,Former Parent,La Casita,Living
+IND0803,Dylan Campbell 263,Dylan,Campbell,donor263@example.com,,555-000-263,ChildA-1263,,Former Parent,La Casita,Living
+FAM0795,Dylan Carter 223,Dylan,Carter,donor223@example.com,,555-000-223,,N/A,Former Parent,JP,Living
+FAM0664,Dylan Clark 1303,Dylan,Clark,donor1303@example.com,,555-000-1303,ChildA-1531,,Former Parent,La Casita,Living
+IND0125,Dylan Collins 503,Dylan,Collins,donor503@example.com,,555-000-503,ChildA-1503,,Parent,TD,Living
+FAM0981,Dylan Collins 583,Dylan,Collins,donor583@example.com,,555-000-583,,N/A,Former Parent,JP,Living
+IND0401,Dylan Cook 63,Dylan,Cook,donor63@example.com,,555-000-63,ChildA-1063,,Former Parent,La Casita,Living
+FAM0354,Dylan Cook 823,Dylan,Cook,donor823@example.com,,555-000-823,ChildA-1823,,Former Parent,La Casita,Living
+FAM0698,Dylan Cook 943,Dylan,Cook,donor943@example.com,,555-000-943,ChildA-1943,,Former Parent,JP,Living
+FAM1165,Dylan Evans 1263,Dylan,Evans,donor1263@example.com,,,,N/A,Community,Community,Living
+IND1088,Dylan Evans 303,Dylan,Evans,donor303@example.com,,,,N/A,Community,Community,Living
+FAM1450,Dylan Hall 1450,Dylan,Hall,,,,,N/A,Community,Community,Living
+FAM0993,Dylan King 543,Dylan,King,donor543@example.com,,,,N/A,Community,Community,Living
+IND0421,Dylan Lopez 23,Dylan,Lopez,donor23@example.com,,555-000-23,,N/A,Former Parent,JP,Living
+IND1331,Dylan Lopez 743,Dylan,Lopez,donor743@example.com,,,,N/A,Community,Community,Living
+FAM0368,Dylan Mitchell 423,Dylan,Mitchell,donor423@example.com,,555-000-423,ChildA-1423,,Former Parent,La Casita,Living
+IND0296,Dylan Morris 1463,Dylan,Morris,donor1463@example.com,,555-000-1463,ChildA-2463,,Former Parent,La Casita,Living
+FAM0606,Dylan Morris 383,Dylan,Morris,donor383@example.com,,555-000-383,,N/A,Former Parent,JP,Living
+IND0751,Dylan Morris 623,Dylan,Morris,donor623@example.com,,555-000-623,,N/A,Former Parent,JP,Living
+IND0684,Dylan Murphy 143,Dylan,Murphy,donor143@example.com,,555-000-143,ChildA-1143,,Former Parent,La Casita,Living
+IND0380,Dylan Parker 983,Dylan,Parker,donor983@example.com,,555-000-983,ChildA-1983,,Former Parent,La Casita,Living
+FAM0146,Dylan Perez 1183,Dylan,Perez,donor1183@example.com,,555-000-1183,ChildA-2183,,Parent,TD,Living
+IND1355,Dylan Phillips 1383,Dylan,Phillips,donor1383@example.com,,,,N/A,Community,Community,Living
+FAM0284,Dylan Roberts 1343,Dylan,Roberts,donor1343@example.com,,555-000-1343,ChildA-1473,,Parent,TD,Living
+IND0978,Dylan Smith 1063,Dylan,Smith,donor1063@example.com,,,,N/A,Former Parent,JP,Living
+FAM0956,Dylan Smith 1143,Dylan,Smith,donor1143@example.com,,555-000-1143,,N/A,Former Parent,JP,Living
+FAM0760,Dylan Smith 463,Dylan,Smith,donor463@example.com,,555-000-463,ChildA-1027,,Former Parent,La Casita,Living
+FAM0669,Dylan Stewart 183,Dylan,Stewart,donor183@example.com,,555-000-183,ChildA-1183,,Former Parent,La Casita,Living
+FAM0743,Dylan Thomas 783,Dylan,Thomas,donor783@example.com,,,ChildA-1480,,Former Parent,La Casita,Living
+FAM0885,Dylan Thompson 663,Dylan,Thompson,donor663@example.com,,555-000-663,,N/A,Former Parent,JP,Living
+FAM0678,Dylan Walker 103,Dylan,Walker,donor103@example.com,,,ChildA-1103,,Former Parent,La Casita,Living
+IND1118,Dylan Wright 343,Dylan,Wright,donor343@example.com,,,,N/A,Community,Community,Living
+IND1248,Dylan Wright 863,Dylan,Wright,donor863@example.com,,,,N/A,Community,Community,Living
+FAM1028,Dylan Young 703,Dylan,Young,donor703@example.com,,,,N/A,Community,Community,Living
+UNK1524,Ecophones,,,,,,,,Corporate Donor,,Active
+FAM0212,Eden Adams 1035,Eden,Adams,donor1035@example.com,,555-000-1035,,N/A,Former Parent,JP,Living
+FAM0997,Eden Adams 1235,Eden,Adams,donor1235@example.com,,,,N/A,Community,Community,Living
+FAM0258,Eden Adams 35,Eden,Adams,donor35@example.com,,555-000-35,,N/A,Former Parent,JP,Living
+FAM0702,Eden Allen 795,Eden,Allen,donor795@example.com,,555-000-795,,N/A,Former Parent,JP,Living
+FAM0985,Eden Anderson 1075,Eden,Anderson,donor1075@example.com,,555-000-1075,ChildA-2075,,Former Parent,JP,Living
+IND0137,Eden Anderson 555,Eden,Anderson,donor555@example.com,,555-000-555,,N/A,Former Parent,JP,Living
+IND1390,Eden Carter 1475,Eden,Carter,donor1475@example.com,,,,N/A,Community,Community,Living
+FAM0688,Eden Carter 955,Eden,Carter,donor955@example.com,,555-000-955,ChildA-1156,,Former Parent,La Casita,Living
+IND0839,Eden Collins 1155,Eden,Collins,donor1155@example.com,,555-000-1155,,N/A,Former Parent,JP,Living
+FAM0301,Eden Collins 275,Eden,Collins,donor275@example.com,,555-000-275,,N/A,Former Parent,JP,Living
+FAM0914,Eden Edwards 1115,Eden,Edwards,donor1115@example.com,,555-000-1115,,N/A,Former Parent,,Living
+IND1145,Eden Evans 435,Eden,Evans,donor435@example.com,,,,N/A,Community,Community,Living
+IND1200,Eden Hall 715,Eden,Hall,donor715@example.com,,,,N/A,Community,Community,Living
+IND0649,Eden Hall 75,Eden,Hall,donor75@example.com,,555-000-75,ChildA-1075,,Former Parent,La Casita,Living
+IND0733,Eden Hall 915,Eden,Hall,donor915@example.com,,555-000-915,ChildA-1915,,Former Parent,La Casita,Living
+IND0668,Eden Harris 1435,Eden,Harris,donor1435@example.com,,555-000-1435,ChildA-2435,,Former Parent,La Casita,Living
+FAM0212,Eden King 755,Eden,King,donor755@example.com,,555-000-755,,N/A,Former Parent,JP,Living
+FAM0625,Eden Lewis 355,Eden,Lewis,donor355@example.com,,555-000-355,ChildA-1355,,Former Parent,JP,Living
+IND1317,Eden Morris 1195,Eden,Morris,donor1195@example.com,,,,N/A,Community,Community,Living
+FAM1441,Eden Nguyen 1441,Eden,Nguyen,,,,,N/A,Community,Community,Living
+FAM0478,Eden Perez 195,Eden,Perez,donor195@example.com,,555-000-195,ChildA-1195,,Former Parent,La Casita,Living
+IND0524,Eden Perez 235,Eden,Perez,donor235@example.com,,555-000-235,ChildA-1235,,Former Parent,La Casita,Living
+IND0526,Eden Rivera 115,Eden,Rivera,donor115@example.com,,555-000-115,,N/A,Former Parent,JP,Living
+FAM0631,Eden Rivera 155,Eden,Rivera,donor155@example.com,,555-000-155,ChildA-1155,,Former Parent,La Casita,Living
+UNK1135,Eden Scott 1498,,,donor1498@example.com,,,,N/A,Community,Community,Living
+IND1075,Eden Scott 875,Eden,Scott,donor875@example.com,,,,N/A,Community,Community,Living
+FAM0579,Eden Smith 995,Eden,Smith,donor995@example.com,,,,N/A,Community,Community,Living
+FAM1205,Eden Stewart 515,Eden,Stewart,donor515@example.com,,,,N/A,Community,Community,Living
+FAM0502,Eden Stewart 675,Eden,Stewart,donor675@example.com,,555-000-675,ChildA-1443,,Former Parent,La Casita,Living
+FAM0043,Eden Taylor 1315,Eden,Taylor,donor1315@example.com,,555-000-1315,,N/A,Community,Community,Living
+IND1492,Eden Taylor 1492,Eden,Taylor,,,,,N/A,Community,Community,Living
+FAM1039,Eden Taylor 315,Eden,Taylor,donor315@example.com,,,,N/A,Community,Community,Living
+IND1359,Eden Thompson 1395,Eden,Thompson,donor1395@example.com,,,,N/A,Community,Community,Living
+IND1295,Eden Torres 475,Eden,Torres,donor475@example.com,,,,N/A,Community,Community,Living
+FAM0118,Eden Walker 1355,Eden,Walker,donor1355@example.com,,555-000-1355,ChildA-2057,,Former Parent,JP,Living
+IND1425,Eden Walker 1425,Eden,Walker,,,,,N/A,Community,Community,Living
+IND0470,Eden Wright 635,Eden,Wright,donor635@example.com,,555-000-635,ChildA-1635,,Former Parent,La Casita,Living
+IND0109,Eden Wright 835,Eden,Wright,donor835@example.com,,555-000-835,,N/A,Former Parent,JP,Living
+FAM0067,Elliot Carter 334,Elliot,Carter,donor334@example.com,,555-000-334,ChildA-1334,,Former Parent,JP,Living
+IND0813,Elliot Clark 134,Elliot,Clark,donor134@example.com,,555-000-134,ChildA-1134,,Former Parent,La Casita,Living
+FAM0247,Elliot Clark 1374,Elliot,Clark,donor1374@example.com,,555-000-1374,ChildA-1025,,Former Parent,La Casita,Living
+FAM0961,Elliot Clark 774,Elliot,Clark,donor774@example.com,,555-000-774,,N/A,Former Parent,JP,Living
+FAM1503,Elliot Collins 1503,Elliot,Collins,,,,,N/A,Community,Community,Living
+IND1136,Elliot Collins 414,Elliot,Collins,donor414@example.com,,,,N/A,Community,Community,Living
+FAM0357,Elliot Cook 1214,Elliot,Cook,donor1214@example.com,,,ChildA-1206,,Former Parent,La Casita,Living
+FAM0669,Elliot Cook 372,Elliot,Cook,donor374@example.com,,555-000-374,ChildA-1183,,Former Parent,La Casita,Living
+FAM0286,Elliot Cook 734,Elliot,Cook,donor734@example.com,,555-000-734,,N/A,Former Parent,JP,Living
+FAM0351,Elliot Evans 214,Elliot,Evans,donor214@example.com,,555-000-214,,N/A,Former Parent,JP,Living
+IND1353,Elliot Flores 1334,Elliot,Flores,donor1334@example.com,,,,N/A,Community,Community,Living
+IND0841,Elliot Flores 294,Elliot,Flores,donor294@example.com,,555-000-294,ChildA-1294,,Former Parent,La Casita,Living
+IND1272,Elliot Harris 1014,Elliot,Harris,donor1014@example.com,,,,N/A,Community,Community,Living
+IND0151,Elliot Harris 654,Elliot,Harris,donor654@example.com,,555-000-654,ChildA-1654,,Former Parent,JP,Living
+IND0130,Elliot Johnson 934,Elliot,Johnson,donor934@example.com,,555-000-934,ChildA-1934,,Former Parent,La Casita,Living
+FAM0552,Elliot Lewis 14,Elliot,Lewis,donor14@example.com,,555-000-14,ChildA-1014,,Former Parent,JP,Living
+IND0576,Elliot Lewis 854,Elliot,Lewis,donor854@example.com,,555-000-854,ChildA-1854,,Former Parent,JP,Living
+IND0597,Elliot Martin 1134,Elliot,Martin,donor1134@example.com,,555-000-1134,ChildA-2134,,Former Parent,JP,Living
+IND0560,Elliot Mitchell 254,Elliot,Mitchell,donor254@example.com,,555-000-254,ChildA-1254,,Former Parent,La Casita,Living
+IND1395,Elliot Morris 1494,Elliot,Morris,donor1494@example.com,,,,N/A,Community,Community,Living
+IND1176,Elliot Morris 574,Elliot,Morris,donor574@example.com,,,,N/A,Community,Community,Living
+IND1220,Elliot Murphy 174,Elliot,Murphy,donor174@example.com,,,,N/A,Community,Community,Living
+FAM0954,Elliot Parker 1054,Elliot,Parker,donor1054@example.com,,555-000-1054,,N/A,Former Parent,JP,Living
+IND0643,Elliot Parker 1454,Elliot,Parker,donor1454@example.com,,555-000-1454,ChildA-2454,,Former Parent,La Casita,Living
+FAM0061,Elliot Perez 1094,Elliot,Perez,donor1094@example.com,,555-000-1094,,N/A,Former Parent,JP,Living
+IND1059,Elliot Perez 94,Elliot,Perez,donor94@example.com,,,,N/A,Community,Community,Living
+IND1101,Elliot Rivera 534,Elliot,Rivera,donor534@example.com,,,,N/A,Community,Community,Living
+FAM0385,Elliot Roberts 974,Elliot,Roberts,donor974@example.com,,555-000-974,ChildA-1008,,Former Parent,JP,Living
+IND1334,Elliot Rogers 1254,Elliot,Rogers,donor1254@example.com,,,,N/A,Community,Community,Living
+FAM0920,Elliot Stewart 454,Elliot,Stewart,donor454@example.com,,555-000-454,ChildA-1454,,Former Parent,JP,Living
+FAM1427,Elliot Thomas 1427,Elliot,Thomas,,,,,N/A,Community,Community,Living
+IND1099,Elliot Thomas 894,Elliot,Thomas,donor894@example.com,,,,N/A,Community,Community,Living
+FAM0188,Elliot White 1174,Elliot,White,donor1174@example.com,,555-000-1174,ChildA-2174,,Former Parent,JP,Living
+IND0953,Elliot White 1414,Elliot,White,donor1414@example.com,,555-000-1414,,N/A,Former Parent,JP,Living
+IND0461,Elliot White 494,Elliot,White,donor494@example.com,,555-000-494,ChildA-1494,,Former Parent,La Casita,Living
+FAM0095,Elliot White 614,Elliot,White,donor614@example.com,,555-000-614,ChildA-1466,,Parent,TD,Living
+IND1196,Elliot Wright 694,Elliot,Wright,donor694@example.com,,,,N/A,Community,Community,Living
+IND1404,Elliot Young 1404,Elliot,Young,,,,,N/A,Community,Community,Living
+FAM0609,Emerson Adams 782,Emerson,Adams,donor782@example.com,,555-000-782,,N/A,Former Parent,JP,Living
+IND0655,Emerson Allen 542,Emerson,Allen,donor542@example.com,,555-000-542,ChildA-1542,,Former Parent,La Casita,Living
+FAM0945,Emerson Anderson 862,Emerson,Anderson,donor862@example.com,,,,N/A,Community,Community,Living
+FAM0887,Emerson Brown 1382,Emerson,Brown,donor1382@example.com,,555-000-1382,ChildA-1603,,Former Parent,JP,Living
+IND1107,Emerson Clark 302,Emerson,Clark,donor302@example.com,,,,N/A,Community,Community,Living
+FAM0748,Emerson Clark 662,Emerson,Clark,donor662@example.com,,555-000-662,ChildA-1662,,Former Parent,JP,Living
+IND1246,Emerson Clark 902,Emerson,Clark,donor902@example.com,,,,N/A,Community,Community,Living
+FAM0359,Emerson Collins 742,Emerson,Collins,donor742@example.com,,555-000-742,ChildA-1220,,Former Parent,La Casita,Living
+FAM0409,Emerson Edwards 1462,Emerson,Edwards,donor1462@example.com,,555-000-1462,ChildA-1420,Yes,Parent,HP,Living
+IND1048,Emerson Edwards 22,Emerson,Edwards,donor22@example.com,,,,N/A,Former Board Member,Community,Living
+IND1100,Emerson Edwards 262,Emerson,Edwards,donor262@example.com,,,,N/A,Community,Community,Living
+IND0525,Emerson Evans 342,Emerson,Evans,donor342@example.com,,555-000-342,ChildA-1342,,Former Parent,La Casita,Living
+IND1406,Emerson Flores 1406,Emerson,Flores,,,,,N/A,Community,Community,Living
+IND0739,Emerson Johnson 142,Emerson,Johnson,donor142@example.com,,555-000-142,,N/A,Former Parent,JP,Living
+FAM1001,Emerson Johnson 702,Emerson,Johnson,donor702@example.com,,555-000-702,,N/A,Former Parent,JP,Living
+FAM0445,Emerson King 1022,Emerson,King,donor1022@example.com,,,ChildA-2022,,Former Parent,La Casita,Living
+IND0708,Emerson Lewis 1262,Emerson,Lewis,donor1262@example.com,,,ChildA-2262,,Former Parent,La Casita,Living
+IND0808,Emerson Lewis 462,Emerson,Lewis,donor462@example.com,,555-000-462,,N/A,Former Parent,JP,Living
+FAM0301,Emerson Lopez 1222,Emerson,Lopez,donor1222@example.com,,555-000-1222,,N/A,Former Parent,JP,Living
+FAM0242,Emerson Lopez 422,Emerson,Lopez,donor422@example.com,,,,N/A,Community,Community,Living
+FAM0389,Emerson Lopez 502,Emerson,Lopez,donor502@example.com,,555-000-502,ChildA-1502,,Former Parent,JP,Living
+UNK1401,Emerson Martin 1182,Emerson,Martin,donor1182@example.com,,,,N/A,Former Board Member,Community,Living
+FAM0896,Emerson Mitchell 382,Emerson,Mitchell,donor382@example.com,,555-000-382,,N/A,Former Parent,JP,Living
+FAM0566,Emerson Nguyen 1142,Emerson,Nguyen,donor1142@example.com,,555-000-1142,ChildA-2088,,Former Parent,HP,Living
+IND0444,Emerson Nguyen 1422,Emerson,Nguyen,donor1422@example.com,,555-000-1422,ChildA-2422,,Former Parent,La Casita,Living
+IND1407,Emerson Parker 1407,Emerson,Parker,,,,,N/A,Community,Community,Living
+IND0848,Emerson Parker 182,Emerson,Parker,donor182@example.com,,555-000-182,ChildA-1182,,Former Parent,JP,Living
+FAM0538,Emerson Roberts 1302,Emerson,Roberts,donor1302@example.com,,555-000-1302,ChildA-1333,,Former Parent,JP,Living
+IND1231,Emerson Roberts 822,Emerson,Roberts,donor822@example.com,,,ChildA-1822,,Former Parent,HP,Living
+FAM0752,Emerson Rogers 222,Emerson,Rogers,donor222@example.com,,555-000-222,,N/A,Former Parent,JP,Living
+IND1293,Emerson Scott 1102,Emerson,Scott,donor1102@example.com,,,,N/A,Community,Community,Living
+IND1279,Emerson Smith 1062,Emerson,Smith,donor1062@example.com,,,,N/A,Community,Community,Living
+IND1283,Emerson Smith 982,Emerson,Smith,donor982@example.com,,,,N/A,Community,Community,Living
+IND1354,Emerson Stewart 582,Emerson,Stewart,donor582@example.com,,,,N/A,Community,Community,Living
+FAM0435,Emerson Torres 622,Emerson,Torres,donor622@example.com,,555-000-622,ChildA-1194,Yes,Parent,HP,Living
+IND1464,Emerson Walker 1464,Emerson,Walker,,,,,N/A,Community,Community,Living
+IND1347,Emerson Young 1342,Emerson,Young,donor1342@example.com,,,,N/A,Community,Community,Living
+UNK1525,Eventbrite,,,,,,,,Corporate Donor,,Active
+UNK1526,Flappers Comedy Club & Restaurant,,,,,,,,Corporate Donor,,Active
+IND0041,Frankie Anderson 116,Frankie,Anderson,donor116@example.com,,555-000-116,ChildA-1116,,Former Parent,La Casita,Living
+FAM0093,Frankie Brown 276,Frankie,Brown,donor276@example.com,,555-000-276,ChildA-1276,,Parent,TD,Living
+FAM0589,Frankie Campbell 396,Frankie,Campbell,donor396@example.com,,555-000-396,ChildA-1396,,Former Parent,JP,Living
+FAM0914,Frankie Carter 1156,Frankie,Carter,donor1156@example.com,,555-000-1156,,N/A,Former Parent,,Living
+FAM1028,Frankie Evans 556,Frankie,Evans,donor556@example.com,,,,N/A,Community,Community,Living
+FAM0787,Frankie Evans 916,Frankie,Evans,donor916@example.com,,555-000-916,,N/A,Former Parent,JP,Living
+FAM0030,Frankie Flores 236,Frankie,Flores,donor236@example.com,,555-000-236,ChildA-1236,,Former Parent,La Casita,Living
+FAM1018,Frankie Flores 356,Frankie,Flores,donor356@example.com,,555-000-356,ChildA-1356,,Parent,TD,Living
+IND1210,Frankie Flores 716,Frankie,Flores,donor716@example.com,,,,N/A,Community,Community,Living
+FAM0343,Frankie Flores 76,Frankie,Flores,donor76@example.com,,555-000-76,,N/A,Former Parent,JP,Living
+UNK1448,Frankie Harris 1448,Frankie,Harris,,,,,N/A,Community,Community,Living
+IND1201,Frankie Harris 796,Frankie,Harris,donor796@example.com,,,,N/A,Community,Community,Living
+UNK1495,Frankie King 1495,Frankie,King,,,,,N/A,Community,Community,Living
+IND0866,Frankie Mitchell 436,Frankie,Mitchell,donor436@example.com,,555-000-436,ChildA-1436,,Former Parent,La Casita,Living
+IND0772,Frankie Morris 1116,Frankie,Morris,donor1116@example.com,,555-000-1116,ChildA-2116,,Former Parent,La Casita,Living
+FAM0269,Frankie Morris 1436,Frankie,Morris,donor1436@example.com,,555-000-1436,,N/A,Former Parent,JP,Living
+FAM0688,Frankie Murphy 156,Frankie,Murphy,donor156@example.com,,,ChildA-1156,,Former Parent,La Casita,Living
+FAM1030,Frankie Nguyen 1030,Frankie,Nguyen,,,,,N/A,Community,Community,Living
+IND1389,Frankie Nguyen 1476,Frankie,Nguyen,donor1476@example.com,,,,N/A,Community,Community,Living
+IND1271,Frankie Parker 1036,Frankie,Parker,donor1036@example.com,,,,N/A,Community,Community,Living
+IND1326,Frankie Perez 1236,Frankie,Perez,donor1236@example.com,,,,N/A,Community,Community,Living
+IND1255,Frankie Perez 956,Frankie,Perez,donor956@example.com,,,,N/A,Community,Community,Living
+IND1227,Frankie Rivera 876,Frankie,Rivera,donor876@example.com,,,,N/A,Community,Community,Living
+IND1319,Frankie Roberts 1196,Frankie,Roberts,donor1196@example.com,,,,N/A,Community,Community,Living
+FAM0719,Frankie Rogers 996,Frankie,Rogers,donor996@example.com,,,,N/A,Community,Community,Living
+IND1219,Frankie Stewart 836,Frankie,Stewart,donor836@example.com,,,,N/A,Community,Community,Living
+IND1493,Frankie Taylor 1493,Frankie,Taylor,,,,,N/A,Community,Community,Living
+FAM0785,Frankie Thomas 1356,Frankie,Thomas,donor1356@example.com,,555-000-1356,,N/A,Former Parent,JP,Living
+FAM1432,Frankie Thomas 1432,Frankie,Thomas,,,,,N/A,Community,Community,Living
+FAM0725,Frankie Thomas 36,Frankie,Thomas,donor36@example.com,,555-000-36,ChildA-1036,,Former Parent,JP,Living
+FAM0474,Frankie Thompson 196,Frankie,Thompson,donor196@example.com,,555-000-196,,N/A,Former Parent,JP,Living
+FAM0729,Frankie Thompson 316,Frankie,Thompson,donor316@example.com,,555-000-316,ChildA-1316,,Former Parent,La Casita,Living
+IND0614,Frankie Torres 1076,Frankie,Torres,donor1076@example.com,,555-000-1076,ChildA-2076,,Former Parent,JP,Living
+IND1502,Frankie Torres 1502,Frankie,Torres,,,,,N/A,Community,Community,Living
+IND1162,Frankie Torres 516,Frankie,Torres,donor516@example.com,,,,N/A,Community,Community,Living
+IND1374,Frankie Wright 596,Frankie,Wright,donor596@example.com,,,,N/A,Community,Community,Living
+FAM0860,Frankie Young 756,Frankie,Young,donor756@example.com,,,ChildA-1683,,Former Parent,La Casita,Living
+UNK1527,"Freetime Media, Inc.",,,,,,,,Corporate Donor,,Defunct
+UNK1528,Goodsearch / Goodshop,,,,,,,,Corporate Donor,,Active
+UNK1529,GSA,,,,,,,,Corporate Donor,,Active
+FAM0188,Harper Adams 1375,Harper,Adams,donor1375@example.com,,555-000-1375,ChildA-2174,,Former Parent,JP,Living
+IND1412,Harper Adams 1412,Harper,Adams,,,,,N/A,Community,Community,Living
+IND1376,Harper Adams 1455,Harper,Adams,donor1455@example.com,,,,N/A,Community,Community,Living
+IND0192,Harper Adams 15,Harper,Adams,donor15@example.com,,555-000-15,,N/A,Former Parent,JP,Living
+FAM0937,Harper Adams 215,Harper,Adams,donor215@example.com,,555-000-215,ChildA-1215,,Former Parent,HP,Living
+FAM0918,Harper Allen 495,Harper,Allen,donor495@example.com,,555-000-495,ChildA-1495,,Former Parent,JP,Living
+FAM0476,Harper Allen 615,Harper,Allen,donor615@example.com,,555-000-615,,N/A,Former Parent,JP,Living
+IND1090,Harper Collins 375,Harper,Collins,donor375@example.com,,,,N/A,Community,Community,Living
+IND1206,Harper Collins 735,Harper,Collins,donor735@example.com,,,,N/A,Community,Community,Living
+FAM0906,Harper Cook 1175,Harper,Cook,donor1175@example.com,,555-000-1175,,N/A,Former Parent,JP,Living
+FAM0294,Harper Cook 975,Harper,Cook,donor975@example.com,,555-000-975,,N/A,Former Parent,JP,Living
+FAM0963,Harper Edwards 935,Harper,Edwards,donor935@example.com,,555-000-935,ChildA-1366,,Former Parent,La Casita,Living
+IND1130,Harper Flores 335,Harper,Flores,donor335@example.com,,,,N/A,Community,Community,Living
+FAM0686,Harper Harris 655,Harper,Harris,donor655@example.com,,555-000-655,ChildA-1655,,Former Parent,La Casita,Living
+FAM0491,Harper Harris 855,Harper,Harris,donor855@example.com,,555-000-855,ChildA-1118,,Former Parent,JP,Living
+FAM0969,Harper Lopez 1015,Harper,Lopez,donor1015@example.com,,555-000-1015,ChildA-2015,,Former Parent,JP,Living
+IND1060,Harper Lopez 95,Harper,Lopez,donor95@example.com,,,,N/A,Community,Community,Living
+FAM0349,Harper Mitchell 1255,Harper,Mitchell,donor1255@example.com,,555-000-1255,ChildA-2255,,Former Parent,JP,Living
+IND1405,Harper Mitchell 1405,Harper,Mitchell,,,,,N/A,Community,Community,Living
+FAM0234,Harper Morris 1055,Harper,Morris,donor1055@example.com,,555-000-1055,ChildA-1968,,Former Parent,JP,Living
+FAM0897,Harper Morris 1678,Harper,Morris,donor1678@example.com,,,ChildA-1482,Yes,Parent,HP,Living
+FAM0045,Harper Parker 1335,Harper,Parker,donor1335@example.com,,555-000-1335,ChildA-1403,,Former Parent,JP,Living
+FAM0993,Harper Perez 1095,Harper,Perez,donor1095@example.com,,,,N/A,Community,Community,Living
+FAM0752,Harper Perez 575,Harper,Perez,donor575@example.com,,555-000-575,,N/A,Former Parent,JP,Living
+FAM0442,Harper Rivera 295,Harper,Rivera,donor295@example.com,,555-000-295,,N/A,Former Parent,JP,Living
+FAM0447,Harper Roberts 1295,Harper,Roberts,donor1295@example.com,,,ChildA-1271,,Former Parent,La Casita,Living
+IND1243,Harper Rogers 455,Harper,Rogers,donor455@example.com,,,,N/A,Community,Community,Living
+IND1237,Harper Rogers 895,Harper,Rogers,donor895@example.com,,,,N/A,Community,Community,Living
+FAM0527,Harper Smith 1215,Harper,Smith,donor1215@example.com,,555-000-1215,,N/A,Former Parent,JP,Living
+IND1067,Harper Stewart 135,Harper,Stewart,donor135@example.com,,,,N/A,Community,Community,Living
+FAM0004,Harper Taylor 1495,Harper,Taylor,donor1495@example.com,,555-000-1495,ChildA-1593,,Former Parent,JP,Living
+FAM0105,Harper Thompson 535,Harper,Thompson,donor535@example.com,,,,N/A,Community,Community,Living
+FAM0090,Harper Thompson 695,Harper,Thompson,donor695@example.com,,555-000-695,,N/A,Former Parent,JP,Living
+IND1236,Harper Torres 255,Harper,Torres,donor255@example.com,,,,N/A,Community,Community,Living
+FAM0926,Harper White 1415,Harper,White,donor1415@example.com,,555-000-1415,ChildA-2307,,Former Parent,JP,Living
+IND1299,Harper Wright 1135,Harper,Wright,donor1135@example.com,,,,N/A,Community,Community,Living
+IND1429,Harper Young 1429,Harper,Young,,,,,N/A,Community,Community,Living
+IND1456,Harper Young 1456,Harper,Young,,,,,N/A,Community,Community,Living
+UNK1530,Harry Pregerson Board,,,,,,,,Corporate Donor,,Active
+UNK1531,"Hearts That Care, Inc.",,,,,,,,Corporate Donor,,Defunct
+UNK1532,"Herb Wesson, Council President",,,,,,,,Corporate Donor,,Defunct
+UNK1533,Highland Park Ebell Club,,,,,,,,Corporate Donor,,Active
+FAM0741,Hunter Adams 1229,Hunter,Adams,donor1229@example.com,,555-000-1229,ChildA-1212,,Former Parent,JP,Living
+IND1085,Hunter Adams 189,Hunter,Adams,donor189@example.com,,,,N/A,Community,Community,Living
+FAM0623,Hunter Adams 549,Hunter,Adams,donor549@example.com,,555-000-549,,N/A,Former Parent,JP,Living
+IND1105,Hunter Allen 869,Hunter,Allen,donor869@example.com,,,,N/A,Community,Community,Living
+FAM0210,Hunter Anderson 469,Hunter,Anderson,donor469@example.com,,555-000-469,ChildA-1469,,Parent,TD,Living
+IND1370,Hunter Campbell 1429,Hunter,Campbell,donor1429@example.com,,,,N/A,Community,Community,Living
+FAM0606,Hunter Campbell 429,Hunter,Campbell,donor429@example.com,,555-000-429,,N/A,Former Parent,JP,Living
+FAM0230,Hunter Cook 229,Hunter,Cook,donor229@example.com,,555-000-229,,N/A,Former Parent,JP,Living
+IND0208,Hunter Flores 309,Hunter,Flores,donor309@example.com,,555-000-309,ChildA-1309,,Former Parent,La Casita,Living
+FAM0217,Hunter Harris 629,Hunter,Harris,donor629@example.com,,555-000-629,ChildA-1629,,Former Parent,JP,Living
+IND1307,Hunter Johnson 149,Hunter,Johnson,donor149@example.com,,,,N/A,Community,Community,Living
+FAM1022,Hunter King 709,Hunter,King,donor709@example.com,,,ChildA-1709,,Former Parent,La Casita,Living
+FAM0532,Hunter Lewis 1029,Hunter,Lewis,donor1029@example.com,,555-000-1029,ChildA-1181,,Former Parent,HP,Living
+IND1351,Hunter Lewis 589,Hunter,Lewis,donor589@example.com,,,,N/A,Community,Community,Living
+FAM0071,Hunter Lewis 749,Hunter,Lewis,donor749@example.com,,555-000-749,,N/A,Former Parent,HP,Living
+IND1072,Hunter Mitchell 109,Hunter,Mitchell,donor109@example.com,,,,N/A,Community,Community,Living
+IND0342,Hunter Morris 1389,Hunter,Morris,donor1389@example.com,,,,N/A,Former Parent,JP,Living
+FAM0949,Hunter Morris 29,Hunter,Morris,donor29@example.com,,555-000-29,,N/A,Former Parent,JP,Living
+IND0529,Hunter Morris 69,Hunter,Morris,donor69@example.com,,555-000-69,ChildA-1069,,Former Parent,La Casita,Living
+FAM0694,Hunter Murphy 789,Hunter,Murphy,donor789@example.com,,555-000-789,ChildA-1789,,Former Parent,La Casita,Living
+IND1342,Hunter Nguyen 1309,Hunter,Nguyen,donor1309@example.com,,,,N/A,Community,Community,Living
+IND1490,Hunter Nguyen 1490,Hunter,Nguyen,,,,,N/A,Community,Community,Living
+IND0408,Hunter Phillips 349,Hunter,Phillips,donor349@example.com,,555-000-349,ChildA-1349,,Former Parent,La Casita,Living
+FAM0593,Hunter Rivera 1069,Hunter,Rivera,donor1069@example.com,,555-000-1069,ChildA-1216,Yes,Parent,HP,Living
+IND1287,Hunter Roberts 1109,Hunter,Roberts,donor1109@example.com,,,,N/A,Community,Community,Living
+IND1160,Hunter Roberts 509,Hunter,Roberts,donor509@example.com,,,,N/A,Community,Community,Living
+FAM0325,Hunter Roberts 909,Hunter,Roberts,donor909@example.com,,555-000-909,,N/A,Former Parent,JP,Living
+FAM0854,Hunter Rogers 269,Hunter,Rogers,donor269@example.com,,555-000-269,,N/A,Former Parent,JP,Living
+IND1245,Hunter Smith 949,Hunter,Smith,donor949@example.com,,,,N/A,Community,Community,Living
+FAM0110,Hunter Stewart 389,Hunter,Stewart,donor389@example.com,,555-000-389,ChildA-1151,,Former Parent,JP,Living
+FAM0723,Hunter Taylor 723,Hunter,Taylor,,,,ChildA-1042,,Former Parent,La Casita,Living
+IND0407,Hunter Taylor 989,Hunter,Taylor,donor989@example.com,,,,N/A,Former Parent,JP,Living
+FAM0976,Hunter Thompson 1149,Hunter,Thompson,donor1149@example.com,,,,N/A,Community,Community,Living
+IND1497,Hunter Thompson 1497,Hunter,Thompson,,,,,N/A,Community,Community,Living
+FAM0077,Hunter White 829,Hunter,White,donor829@example.com,,555-000-829,ChildA-1657,,Former Parent,La Casita,Living
+FAM0947,Hunter Wright 1469,Hunter,Wright,donor1469@example.com,,555-000-1469,ChildA-2179,,Former Parent,JP,Living
+FAM0254,Hunter Wright 669,Hunter,Wright,donor669@example.com,,555-000-669,ChildA-1669,,Former Parent,JP,Living
+UNK1534,Inchbug,,,,,,,,Corporate Donor,,Active
+UNK1535,Innisbrook Wraps,,,,,,,,Corporate Donor,,Active
+FAM0101,Jamie Adams 1326,Jamie,Adams,donor1326@example.com,,555-000-1326,ChildA-1369,,Former Parent,JP,Living
+IND0099,Jamie Anderson 286,Jamie,Anderson,donor286@example.com,,555-000-286,ChildA-1286,,Former Parent,La Casita,Living
+IND1241,Jamie Anderson 926,Jamie,Anderson,donor926@example.com,,,,N/A,Community,Community,Living
+FAM0902,Jamie Brown 705,Jamie,Brown,donor705@example.com,,,,N/A,Former Board Member,Community,Dead
+FAM0542,Jamie Campbell 1446,Jamie,Campbell,donor1446@example.com,,555-000-1446,ChildA-1217,,Former Parent,La Casita,Living
+FAM0958,Jamie Carter 1046,Jamie,Carter,donor1046@example.com,,555-000-1046,ChildA-1460,,Former Parent,JP,Living
+FAM0357,Jamie Carter 206,Jamie,Carter,donor206@example.com,,555-000-206,ChildA-1206,,Former Parent,La Casita,Living
+FAM0662,Jamie Carter 526,Jamie,Carter,donor526@example.com,,,,N/A,Community,Community,Living
+IND1393,Jamie Clark 1486,Jamie,Clark,donor1486@example.com,,,,N/A,Community,Community,Living
+FAM0439,Jamie Clark 86,Jamie,Clark,donor86@example.com,,555-000-86,,N/A,Former Parent,JP,Living
+IND1065,Jamie Cook 126,Jamie,Cook,donor126@example.com,,,,N/A,Community,Community,Living
+FAM0536,Jamie Edwards 1206,Jamie,Edwards,donor1206@example.com,,,ChildA-1373,,Former Parent,La Casita,Living
+FAM0485,Jamie Edwards 246,Jamie,Edwards,donor246@example.com,,555-000-246,,N/A,Former Parent,JP,Living
+FAM0558,Jamie Flores 1006,Jamie,Flores,donor1006@example.com,,,,N/A,Community,Community,Living
+IND1332,Jamie Flores 1246,Jamie,Flores,donor1246@example.com,,,,N/A,Community,Community,Living
+FAM0963,Jamie Harris 366,Jamie,Harris,donor366@example.com,,555-000-366,ChildA-1366,,Former Parent,La Casita,Living
+IND1303,Jamie King 1166,Jamie,King,donor1166@example.com,,,,N/A,Community,Community,Living
+IND1362,Jamie Lewis 1406,Jamie,Lewis,donor1406@example.com,,,,N/A,Community,Community,Living
+FAM0497,Jamie Martin 1366,Jamie,Martin,donor1366@example.com,,555-000-1366,,N/A,Former Parent,JP,Living
+FAM0084,Jamie Mitchell 406,Jamie,Mitchell,donor406@example.com,,555-000-406,ChildA-1406,,Former Parent,La Casita,Living
+FAM0159,Jamie Mitchell 886,Jamie,Mitchell,donor886@example.com,,555-000-886,ChildA-1631,Yes,Parent,HP,Living
+IND1195,Jamie Morris 686,Jamie,Morris,donor686@example.com,,,,N/A,Community,Community,Living
+FAM0500,Jamie Murphy 326,Jamie,Murphy,donor326@example.com,,555-000-326,,N/A,Former Parent,JP,Living
+IND1171,Jamie Parker 566,Jamie,Parker,donor566@example.com,,,,N/A,Community,Community,Living
+FAM0016,Jamie Perez 806,Jamie,Perez,donor806@example.com,,555-000-806,ChildA-1041,Yes,Parent,HP,Living
+IND0097,Jamie Roberts 486,Jamie,Roberts,donor486@example.com,,555-000-486,ChildA-1486,,Former Parent,La Casita,Living
+FAM1018,Jamie Rogers 446,Jamie,Rogers,donor446@example.com,,555-000-446,ChildA-1356,,Parent,TD,Living
+IND1211,Jamie Rogers 766,Jamie,Rogers,donor766@example.com,,,,N/A,Community,Community,Living
+FAM0453,Jamie Scott 46,Jamie,Scott,donor46@example.com,,555-000-46,ChildA-1046,,Former Parent,JP,Living
+IND1298,Jamie Stewart 1126,Jamie,Stewart,donor1126@example.com,,,,N/A,Community,Community,Living
+FAM1015,Jamie Stewart 606,Jamie,Stewart,donor606@example.com,,,,N/A,Community,Community,Living
+FAM0638,Jamie Stewart 646,Jamie,Stewart,donor646@example.com,,,,N/A,Former Board Member,Community,Dead
+FAM1471,Jamie Taylor 1471,Jamie,Taylor,,,,,N/A,Community,Community,Living
+IND0658,Jamie Taylor 726,Jamie,Taylor,donor726@example.com,,555-000-726,ChildA-1726,,Former Parent,La Casita,Living
+FAM0020,Jamie Taylor 846,Jamie,Taylor,donor846@example.com,,,,N/A,Community,Community,Living
+IND1258,Jamie Taylor 966,Jamie,Taylor,donor966@example.com,,,,N/A,Community,Community,Living
+FAM0181,Jamie Torres 1086,Jamie,Torres,donor1086@example.com,,555-000-1086,ChildA-1802,,Former Parent,La Casita,Living
+FAM0195,Jamie Walker 166,Jamie,Walker,donor166@example.com,,555-000-166,,N/A,Former Parent,JP,Living
+FAM0767,Jamie Young 6,Jamie,Young,donor6@example.com,,,,N/A,Former Parent,Community,Living
+IND1207,Jesse Allen 137,Jesse,Allen,donor137@example.com,,,,N/A,Community,Community,Living
+IND1463,Jesse Brown 1463,Jesse,Brown,,,,,N/A,Community,Community,Living
+IND1260,Jesse Brown 977,Jesse,Brown,donor977@example.com,,,,N/A,Community,Community,Living
+FAM0852,Jesse Campbell 1217,Jesse,Campbell,donor1217@example.com,,555-000-1217,ChildA-1833,,Former Parent,JP,Living
+FAM0828,Jesse Cook 57,Jesse,Cook,donor57@example.com,,555-000-57,ChildA-1057,,Former Parent,JP,Living
+FAM0846,Jesse Edwards 1377,Jesse,Edwards,donor1377@example.com,,555-000-1377,ChildA-1098,,Former Parent,JP,Living
+IND0635,Jesse Edwards 457,Jesse,Edwards,donor457@example.com,,555-000-457,,N/A,Former Parent,JP,Living
+FAM0618,Jesse Evans 297,Jesse,Evans,donor297@example.com,,555-000-297,ChildA-1082,,Former Parent,La Casita,Living
+IND1163,Jesse Flores 497,Jesse,Flores,donor497@example.com,,,,N/A,Community,Community,Living
+FAM0077,Jesse Flores 657,Jesse,Flores,donor657@example.com,,,ChildA-1657,,Former Parent,La Casita,Living
+FAM0842,Jesse Hall 1297,Jesse,Hall,donor1297@example.com,,,ChildA-2018,,Former Parent,La Casita,Living
+FAM0801,Jesse Hall 617,Jesse,Hall,donor617@example.com,,555-000-617,ChildA-1121,,Former Parent,La Casita,Living
+IND1309,Jesse Lewis 1177,Jesse,Lewis,donor1177@example.com,,,,N/A,Community,Community,Living
+FAM0835,Jesse Lewis 417,Jesse,Lewis,donor417@example.com,,555-000-417,ChildA-1417,,Former Parent,La Casita,Living
+FAM0084,Jesse Lewis 777,Jesse,Lewis,donor777@example.com,,555-000-777,ChildA-1406,,Former Parent,La Casita,Living
+IND1423,Jesse Lopez 1423,Jesse,Lopez,,,,,N/A,Community,Community,Living
+IND1480,Jesse Mitchell 1480,Jesse,Mitchell,,,,,N/A,Community,Community,Living
+FAM0351,Jesse Mitchell 697,Jesse,Mitchell,donor697@example.com,,555-000-697,,N/A,Former Parent,JP,Living
+FAM0118,Jesse Morris 1057,Jesse,Morris,donor1057@example.com,,555-000-1057,ChildA-2057,,Former Parent,JP,Living
+IND1336,Jesse Murphy 1257,Jesse,Murphy,donor1257@example.com,,,,N/A,Community,Community,Living
+IND1249,Jesse Murphy 257,Jesse,Murphy,donor257@example.com,,,,N/A,Community,Community,Living
+FAM0904,Jesse Murphy 857,Jesse,Murphy,donor857@example.com,,555-000-857,ChildA-1857,,Parent,TD,Living
+IND1209,Jesse Nguyen 1497,Jesse,Nguyen,donor1497@example.com,,,,N/A,Community,Community,Living
+IND1047,Jesse Nguyen 17,Jesse,Nguyen,donor17@example.com,,,,N/A,Community,Community,Living
+IND1285,Jesse Phillips 1017,Jesse,Phillips,donor1017@example.com,,,,N/A,Community,Community,Living
+FAM1011,Jesse Phillips 537,Jesse,Phillips,donor537@example.com,,555-000-537,ChildA-1537,,Board Member,HP,Living
+FAM0195,Jesse Rivera 1337,Jesse,Rivera,donor1337@example.com,,555-000-1337,,N/A,Former Parent,JP,Living
+IND1174,Jesse Rivera 577,Jesse,Rivera,donor577@example.com,,,,N/A,Community,Community,Living
+FAM0570,Jesse Rogers 897,Jesse,Rogers,donor897@example.com,,555-000-897,ChildA-1368,,Former Parent,La Casita,Living
+IND0098,Jesse Stewart 1417,Jesse,Stewart,donor1417@example.com,,555-000-1417,,N/A,Former Parent,JP,Living
+FAM0318,Jesse Stewart 817,Jesse,Stewart,donor817@example.com,,555-000-817,,N/A,Former Parent,JP,Living
+FAM0542,Jesse Thomas 217,Jesse,Thomas,donor217@example.com,,,ChildA-1217,N/A,Former Parent,La Casita,Living
+FAM0215,Jesse Walker 1137,Jesse,Walker,donor1137@example.com,,555-000-1137,ChildA-1461,,Former Parent,La Casita,Living
+IND1452,Jesse Walker 1452,Jesse,Walker,,,,,N/A,Community,Community,Living
+IND0637,Jesse Walker 377,Jesse,Walker,donor377@example.com,,,,N/A,Former Board Member,Community,Living
+IND1110,Jesse White 97,Jesse,White,donor97@example.com,,,,N/A,Community,Community,Living
+FAM0345,Jesse Wright 177,Jesse,Wright,donor177@example.com,,,,N/A,Community,Community,Living
+FAM0303,Jesse Young 1457,Jesse,Young,donor1457@example.com,,,ChildA-1399,,Former Parent,La Casita,Living
+UNK1536,Jewish Community Foundation of Los Angeles,,,,,,,,Corporate Donor,,Active
+UNK1537,Johnny Rockets,,,,,,,,Corporate Donor,,Active
+FAM0217,Jordan Adams 946,Jordan,Adams,donor946@example.com,,555-000-946,ChildA-1629,,Former Parent,JP,Living
+IND1076,Jordan Allen 161,Jordan,Allen,donor161@example.com,,,,N/A,Community,Community,Living
+FAM0093,Jordan Anderson 426,Jordan,Anderson,donor426@example.com,,555-000-426,ChildA-1276,,Parent,TD,Living
+IND0651,Jordan Anderson 66,Jordan,Anderson,donor66@example.com,,555-000-66,ChildA-1066,,Former Parent,La Casita,Living
+FAM0885,Jordan Brown 1121,Jordan,Brown,donor1121@example.com,,555-000-1121,,N/A,Former Parent,JP,Living
+FAM0139,Jordan Brown 1241,Jordan,Brown,donor1241@example.com,,555-000-1241,ChildA-2130,,Former Parent,JP,Living
+FAM0095,Jordan Brown 466,Jordan,Brown,donor466@example.com,,555-000-466,ChildA-1466,,Parent,TD,Living
+FAM0378,Jordan Campbell 146,Jordan,Campbell,donor146@example.com,,,ChildA-1146,,Former Parent,La Casita,Living
+IND1108,Jordan Campbell 306,Jordan,Campbell,donor306@example.com,,,,N/A,Community,Community,Living
+FAM0016,Jordan Campbell 41,Jordan,Campbell,donor41@example.com,,555-000-41,ChildA-1041,Yes,Parent,HP,Living
+FAM1165,Jordan Campbell 546,Jordan,Campbell,donor546@example.com,,,,N/A,Community,Community,Living
+IND1323,Jordan Carter 906,Jordan,Carter,donor906@example.com,,,,N/A,Community,Community,Living
+FAM0898,Jordan Clark 1161,Jordan,Clark,donor1161@example.com,,555-000-1161,,N/A,Former Parent,JP,Living
+FAM0756,Jordan Clark 1481,Jordan,Clark,donor1481@example.com,,555-000-1481,,N/A,Former Parent,JP,Living
+IND1284,Jordan Collins 1466,Jordan,Collins,donor1466@example.com,,,,N/A,Community,Community,Living
+IND0467,Jordan Collins 866,Jordan,Collins,donor866@example.com,,555-000-866,ChildA-1866,,Former Parent,La Casita,Living
+FAM0392,Jordan Edwards 401,Jordan,Edwards,donor401@example.com,,,ChildA-1292,,Former Parent,La Casita,Living
+FAM0343,Jordan Edwards 761,Jordan,Edwards,donor761@example.com,,555-000-761,,N/A,Former Parent,JP,Living
+IND1264,Jordan Evans 1001,Jordan,Evans,donor1001@example.com,,,,N/A,Community,Community,Living
+FAM0262,Jordan Evans 321,Jordan,Evans,donor321@example.com,,555-000-321,,N/A,Former Parent,JP,Living
+FAM0197,Jordan Flores 961,Jordan,Flores,donor961@example.com,,555-000-961,ChildA-1885,,Former Parent,JP,Living
+FAM0627,Jordan Hall 1266,Jordan,Hall,donor1266@example.com,,555-000-1266,,N/A,Former Parent,JP,Living
+IND1092,Jordan Hall 226,Jordan,Hall,donor226@example.com,,,,N/A,Community,Community,Living
+FAM0288,Jordan Harris 1321,Jordan,Harris,donor1321@example.com,,,,N/A,Community,Community,Living
+FAM1035,Jordan Johnson 1146,Jordan,Johnson,donor1146@example.com,,555-000-1146,,N/A,Former Parent,JP,Living
+FAM0995,Jordan King 1426,Jordan,King,donor1426@example.com,,555-000-1426,ChildA-1404,,Former Parent,La Casita,Living
+FAM0154,Jordan King 281,Jordan,King,donor281@example.com,,555-000-281,,N/A,Former Parent,JP,Living
+IND1434,Jordan Lewis 1434,Jordan,Lewis,,,,,N/A,Community,Community,Living
+IND1082,Jordan Lewis 201,Jordan,Lewis,donor201@example.com,,,,N/A,Community,Community,Living
+FAM0564,Jordan Lewis 826,Jordan,Lewis,donor826@example.com,,555-000-826,,N/A,Former Parent,JP,Living
+FAM0951,Jordan Lopez 1026,Jordan,Lopez,donor1026@example.com,,555-000-1026,ChildA-1751,,Former Parent,La Casita,Living
+FAM0568,Jordan Lopez 1401,Jordan,Lopez,donor1401@example.com,,555-000-1401,ChildA-2401,,Former Parent,HP,Living
+FAM1032,Jordan Lopez 881,Jordan,Lopez,donor881@example.com,,555-000-881,,N/A,Former Parent,JP,Living
+FAM0801,Jordan Martin 121,Jordan,Martin,donor121@example.com,,555-000-121,ChildA-1121,,Former Parent,La Casita,Living
+FAM0891,Jordan Martin 1361,Jordan,Martin,donor1361@example.com,,555-000-1361,,N/A,Former Parent,JP,Living
+FAM0439,Jordan Mitchell 1226,Jordan,Mitchell,donor1226@example.com,,555-000-1226,,N/A,Former Parent,JP,Living
+FAM0165,Jordan Morris 1041,Jordan,Morris,donor1041@example.com,,555-000-1041,,N/A,Former Parent,JP,Living
+FAM0765,Jordan Morris 1081,Jordan,Morris,donor1081@example.com,,555-000-1081,ChildA-1211,,Former Parent,La Casita,Living
+FAM0595,Jordan Morris 1186,Jordan,Morris,donor1186@example.com,,,ChildA-2037,,Former Parent,La Casita,Living
+FAM1026,Jordan Morris 441,Jordan,Morris,donor441@example.com,,,,N/A,Community,Community,Living
+FAM0709,Jordan Morris 521,Jordan,Morris,donor521@example.com,,,ChildA-1452,,Former Parent,La Casita,Living
+IND1320,Jordan Murphy 1201,Jordan,Murphy,donor1201@example.com,,,,N/A,Community,Community,Living
+IND1419,Jordan Murphy 1419,Jordan,Murphy,,,,,N/A,Community,Community,Living
+FAM0190,Jordan Murphy 26,Jordan,Murphy,donor26@example.com,,555-000-26,ChildA-1026,,Former Parent,La Casita,Living
+FAM0086,Jordan Murphy 386,Jordan,Murphy,donor386@example.com,,555-000-386,,N/A,Former Parent,La Casita,Living
+IND0271,Jordan Murphy 506,Jordan,Murphy,donor506@example.com,,555-000-506,,N/A,Former Parent,JP,Living
+FAM0497,Jordan Murphy 641,Jordan,Murphy,donor641@example.com,,555-000-641,,N/A,Former Parent,JP,Living
+FAM0027,Jordan Perez 81,Jordan,Perez,donor81@example.com,,555-000-81,,N/A,Former Parent,JP,Living
+IND1192,Jordan Phillips 666,Jordan,Phillips,donor666@example.com,,,,N/A,Community,Community,Living
+FAM0554,Jordan Phillips 786,Jordan,Phillips,donor786@example.com,,555-000-786,ChildA-1786,,Former Parent,La Casita,Living
+IND1221,Jordan Phillips 841,Jordan,Phillips,donor841@example.com,,,,N/A,Community,Community,Living
+FAM0157,Jordan Rivera 266,Jordan,Rivera,donor266@example.com,,555-000-266,ChildA-1266,,Former Parent,La Casita,Living
+IND0279,Jordan Rivera 346,Jordan,Rivera,donor346@example.com,,555-000-346,ChildA-1346,,Former Parent,La Casita,Living
+FAM0934,Jordan Rivera 586,Jordan,Rivera,donor586@example.com,,555-000-586,ChildA-1179,,Parent,TD,Living
+IND1313,Jordan Rivera 681,Jordan,Rivera,donor681@example.com,,,,N/A,Community,Community,Living
+FAM0540,Jordan Rivera 746,Jordan,Rivera,donor746@example.com,,555-000-746,ChildA-1746,,Former Parent,JP,Living
+IND1041,Jordan Roberts 361,Jordan,Roberts,donor361@example.com,,,,N/A,Community,Community,Living
+IND1180,Jordan Rogers 1066,Jordan,Rogers,donor1066@example.com,,,,N/A,Community,Community,Living
+FAM0114,Jordan Scott 1106,Jordan,Scott,donor1106@example.com,,555-000-1106,,N/A,Former Parent,JP,Living
+IND1348,Jordan Scott 1281,Jordan,Scott,donor1281@example.com,,,,N/A,Community,Community,Living
+IND1222,Jordan Smith 1,Jordan,Smith,donor1@example.com,,,,N/A,Community,Community,Living
+IND1391,Jordan Smith 186,Jordan,Smith,donor186@example.com,,,,N/A,Community,Community,Living
+IND0459,Jordan Smith 706,Jordan,Smith,donor706@example.com,,555-000-706,ChildA-1706,,Former Parent,La Casita,Living
+FAM0671,Jordan Stewart 601,Jordan,Stewart,donor601@example.com,,555-000-601,ChildA-1087,,Former Parent,La Casita,Living
+IND1203,Jordan Stewart 721,Jordan,Stewart,donor721@example.com,,,,N/A,Community,Community,Living
+FAM0540,Jordan Stewart 801,Jordan,Stewart,donor801@example.com,,555-000-801,ChildA-1746,,Former Parent,JP,Living
+FAM0228,Jordan Thomas 1306,Jordan,Thomas,donor1306@example.com,,555-000-1306,,N/A,Former Parent,JP,Living
+FAM0844,Jordan Thomas 1386,Jordan,Thomas,donor1386@example.com,,555-000-1386,ChildA-1772,,Parent,TD,Living
+FAM0767,Jordan Thompson 1346,Jordan,Thompson,donor1346@example.com,,555-000-1346,,N/A,Former Parent,Community,Living
+FAM0141,Jordan Torres 106,Jordan,Torres,donor106@example.com,,555-000-106,,N/A,Former Parent,HP,Living
+IND0611,Jordan Walker 626,Jordan,Walker,donor626@example.com,,,,N/A,Community,Community,Living
+IND1149,Jordan Walker 986,Jordan,Walker,donor986@example.com,,,,N/A,Community,Community,Living
+IND1382,Jordan White 1441,Jordan,White,donor1441@example.com,,,,N/A,Community,Community,Living
+FAM0389,Jordan White 561,Jordan,White,donor561@example.com,,555-000-561,ChildA-1502,,Former Parent,JP,Living
+IND1239,Jordan Wright 921,Jordan,Wright,donor921@example.com,,,,N/A,Community,Community,Living
+UNK1538,"Jose Huizar, Councilmember",,,,,,,,Corporate Donor,,Defunct
+UNK1562,Joy on York,,,,,,,,Corporate Donor,,Active
+IND1460,Kendall Adams 1460,Kendall,Adams,,,,,N/A,Community,Community,Living
+IND1185,Kendall Adams 632,Kendall,Adams,donor632@example.com,,,,N/A,Community,Community,Living
+FAM0204,Kendall Allen 1072,Kendall,Allen,donor1072@example.com,,555-000-1072,ChildA-1700,,Former Parent,JP,Living
+IND1000,Kendall Allen 1472,Kendall,Allen,donor1472@example.com,,555-000-1472,ChildA-2472,,Former Parent,HP,Living
+FAM0981,Kendall Allen 72,Kendall,Allen,donor72@example.com,,555-000-72,,N/A,Former Parent,JP,Living
+IND0870,Kendall Anderson 592,Kendall,Anderson,donor592@example.com,,555-000-592,,N/A,Former Parent,JP,Living
+IND1305,Kendall Clark 1152,Kendall,Clark,donor1152@example.com,,,,N/A,Community,Community,Living
+FAM0075,Kendall Clark 472,Kendall,Clark,donor472@example.com,,555-000-472,ChildA-1472,,Former Parent,JP,Living
+FAM0659,Kendall Clark 832,Kendall,Clark,donor832@example.com,,555-000-832,ChildA-1832,,Former Parent,La Casita,Living
+FAM0131,Kendall Collins 912,Kendall,Collins,donor912@example.com,,555-000-912,ChildA-1912,,Former Parent,La Casita,Living
+IND0880,Kendall Cook 1272,Kendall,Cook,donor1272@example.com,,555-000-1272,,N/A,Former Parent,JP,Living
+IND1408,Kendall Cook 1408,Kendall,Cook,,,,,N/A,Community,Community,Living
+IND1083,Kendall Cook 192,Kendall,Cook,donor192@example.com,,,,N/A,Community,Community,Living
+FAM0793,Kendall Edwards 1312,Kendall,Edwards,donor1312@example.com,,555-000-1312,,N/A,Former Parent,HP,Living
+IND1102,Kendall Edwards 272,Kendall,Edwards,donor272@example.com,,,,N/A,Community,Community,Living
+IND0366,Kendall Edwards 312,Kendall,Edwards,donor312@example.com,,555-000-312,ChildA-1312,,Former Parent,JP,Living
+IND1215,Kendall Evans 792,Kendall,Evans,donor792@example.com,,,,N/A,Community,Community,Living
+IND1349,Kendall Johnson 1352,Kendall,Johnson,donor1352@example.com,,,,N/A,Community,Community,Living
+FAM0338,Kendall Johnson 352,Kendall,Johnson,donor352@example.com,,,,N/A,Community,Community,Living
+FAM0315,Kendall Lewis 752,Kendall,Lewis,donor752@example.com,,555-000-752,ChildA-1752,,Former Parent,JP,Living
+IND1153,Kendall Martin 432,Kendall,Martin,donor432@example.com,,,,N/A,Community,Community,Living
+FAM0412,Kendall Mitchell 952,Kendall,Mitchell,donor952@example.com,,555-000-952,ChildA-1645,,Parent,TD,Living
+IND1270,Kendall Murphy 1032,Kendall,Murphy,donor1032@example.com,,,,N/A,Community,Community,Living
+IND0367,Kendall Murphy 1192,Kendall,Murphy,donor1192@example.com,,555-000-1192,,N/A,Former Parent,JP,Living
+IND1328,Kendall Murphy 1232,Kendall,Murphy,donor1232@example.com,donor12322@example.com,,,N/A,Community,Community,Living
+IND1373,Kendall Murphy 1432,Kendall,Murphy,donor1432@example.com,,555-000-1432,ChildA-2432,N/A,Former Board Member,JP,Living
+FAM0676,Kendall Murphy 32,Kendall,Murphy,donor32@example.com,,555-000-32,ChildA-1032,Yes,Parent,HP,Living
+IND1199,Kendall Perez 712,Kendall,Perez,donor712@example.com,,,,N/A,Community,Community,Living
+IND0999,Kendall Roberts 512,Kendall,Roberts,donor512@example.com,,,,N/A,Community,Community,Living
+IND1168,Kendall Smith 232,Kendall,Smith,donor232@example.com,,,,N/A,Community,Community,Living
+IND1111,Kendall Taylor 672,Kendall,Taylor,donor672@example.com,,,,N/A,Community,Community,Living
+IND1329,Kendall Thomas 1392,Kendall,Thomas,donor1392@example.com,donor13922@example.com,,,N/A,Community,Community,Living
+IND1167,Kendall Thomas 552,Kendall,Thomas,donor552@example.com,donor5522@example.com,,,N/A,Community,Community,Living
+IND1288,Kendall White 1112,Kendall,White,donor1112@example.com,,,,N/A,Community,Community,Living
+IND0411,Kendall White 392,Kendall,White,donor392@example.com,,555-000-392,ChildA-1392,,Former Parent,La Casita,Living
+IND0233,Kendall White 992,Kendall,White,donor992@example.com,,555-000-992,ChildA-1992,,Former Parent,La Casita,Living
+IND1073,Kendall Wright 152,Kendall,Wright,donor152@example.com,,,,N/A,Community,Community,Living
+UNK1539,Kroger,,,,,,,,Corporate Donor,,Active
+UNK1541,Label Daddy,,,,,,,,Corporate Donor,,Active
+UNK1540,LA Conservancy,,,,,,,,Corporate Donor,,Active
+UNK1542,Lifetouch National School Studios,,,,,,,,Corporate Donor,,Active
+UNK1543,"Loc, Inc.",,,,,,,,Corporate Donor,,Active
+FAM1430,Logan Adams 1430,Logan,Adams,,,,,N/A,Community,Community,Living
+FAM0599,Logan Brown 1098,Logan,Brown,donor1098@example.com,,555-000-1098,,N/A,Former Parent,JP,Living
+FAM0381,Logan Brown 778,Logan,Brown,donor778@example.com,,555-000-778,,N/A,Former Parent,JP,Living
+FAM0736,Logan Carter 658,Logan,Carter,donor658@example.com,,,ChildA-1658,,Former Parent,La Casita,Living
+FAM1037,Logan Clark 1378,Logan,Clark,donor1378@example.com,,,,N/A,Community,Community,Living
+IND1182,Logan Collins 618,Logan,Collins,donor618@example.com,,,,N/A,Community,Community,Living
+FAM0146,Logan Edwards 1418,Logan,Edwards,donor1418@example.com,,555-000-1418,ChildA-2183,,Parent,TD,Living
+FAM0152,Logan Edwards 18,Logan,Edwards,donor18@example.com,,555-000-18,ChildA-1018,,Former Parent,JP,Living
+FAM0368,Logan Evans 818,Logan,Evans,donor818@example.com,,555-000-818,ChildA-1423,,Former Parent,La Casita,Living
+IND0324,Logan Flores 258,Logan,Flores,donor258@example.com,,555-000-258,ChildA-1258,,Former Parent,JP,Living
+FAM0297,Logan Hall 1138,Logan,Hall,donor1138@example.com,,555-000-1138,ChildA-2025,,Former Parent,JP,Living
+IND0556,Logan Hall 1178,Logan,Hall,donor1178@example.com,,555-000-1178,ChildA-2178,,Parent,TD,Living
+FAM0305,Logan Hall 338,Logan,Hall,donor338@example.com,,555-000-338,ChildA-1230,,Parent,TD,Living
+FAM0433,Logan Harris 298,Logan,Harris,donor298@example.com,,555-000-298,,N/A,Former Parent,JP,Living
+IND0869,Logan Harris 538,Logan,Harris,donor538@example.com,,555-000-538,ChildA-1538,,Former Parent,JP,Living
+IND1007,Logan Harris 858,Logan,Harris,donor858@example.com,,555-000-858,,N/A,Former Parent,JP,Living
+FAM0008,Logan Johnson 58,Logan,Johnson,donor58@example.com,,555-000-58,,N/A,Former Parent,JP,Living
+IND1505,Logan Lewis 1505,Logan,Lewis,,,,,N/A,Community,Community,Living
+FAM0335,Logan Lopez 498,Logan,Lopez,donor498@example.com,,555-000-498,ChildA-1498,,Former Parent,JP,Living
+FAM1010,Logan Morris 698,Logan,Morris,donor698@example.com,,555-000-698,ChildA-1698,,Former Parent,HP,Living
+IND1324,Logan Murphy 1218,Logan,Murphy,donor1218@example.com,,,,N/A,Community,Community,Living
+IND1123,Logan Murphy 378,Logan,Murphy,donor378@example.com,,,,N/A,Community,Community,Living
+FAM0311,Logan Nguyen 738,Logan,Nguyen,donor738@example.com,,555-000-738,ChildA-1311,,Parent,TD,Living
+IND1440,Logan Phillips 1440,Logan,Phillips,,,,,N/A,Community,Community,Living
+FAM0548,Logan Phillips 898,Logan,Phillips,donor898@example.com,,555-000-898,ChildA-1677,,Former Parent,JP,Living
+IND0827,Logan Rivera 1338,Logan,Rivera,donor1338@example.com,,555-000-1338,,N/A,Former Parent,JP,Living
+FAM0976,Logan Rivera 178,Logan,Rivera,donor178@example.com,,,,N/A,Community,Community,Living
+FAM0871,Logan Rivera 938,Logan,Rivera,donor938@example.com,,555-000-938,ChildA-1938,,Former Parent,JP,Living
+IND1396,Logan Rogers 1498,Logan,Rogers,donor1498@example.com,,,,N/A,Community,Community,Living
+IND1089,Logan Rogers 218,Logan,Rogers,donor218@example.com,,,,N/A,Community,Community,Living
+FAM0842,Logan Scott 1018,Logan,Scott,donor1018@example.com,,555-000-1018,ChildA-2018,,Former Parent,La Casita,Living
+FAM0288,Logan Scott 138,Logan,Scott,donor138@example.com,,555-000-138,,N/A,Board Member,Community,Living
+FAM0345,Logan Stewart 978,Logan,Stewart,donor978@example.com,,,,N/A,Community,Community,Living
+IND1141,Logan Taylor 418,Logan,Taylor,donor418@example.com,,,,N/A,Community,Community,Living
+IND1179,Logan Thomas 1298,Logan,Thomas,donor1298@example.com,,,,N/A,Community,Community,Living
+FAM0694,Logan Thompson 1258,Logan,Thompson,donor1258@example.com,,555-000-1258,ChildA-1789,,Former Parent,La Casita,Living
+FAM0846,Logan Thompson 98,Logan,Thompson,donor98@example.com,,555-000-98,ChildA-1098,,Former Parent,JP,Living
+IND1335,Logan Walker 1058,Logan,Walker,donor1058@example.com,,,,N/A,Community,Community,Living
+UNK1544,Los Angeles Neighborhood Initiative,,,,,,,,Corporate Donor,,Active
+UNK1545,"Lovable Labels, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1546,Marqueece Harris-Dawson Council Member,,,,,,,,Corporate Donor,,Active
+UNK1547,Mary Kay Ash Foundation,,,,,,,,Corporate Donor,,Active
+UNK1548,Midland Fundraising,,,,,,,,Corporate Donor,,Active
+FAM0219,Milan Adams 1077,Milan,Adams,donor1077@example.com,,,ChildA-1718,,Former Parent,La Casita,Living
+IND0738,Milan Adams 517,Milan,Adams,donor517@example.com,,555-000-517,ChildA-1517,,Former Parent,La Casita,Living
+FAM0746,Milan Brown 117,Milan,Brown,donor117@example.com,,555-000-117,,N/A,Former Parent,JP,Living
+FAM0727,Milan Carter 797,Milan,Carter,donor797@example.com,,555-000-797,ChildA-1797,,Former Parent,HP,Living
+FAM0309,Milan Clark 277,Milan,Clark,donor277@example.com,,555-000-277,,N/A,Former Parent,JP,Living
+IND1142,Milan Clark 477,Milan,Clark,donor477@example.com,,,,N/A,Community,Community,Living
+IND1056,Milan Clark 77,Milan,Clark,donor77@example.com,,,,N/A,Community,Community,Living
+FAM0734,Milan Edwards 157,Milan,Edwards,donor157@example.com,,555-000-157,,N/A,Former Parent,JP,Living
+IND0209,Milan Edwards 637,Milan,Edwards,donor637@example.com,,555-000-637,ChildA-1637,,Former Parent,La Casita,Living
+IND0634,Milan Flores 997,Milan,Flores,donor997@example.com,,555-000-997,ChildA-1997,,Former Parent,JP,Living
+FAM0422,Milan Hall 917,Milan,Hall,donor917@example.com,,555-000-917,ChildA-1917,,Former Parent,JP,Living
+FAM0082,Milan Harris 37,Milan,Harris,donor37@example.com,,555-000-37,ChildA-1037,Yes,Parent,HP,Living
+FAM0489,Milan Johnson 1477,Milan,Johnson,donor1477@example.com,,555-000-1477,ChildA-2296,,Former Parent,JP,Living
+FAM0595,Milan King 1037,Milan,King,donor1037@example.com,,555-000-1037,ChildA-2037,,Former Parent,La Casita,Living
+FAM0548,Milan Lewis 677,Milan,Lewis,donor677@example.com,,555-000-677,ChildA-1677,,Former Parent,JP,Living
+IND0817,Milan Lewis 717,Milan,Lewis,donor717@example.com,,555-000-717,ChildA-1717,,Former Parent,La Casita,Living
+IND0514,Milan Martin 1397,Milan,Martin,donor1397@example.com,,555-000-1397,ChildA-2397,,Former Parent,La Casita,Living
+IND0482,Milan Martin 877,Milan,Martin,donor877@example.com,,555-000-877,ChildA-1877,,Former Parent,La Casita,Living
+FAM0030,Milan Mitchell 397,Milan,Mitchell,donor397@example.com,,555-000-397,ChildA-1236,,Former Parent,La Casita,Living
+IND1146,Milan Mitchell 437,Milan,Mitchell,donor437@example.com,,,,N/A,Community,Community,Living
+FAM0522,Milan Mitchell 557,Milan,Mitchell,donor557@example.com,,555-000-557,,N/A,Former Parent,JP,Living
+FAM0932,Milan Murphy 597,Milan,Murphy,donor597@example.com,,555-000-597,,N/A,Former Parent,JP,Living
+UNK1292,Milan Nguyen 1499,,,donor1499@example.com,,,,N/A,Community,Community,Living
+IND1486,Milan Parker 1486,Milan,Parker,,,,,N/A,Community,Community,Living
+FAM0157,Milan Phillips 1277,Milan,Phillips,donor1277@example.com,,555-000-1277,ChildA-1266,,Former Parent,La Casita,Living
+FAM0050,Milan Roberts 1317,Milan,Roberts,donor1317@example.com,,555-000-1317,,N/A,Former Parent,JP,Living
+FAM0012,Milan Roberts 1437,Milan,Roberts,donor1437@example.com,,555-000-1437,,N/A,Former Parent,JP,Living
+FAM1037,Milan Roberts 837,Milan,Roberts,donor837@example.com,,,,N/A,Community,Community,Living
+IND0438,Milan Scott 757,Milan,Scott,donor757@example.com,,555-000-757,ChildA-1757,,Former Parent,La Casita,Living
+IND1350,Milan Stewart 1357,Milan,Stewart,donor1357@example.com,,,,N/A,Community,Community,Living
+FAM0175,Milan Taylor 1237,Milan,Taylor,donor1237@example.com,,555-000-1237,ChildA-1520,,Parent,TD,Living
+FAM0494,Milan Thomas 197,Milan,Thomas,donor197@example.com,,555-000-197,ChildA-1197,,Former Parent,JP,Living
+FAM0286,Milan Thomas 237,Milan,Thomas,donor237@example.com,,555-000-237,,N/A,Former Parent,JP,Living
+IND0466,Milan Thomas 317,Milan,Thomas,donor317@example.com,,555-000-317,,N/A,Former Parent,JP,Living
+FAM0043,Milan Torres 1157,Milan,Torres,donor1157@example.com,,555-000-1157,,N/A,Former Board Member,Community,Dead
+FAM0320,Milan White 1117,Milan,White,donor1117@example.com,,555-000-1117,ChildA-2117,,Former Parent,La Casita,Living
+FAM0282,Milan White 957,Milan,White,donor957@example.com,donor9572@example.com,555-000-957,ChildA-1957,,Former Parent,JP,Living
+FAM0292,Milan Young 357,Milan,Young,donor357@example.com,,555-000-357,,N/A,Former Parent,JP,Living
+UNK0000,Misc. Parent,,,,,,,,Unknkown,,Unknown
+IND0774,Morgan Adams 323,Morgan,Adams,donor323@example.com,,555-000-323,ChildA-1323,,Former Parent,La Casita,Living
+FAM0333,Morgan Adams 523,Morgan,Adams,donor523@example.com,,555-000-523,ChildA-1523,,Parent,TD,Living
+FAM0860,Morgan Allen 683,Morgan,Allen,donor683@example.com,,555-000-683,ChildA-1683,,Former Parent,La Casita,Living
+FAM0107,Morgan Anderson 1443,Morgan,Anderson,donor1443@example.com,,,,N/A,Community,Community,Living
+FAM0045,Morgan Anderson 403,Morgan,Anderson,donor403@example.com,,555-000-403,ChildA-1403,,Former Parent,JP,Living
+FAM0799,Morgan Campbell 763,Morgan,Campbell,donor763@example.com,,555-000-763,ChildA-1633,,Former Parent,La Casita,Living
+IND1216,Morgan Clark 803,Morgan,Clark,donor803@example.com,,,,N/A,Community,Community,Living
+IND1352,Morgan Cook 1363,Morgan,Cook,donor1363@example.com,,,,N/A,Community,Community,Living
+IND1411,Morgan Cook 1411,Morgan,Cook,,,,,N/A,Community,Community,Living
+FAM0422,Morgan Harris 1403,Morgan,Harris,donor1403@example.com,,555-000-1403,ChildA-1917,,Former Parent,JP,Living
+FAM0133,Morgan Johnson 963,Morgan,Johnson,donor963@example.com,,555-000-963,ChildA-1870,,Former Parent,La Casita,Living
+FAM0928,Morgan King 1083,Morgan,King,donor1083@example.com,,555-000-1083,,N/A,Former Parent,JP,Living
+FAM0225,Morgan King 1163,Morgan,King,donor1163@example.com,,555-000-1163,ChildA-2163,,Former Parent,JP,Living
+IND0505,Morgan King 1283,Morgan,King,donor1283@example.com,,555-000-1283,ChildA-2283,,Former Parent,La Casita,Living
+FAM0063,Morgan King 483,Morgan,King,donor483@example.com,,555-000-483,ChildA-1483,,Former Parent,JP,Living
+IND1438,Morgan Lewis 1438,Morgan,Lewis,,,,,N/A,Community,Community,Living
+FAM0809,Morgan Lewis 83,Morgan,Lewis,donor83@example.com,,555-000-83,ChildA-1083,,Former Parent,La Casita,Living
+IND0613,Morgan Lopez 1483,Morgan,Lopez,donor1483@example.com,,555-000-1483,,N/A,Former Parent,JP,Living
+IND0092,Morgan Lopez 3,Morgan,Lopez,donor3@example.com,,555-000-3,ChildA-1003,,Former Parent,La Casita,Living
+IND1461,Morgan Martin 1461,Morgan,Martin,,,,,N/A,Community,Community,Living
+FAM0502,Morgan Mitchell 443,Morgan,Mitchell,donor443@example.com,,555-000-443,ChildA-1443,,Former Parent,La Casita,Living
+FAM0645,Morgan Mitchell 843,Morgan,Mitchell,donor843@example.com,,555-000-843,ChildA-1843,,Former Parent,La Casita,Living
+FAM0264,Morgan Morris 1043,Morgan,Morris,donor1043@example.com,,555-000-1043,ChildA-1209,,Former Parent,JP,Living
+FAM0008,Morgan Murphy 283,Morgan,Murphy,donor283@example.com,,555-000-283,,N/A,Former Parent,JP,Living
+IND1096,Morgan Parker 243,Morgan,Parker,donor243@example.com,donor2432@example.com,,,N/A,Community,Community,Living
+FAM0480,Morgan Parker 883,Morgan,Parker,donor883@example.com,,555-000-883,ChildA-1883,,Former Parent,La Casita,Living
+FAM0831,Morgan Perez 1203,Morgan,Perez,donor1203@example.com,,555-000-1203,ChildA-2065,,Parent,TD,Living
+FAM0038,Morgan Perez 363,Morgan,Perez,donor363@example.com,,555-000-363,,N/A,Former Parent,JP,Living
+FAM0887,Morgan Scott 603,Morgan,Scott,donor603@example.com,,555-000-603,ChildA-1603,,Former Parent,JP,Living
+FAM0727,Morgan Stewart 1123,Morgan,Stewart,donor1123@example.com,,555-000-1123,ChildA-1797,,Former Parent,HP,Living
+IND1086,Morgan Stewart 203,Morgan,Stewart,donor203@example.com,,,,N/A,Community,Community,Living
+FAM0965,Morgan Taylor 43,Morgan,Taylor,donor43@example.com,,555-000-43,ChildA-1043,,Former Parent,La Casita,Living
+FAM0777,Morgan Thomas 1003,Morgan,Thomas,donor1003@example.com,,555-000-1003,,N/A,Former Parent,JP,Living
+FAM0862,Morgan Torres 643,Morgan,Torres,donor643@example.com,,555-000-643,ChildA-1147,,Former Parent,JP,Living
+IND1204,Morgan Torres 723,Morgan,Torres,donor723@example.com,,,,N/A,Community,Community,Living
+FAM0383,Morgan White 1243,Morgan,White,donor1243@example.com,,555-000-1243,ChildA-1487,,Former Parent,La Casita,Living
+IND0990,Morgan Young 1323,Morgan,Young,donor1323@example.com,,555-000-1323,,N/A,Former Parent,JP,Living
+IND0704,Morgan Young 163,Morgan,Young,donor163@example.com,,555-000-163,ChildA-1163,,Former Parent,La Casita,Living
+UNK1549,Mount Washington Association,,,,,,,,Corporate Donor,,Defunct
+UNK1550,Mt. Washington Homeowners Alliance,,,,,,,,Corporate Donor,,Active
+UNK1551,Network For Good,,,,,,,,Corporate Donor,,Active
+UNK1552,Para Los Ninos,,,,,,,,Corporate Donor,,Active
+IND0608,Parker Allen 1219,Parker,Allen,donor1219@example.com,,555-000-1219,,N/A,Former Parent,JP,Living
+FAM0272,Parker Anderson 939,Parker,Anderson,donor939@example.com,,555-000-939,ChildA-1939,,Former Parent,JP,Living
+FAM0934,Parker Brown 179,Parker,Brown,donor179@example.com,,555-000-179,ChildA-1179,,Parent,TD,Living
+FAM0059,Parker Carter 59,Parker,Carter,donor59@example.com,,555-000-59,ChildA-1059,,Former Parent,JP,Living
+IND0449,Parker Carter 899,Parker,Carter,donor899@example.com,,555-000-899,ChildA-1899,,Former Parent,La Casita,Living
+FAM0591,Parker Collins 499,Parker,Collins,donor499@example.com,,555-000-499,ChildA-1191,,Former Parent,La Casita,Living
+IND1368,Parker Cook 1419,Parker,Cook,donor1419@example.com,,,,N/A,Community,Community,Living
+FAM0262,Parker Cook 659,Parker,Cook,donor659@example.com,,555-000-659,,N/A,Former Parent,JP,Living
+IND1138,Parker Flores 419,Parker,Flores,donor419@example.com,,,,N/A,Community,Community,Living
+FAM0828,Parker Hall 859,Parker,Hall,donor859@example.com,,555-000-859,ChildA-1057,,Former Parent,JP,Living
+FAM0947,Parker Johnson 1179,Parker,Johnson,donor1179@example.com,,555-000-1179,ChildA-2179,,Former Parent,JP,Living
+FAM0322,Parker Lewis 339,Parker,Lewis,donor339@example.com,,555-000-339,ChildA-1339,,Former Parent,JP,Living
+FAM1035,Parker Mitchell 539,Parker,Mitchell,donor539@example.com,,555-000-539,,N/A,Former Parent,JP,Living
+IND1197,Parker Mitchell 699,Parker,Mitchell,donor699@example.com,,,,N/A,Community,Community,Living
+IND1212,Parker Mitchell 779,Parker,Mitchell,donor779@example.com,,,,N/A,Community,Community,Living
+FAM0906,Parker Morris 299,Parker,Morris,donor299@example.com,,555-000-299,,N/A,Former Parent,JP,Living
+FAM0602,Parker Nguyen 739,Parker,Nguyen,donor739@example.com,,,,N/A,Former Parent,JP,Living
+FAM0954,Parker Phillips 19,Parker,Phillips,donor19@example.com,,555-000-19,,N/A,Former Parent,JP,Living
+FAM0338,Parker Phillips 459,Parker,Phillips,donor459@example.com,,,,N/A,Community,Community,Living
+IND0222,Parker Rivera 1099,Parker,Rivera,donor1099@example.com,,555-000-1099,,N/A,Former Parent,JP,Living
+IND1380,Parker Rivera 1459,Parker,Rivera,donor1459@example.com,,,,N/A,Community,Community,Living
+IND1006,Parker Roberts 1019,Parker,Roberts,donor1019@example.com,,555-000-1019,,N/A,Former Parent,JP,Living
+IND0544,Parker Rogers 1339,Parker,Rogers,donor1339@example.com,,555-000-1339,ChildA-2339,,Former Parent,La Casita,Living
+IND1321,Parker Rogers 1379,Parker,Rogers,donor1379@example.com,,,,N/A,Community,Community,Living
+FAM0050,Parker Rogers 139,Parker,Rogers,donor139@example.com,,555-000-139,,N/A,Former Parent,JP,Living
+IND1494,Parker Smith 1494,Parker,Smith,,,,,N/A,Community,Community,Living
+IND0121,Parker Smith 1499,Parker,Smith,donor1499@example.com,,555-000-1499,ChildA-2499,,Parent,TD,Living
+IND1104,Parker Smith 219,Parker,Smith,donor219@example.com,,,,N/A,Community,Community,Living
+IND1129,Parker Smith 379,Parker,Smith,donor379@example.com,,,,N/A,Community,Community,Living
+IND1191,Parker Stewart 979,Parker,Stewart,donor979@example.com,,,,N/A,Community,Community,Living
+FAM0381,Parker Taylor 1259,Parker,Taylor,donor1259@example.com,,555-000-1259,,N/A,Former Parent,JP,Living
+FAM0941,Parker Thompson 579,Parker,Thompson,donor579@example.com,,555-000-579,,N/A,Community,Community,Living
+FAM0277,Parker Thompson 8119,Parker,Thompson,donor819@example.com,,555-000-819,ChildA-1760,,Former Parent,La Casita,Living
+IND0330,Parker Torres 619,Parker,Torres,donor619@example.com,,555-000-619,,N/A,Former Parent,JP,Living
+IND1058,Parker Torres 99,Parker,Torres,donor99@example.com,,,,N/A,Community,Community,Living
+FAM0991,Parker Walker 1059,Parker,Walker,donor1059@example.com,,555-000-1059,,N/A,Former Parent,JP,Living
+FAM0141,Parker Walker 259,Parker,Walker,donor259@example.com,,555-000-259,,N/A,Former Parent,HP,Living
+FAM0464,Parker Young 1139,Parker,Young,donor1139@example.com,,555-000-1139,ChildA-2052,,Former Parent,La Casita,Living
+UNK1553,Pasadena Community Foundation,,,,,,,,Corporate Donor,,Active
+IND1325,Payton Adams 1225,Payton,Adams,donor1225@example.com,,555-000-1225,,N/A,Community,Community,Living
+FAM0244,Payton Adams 225,Payton,Adams,donor225@example.com,,,,N/A,Community,Community,Living
+IND0745,Payton Campbell 105,Payton,Campbell,donor105@example.com,,555-000-105,ChildA-1105,,Former Parent,La Casita,Living
+IND1155,Payton Campbell 505,Payton,Campbell,donor505@example.com,,,,N/A,Community,Community,Living
+FAM1414,Payton Carter 1414,Payton,Carter,,,,,N/A,Community,Community,Living
+IND1469,Payton Carter 1469,Payton,Carter,,,,,N/A,Community,Community,Living
+FAM1503,Payton Carter 1503,Payton,Carter,,,,,N/A,Community,Community,Living
+IND0029,Payton Carter 185,Payton,Carter,donor185@example.com,,555-000-185,ChildA-1185,,Former Parent,La Casita,Living
+IND0120,Payton Carter 65,Payton,Carter,donor65@example.com,,555-000-65,ChildA-1065,,Parent,TD,Living
+IND1218,Payton Clark 825,Payton,Clark,donor825@example.com,,,,N/A,Community,Community,Living
+IND1496,Payton Collins 1496,Payton,Collins,,,,,N/A,Community,Community,Living
+FAM0858,Payton Cook 1265,Payton,Cook,donor1265@example.com,,555-000-1265,ChildA-1093,,Former Parent,JP,Living
+FAM0426,Payton Cook 425,Payton,Cook,donor425@example.com,,555-000-425,ChildA-1425,,Former Parent,JP,Living
+FAM0815,Payton Cook 545,Payton,Cook,donor545@example.com,,555-000-545,,N/A,Former Parent,JP,Living
+FAM0144,Payton Flores 145,Payton,Flores,donor145@example.com,,555-000-145,,N/A,Former Parent,JP,Living
+FAM0297,Payton King 1025,Payton,King,donor1025@example.com,,555-000-1025,ChildA-2025,,Former Parent,JP,Living
+FAM0335,Payton King 585,Payton,King,donor585@example.com,,555-000-585,ChildA-1498,,Former Parent,JP,Living
+IND0840,Payton Lopez 625,Payton,Lopez,donor625@example.com,,555-000-625,ChildA-1625,,Former Parent,La Casita,Living
+IND1225,Payton Mitchell 865,Payton,Mitchell,donor865@example.com,,,,N/A,Community,Community,Living
+FAM0318,Payton Morris 265,Payton,Morris,donor265@example.com,,,,N/A,Former Parent,JP,Living
+FAM0103,Payton Rivera 1305,Payton,Rivera,donor1305@example.com,,555-000-1305,,N/A,Former Parent,JP,Living
+FAM0506,Payton Rivera 785,Payton,Rivera,donor785@example.com,,555-000-785,ChildA-1750,,Former Parent,La Casita,Living
+FAM0680,Payton Roberts 745,Payton,Roberts,donor745@example.com,,555-000-745,ChildA-1148,,Former Parent,La Casita,Living
+FAM0247,Payton Scott 25,Payton,Scott,donor25@example.com,,,ChildA-1025,,Former Parent,La Casita,Living
+IND1126,Payton Scott 385,Payton,Scott,donor385@example.com,,,,N/A,Community,Community,Living
+FAM0911,Payton Scott 465,Payton,Scott,donor465@example.com,,555-000-465,ChildA-1300,,Former Parent,La Casita,Living
+FAM0604,Payton Scott 905,Payton,Scott,donor905@example.com,,555-000-905,ChildA-1905,,Former Parent,La Casita,Living
+FAM0831,Payton Taylor 1065,Payton,Taylor,donor1065@example.com,,555-000-1065,ChildA-2065,,Parent,TD,Living
+FAM0686,Payton Torres 1185,Payton,Torres,donor1185@example.com,,,ChildA-1655,,Former Parent,La Casita,Living
+IND1109,Payton Torres 305,Payton,Torres,donor305@example.com,,,,N/A,Community,Community,Living
+IND1300,Payton Walker 1145,Payton,Walker,donor1145@example.com,donor11452@example.com,,,N/A,Community,Community,Living
+FAM0116,Payton White 1105,Payton,White,donor1105@example.com,,555-000-1105,ChildA-1729,,Former Parent,JP,Living
+FAM0902,Payton White 1385,Payton,White,donor1385@example.com,,,,N/A,Former Board Member,Community,Living
+FAM0715,Payton White 345,Payton,White,donor345@example.com,,,ChildA-1301,,,,
+FAM0924,Payton Wright 665,Payton,Wright,donor665@example.com,,555-000-665,,N/A,Former Parent,JP,Living
+FAM0678,Payton Young 945,Payton,Young,donor945@example.com,,555-000-945,ChildA-1103,,Former Parent,La Casita,Living
+IND1360,Phoenix Adams 1398,Phoenix,Adams,donor1398@example.com,,,,N/A,Community,Community,Living
+IND1074,Phoenix Adams 918,Phoenix,Adams,donor918@example.com,,,,N/A,Community,Community,Living
+IND1484,Phoenix Allen 1484,Phoenix,Allen,,,,,N/A,Community,Community,Living
+FAM0387,Phoenix Brown 1078,Phoenix,Brown,donor1078@example.com,,555-000-1078,,N/A,Former Parent,JP,Living
+FAM0442,Phoenix Campbell 1278,Phoenix,Campbell,donor1278@example.com,,555-000-1278,,N/A,Former Parent,JP,Living
+IND1094,Phoenix Campbell 238,Phoenix,Campbell,donor238@example.com,,,,N/A,Community,Community,Living
+FAM0729,Phoenix Campbell 478,Phoenix,Campbell,donor478@example.com,,,ChildA-1316,,Former Parent,La Casita,Living
+FAM1186,Phoenix Campbell 638,Phoenix,Campbell,donor638@example.com,,,,N/A,Community,Community,Living
+FAM0702,Phoenix Carter 758,Phoenix,Carter,donor758@example.com,,555-000-758,,N/A,Former Parent,JP,Living
+IND0696,Phoenix Clark 398,Phoenix,Clark,donor398@example.com,,555-000-398,ChildA-1398,,Former Parent,La Casita,Living
+FAM1465,Phoenix Collins 1465,Phoenix,Collins,,,,,N/A,Community,Community,Living
+IND0276,Phoenix Collins 318,Phoenix,Collins,donor318@example.com,,555-000-318,ChildA-1318,,Former Parent,La Casita,Living
+IND1202,Phoenix Collins 798,Phoenix,Collins,donor798@example.com,,,,N/A,Community,Community,Living
+IND0581,Phoenix Edwards 838,Phoenix,Edwards,donor838@example.com,,555-000-838,ChildA-1838,,Former Parent,La Casita,Living
+FAM0269,Phoenix Flores 1238,Phoenix,Flores,donor1238@example.com,,,,N/A,Former Parent,JP,Living
+FAM0415,Phoenix Harris 598,Phoenix,Harris,donor598@example.com,,555-000-598,ChildA-1598,,Former Parent,La Casita,Living
+IND0771,Phoenix Johnson 1118,Phoenix,Johnson,donor1118@example.com,,555-000-1118,ChildA-2118,,Former Parent,La Casita,Living
+FAM0347,Phoenix Johnson 358,Phoenix,Johnson,donor358@example.com,,555-000-358,ChildA-1358,,Former Parent,JP,Living
+FAM0173,Phoenix King 1478,Phoenix,King,donor1478@example.com,,555-000-1478,ChildA-1609,,Former Parent,JP,Living
+FAM0991,Phoenix King 78,Phoenix,King,donor78@example.com,,555-000-78,,N/A,Former Parent,JP,Living
+FAM0073,Phoenix Martin 1198,Phoenix,Martin,donor1198@example.com,,555-000-1198,ChildA-2165,,Former Parent,JP,Living
+IND1416,Phoenix Mitchell 1416,Phoenix,Mitchell,,,,,N/A,Community,Community,Living
+FAM0509,Phoenix Nguyen 558,Phoenix,Nguyen,donor558@example.com,,555-000-558,ChildA-1200,,Former Parent,La Casita,Living
+FAM0789,Phoenix Nguyen 998,Phoenix,Nguyen,donor998@example.com,,555-000-998,ChildA-1998,,Former Parent,La Casita,Living
+IND1436,Phoenix Perez 1436,Phoenix,Perez,,,,,N/A,Community,Community,Living
+IND0642,Phoenix Perez 158,Phoenix,Perez,donor158@example.com,,555-000-158,ChildA-1158,,Former Parent,JP,Living
+IND1420,Phoenix Rogers 1420,Phoenix,Rogers,,,,,N/A,Community,Community,Living
+IND0199,Phoenix Taylor 1438,Phoenix,Taylor,donor1438@example.com,,555-000-1438,ChildA-2438,,Former Parent,La Casita,Living
+FAM0274,Phoenix Taylor 678,Phoenix,Taylor,donor678@example.com,,555-000-678,ChildA-1402,,Former Parent,JP,Living
+FAM0775,Phoenix Thomas 438,Phoenix,Thomas,donor438@example.com,,555-000-438,ChildA-1438,Yes,Parent,HP,Living
+FAM0219,Phoenix Thompson 718,Phoenix,Thompson,donor718@example.com,,555-000-718,ChildA-1718,,Former Parent,La Casita,Living
+FAM0705,Phoenix Torres 1038,Phoenix,Torres,donor1038@example.com,,555-000-1038,ChildA-2038,,Former Parent,JP,Living
+FAM0491,Phoenix Torres 118,Phoenix,Torres,donor118@example.com,,555-000-118,ChildA-1118,,Former Parent,JP,Living
+FAM0114,Phoenix Walker 1318,Phoenix,Walker,donor1318@example.com,,555-000-1318,,N/A,Former Parent,JP,Living
+IND0026,Phoenix Young 1358,Phoenix,Young,donor1358@example.com,,555-000-1358,ChildA-2358,,Former Parent,JP,Living
+IND0779,Phoenix Young 38,Phoenix,Young,donor38@example.com,,555-000-38,ChildA-1038,,Former Parent,La Casita,Living
+IND1228,Phoenix Young 878,Phoenix,Young,donor878@example.com,,,,N/A,Community,Community,Living
+UNK1554,"Pinkberry, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1555,Pledgeling Foundation,,,,,,,,Corporate Donor,,Active
+IND0987,Quinn Campbell 1248,Quinn,Campbell,donor1248@example.com,,,,N/A,Former Parent,Community,Living
+IND0851,Quinn Campbell 128,Quinn,Campbell,donor128@example.com,,555-000-128,ChildA-1128,,Former Parent,La Casita,Living
+FAM0290,Quinn Carter 288,Quinn,Carter,donor288@example.com,,,,N/A,Community,Community,Living
+FAM0754,Quinn Carter 568,Quinn,Carter,donor568@example.com,,555-000-568,,N/A,Former Parent,JP,Living
+FAM0566,Quinn Clark 1088,Quinn,Clark,donor1088@example.com,,555-000-1088,ChildA-2088,,Former Parent,HP,Living
+FAM0370,Quinn Clark 848,Quinn,Clark,donor848@example.com,,555-000-848,ChildA-1753,,Former Parent,JP,Living
+IND0202,Quinn Collins 1408,Quinn,Collins,donor1408@example.com,,555-000-1408,ChildA-2408,,Former Parent,La Casita,Living
+FAM0373,Quinn Collins 648,Quinn,Collins,donor648@example.com,,555-000-648,ChildA-1648,,Former Parent,La Casita,Living
+FAM0457,Quinn Cook 1168,Quinn,Cook,donor1168@example.com,,,ChildA-1304,,Former Parent,La Casita,Living
+FAM0570,Quinn Edwards 368,Quinn,Edwards,donor368@example.com,,555-000-368,ChildA-1368,,Former Parent,La Casita,Living
+FAM0123,Quinn Evans 1128,Quinn,Evans,donor1128@example.com,,555-000-1128,,N/A,Former Parent,JP,Living
+IND0601,Quinn Flores 1368,Quinn,Flores,donor1368@example.com,,555-000-1368,ChildA-2368,,Former Parent,La Casita,Living
+FAM0916,Quinn Harris 1048,Quinn,Harris,donor1048@example.com,,555-000-1048,ChildA-1830,,Former Parent,JP,Living
+FAM0065,Quinn Johnson 1328,Quinn,Johnson,donor1328@example.com,,555-000-1328,ChildA-1805,Yes,Parent,HP,Living
+FAM1148,Quinn Lewis 448,Quinn,Lewis,donor448@example.com,,,,N/A,Community,Community,Living
+FAM0939,Quinn Lewis 728,Quinn,Lewis,donor728@example.com,,555-000-728,,N/A,Former Parent,JP,Living
+IND1388,Quinn Lopez 168,Quinn,Lopez,donor168@example.com,,,,N/A,Community,Community,Living
+IND1053,Quinn Lopez 48,Quinn,Lopez,donor48@example.com,,,,N/A,Community,Community,Living
+IND0675,Quinn Martin 1448,Quinn,Martin,donor1448@example.com,,555-000-1448,ChildA-2448,,Former Parent,La Casita,Living
+FAM0897,Quinn Martin 1779,Quinn,Martin,donor1779@example.com,,,ChildA-1482,Yes,Parent,HP,Living
+IND0261,Quinn Murphy 928,Quinn,Murphy,donor928@example.com,,555-000-928,ChildA-1928,,Former Parent,JP,Living
+FAM0088,Quinn Parker 688,Quinn,Parker,donor688@example.com,,555-000-688,,N/A,Former Parent,JP,Living
+FAM0616,Quinn Parker 888,Quinn,Parker,donor888@example.com,,555-000-888,ChildA-1154,,Former Parent,La Casita,Living
+FAM0034,Quinn Rivera 208,Quinn,Rivera,donor208@example.com,,555-000-208,ChildA-1208,,Former Parent,JP,Living
+FAM0517,Quinn Rivera 808,Quinn,Rivera,donor808@example.com,,555-000-808,ChildA-1671,,Former Parent,JP,Living
+FAM0234,Quinn Rivera 968,Quinn,Rivera,donor968@example.com,,555-000-968,ChildA-1968,,Former Parent,JP,Living
+FAM0856,Quinn Scott 1208,Quinn,Scott,donor1208@example.com,,555-000-1208,,N/A,Former Parent,JP,Living
+IND0644,Quinn Smith 328,Quinn,Smith,donor328@example.com,,555-000-328,ChildA-1328,,Former Parent,La Casita,Living
+IND1116,Quinn Smith 608,Quinn,Smith,donor608@example.com,,,,N/A,Community,Community,Living
+IND1240,Quinn Stewart 408,Quinn,Stewart,donor408@example.com,,,,N/A,Community,Community,Living
+FAM0307,Quinn Stewart 528,Quinn,Stewart,donor528@example.com,,555-000-528,ChildA-1528,,Former Parent,JP,Living
+IND0975,Quinn Taylor 88,Quinn,Taylor,donor88@example.com,,555-000-88,,N/A,Former Parent,JP,Living
+FAM0385,Quinn Thomas 8,Quinn,Thomas,donor8@example.com,,555-000-8,ChildA-1008,,Former Parent,JP,Living
+IND1137,Quinn Thompson 488,Quinn,Thompson,donor488@example.com,,,,N/A,Community,Community,Living
+IND0773,Quinn Torres 1288,Quinn,Torres,donor1288@example.com,,555-000-1288,ChildA-2288,,Former Parent,La Casita,Living
+IND1265,Quinn Walker 1008,Quinn,Walker,donor1008@example.com,,,,N/A,Community,Community,Living
+IND0647,Quinn Young 1488,Quinn,Young,donor1488@example.com,,555-000-1488,ChildA-2488,,Former Parent,La Casita,Living
+FAM1024,Quinn Young 248,Quinn,Young,donor248@example.com,,555-000-248,ChildA-1248,N/A,Former Parent,La Casita,Living
+FAM1039,Reese Anderson 1471,Reese,Anderson,donor1471@example.com,,,,N/A,Community,Community,Living
+FAM0951,Reese Anderson 751,Reese,Anderson,donor751@example.com,,555-000-751,ChildA-1751,,Former Parent,La Casita,Living
+IND1253,Reese Carter 1431,Reese,Carter,donor1431@example.com,,,,N/A,Community,Community,Living
+IND0040,Reese Carter 711,Reese,Carter,donor711@example.com,,555-000-711,ChildA-1711,,Former Parent,La Casita,Living
+FAM0734,Reese Edwards 1311,Reese,Edwards,donor1311@example.com,,555-000-1311,,N/A,Former Parent,JP,Living
+IND1501,Reese Edwards 1501,Reese,Edwards,,,,,N/A,Community,Community,Living
+FAM0311,Reese Edwards 311,Reese,Edwards,donor311@example.com,,555-000-311,ChildA-1311,,Parent,TD,Living
+IND1161,Reese Edwards 511,Reese,Edwards,donor511@example.com,,,,N/A,Community,Community,Living
+IND1061,Reese Evans 111,Reese,Evans,donor111@example.com,,,,N/A,Community,Community,Living
+IND1226,Reese Evans 871,Reese,Evans,donor871@example.com,,,,N/A,Community,Community,Living
+IND1093,Reese Flores 231,Reese,Flores,donor231@example.com,,,,N/A,Former Board Member,Community,Living
+FAM0692,Reese Flores 71,Reese,Flores,donor71@example.com,,555-000-71,ChildA-1071,,Former Parent,JP,Living
+FAM0447,Reese Hall 271,Reese,Hall,donor271@example.com,,555-000-271,ChildA-1271,,Former Parent,La Casita,Living
+FAM0579,Reese Harris 951,Reese,Harris,donor951@example.com,,,,N/A,Community,Community,Living
+FAM0756,Reese Lewis 1031,Reese,Lewis,donor1031@example.com,,555-000-1031,,N/A,Former Parent,JP,Living
+FAM0876,Reese Lewis 1071,Reese,Lewis,donor1071@example.com,,,,N/A,Community,Community,Living
+IND1491,Reese Martin 1491,Reese,Martin,,,,,N/A,Community,Community,Living
+FAM0591,Reese Martin 191,Reese,Martin,donor191@example.com,,555-000-191,ChildA-1191,,Former Parent,La Casita,Living
+IND1488,Reese Mitchell 1488,Reese,Mitchell,,,,,N/A,Community,Community,Living
+FAM0110,Reese Parker 151,Reese,Parker,donor151@example.com,,555-000-151,ChildA-1151,,Former Parent,JP,Living
+IND0430,Reese Perez 31,Reese,Perez,donor31@example.com,,555-000-31,ChildA-1031,,Former Parent,La Casita,Living
+FAM0159,Reese Perez 631,Reese,Perez,donor631@example.com,,555-000-631,ChildA-1631,Yes,Parent,HP,Living
+FAM0472,Reese Phillips 551,Reese,Phillips,donor551@example.com,,555-000-551,ChildA-1004,,Former Parent,La Casita,Living
+FAM0047,Reese Phillips 591,Reese,Phillips,donor591@example.com,,555-000-591,ChildA-1591,,Former Parent,JP,Living
+IND1315,Reese Rivera 1191,Reese,Rivera,donor1191@example.com,,,,N/A,Community,Community,Living
+IND1263,Reese Rivera 991,Reese,Rivera,donor991@example.com,,,,N/A,Community,Community,Living
+FAM0373,Reese Roberts 1351,Reese,Roberts,donor1351@example.com,,555-000-1351,ChildA-1648,,Former Parent,La Casita,Living
+IND1128,Reese Stewart 391,Reese,Stewart,donor391@example.com,,,,N/A,Community,Community,Living
+IND0414,Reese Taylor 1111,Reese,Taylor,donor1111@example.com,,555-000-1111,ChildA-2111,,Former Parent,La Casita,Living
+FAM0057,Reese Taylor 1151,Reese,Taylor,donor1151@example.com,,555-000-1151,,N/A,Former Parent,JP,Living
+FAM0932,Reese Taylor 471,Reese,Taylor,donor471@example.com,,555-000-471,,N/A,Former Parent,JP,Living
+FAM0517,Reese Taylor 671,Reese,Taylor,donor671@example.com,donor6712@example.com,555-000-671,ChildA-1671,,Former Parent,JP,Living
+FAM0956,Reese Thomas 791,Reese,Thomas,donor791@example.com,,555-000-791,,N/A,Former Parent,JP,Living
+IND1229,Reese Torres 831,Reese,Torres,donor831@example.com,,,,N/A,Community,Community,Living
+FAM0893,Reese Walker 351,Reese,Walker,donor351@example.com,,,ChildA-1351,,Former Parent,La Casita,Living
+FAM0783,Reese Wright 431,Reese,Wright,donor431@example.com,,,,N/A,Community,Community,Living
+IND0452,Reese Wright 911,Reese,Wright,donor911@example.com,,555-000-911,ChildA-1911,,Former Parent,La Casita,Living
+IND1164,Riley Adams 530,Riley,Adams,donor530@example.com,,,,N/A,Community,Community,Living
+FAM0139,Riley Allen 1130,Riley,Allen,donor1130@example.com,,555-000-1130,ChildA-2130,,Former Parent,JP,Living
+IND1044,Riley Allen 130,Riley,Allen,donor130@example.com,,,,N/A,Community,Community,Living
+IND0203,Riley Anderson 1090,Riley,Anderson,donor1090@example.com,,555-000-1090,ChildA-2090,,Former Parent,La Casita,Living
+IND1474,Riley Brown 1474,Riley,Brown,,,,,N/A,Community,Community,Living
+FAM0036,Riley Brown 50,Riley,Brown,donor50@example.com,,555-000-50,,N/A,Former Parent,JP,Living
+FAM0069,Riley Campbell 10,Riley,Campbell,donor10@example.com,,555-000-10,ChildA-1010,,Parent,TD,Living
+IND0826,Riley Campbell 610,Riley,Campbell,donor610@example.com,,555-000-610,,N/A,Former Parent,JP,Living
+FAM0731,Riley Carter 330,Riley,Carter,donor330@example.com,,,,N/A,Former Parent,JP,Living
+FAM1004,Riley Carter 930,Riley,Carter,donor930@example.com,,,,N/A,Community,Community,Living
+FAM0223,Riley Clark 890,Riley,Clark,donor890@example.com,,,,N/A,Community,Community,Living
+IND1418,Riley Cook 1418,Riley,Cook,,,,,N/A,Community,Community,Living
+FAM0500,Riley Cook 690,Riley,Cook,donor690@example.com,,555-000-690,,N/A,Former Parent,JP,Living
+IND0100,Riley Cook 730,Riley,Cook,donor730@example.com,,555-000-730,,N/A,Former Parent,JP,Living
+IND0455,Riley Edwards 490,Riley,Edwards,donor490@example.com,,555-000-490,ChildA-1490,,Former Parent,La Casita,Living
+FAM0527,Riley Johnson 810,Riley,Johnson,donor810@example.com,,555-000-810,,N/A,Former Parent,JP,Living
+IND1426,Riley Lewis 1426,Riley,Lewis,,,,,N/A,Community,Community,Dead
+IND0079,Riley Lewis 170,Riley,Lewis,donor170@example.com,,,,N/A,Community,Community,Living
+FAM0713,Riley Lopez 250,Riley,Lopez,donor250@example.com,,,,N/A,Former Parent,JP,Living
+FAM0426,Riley Martin 1450,Riley,Martin,donor1450@example.com,,555-000-1450,ChildA-1425,,Former Parent,JP,Living
+FAM0922,Riley Morris 1290,Riley,Morris,donor1290@example.com,,555-000-1290,ChildA-1781,,Former Parent,JP,Living
+FAM0478,Riley Murphy 450,Riley,Murphy,donor450@example.com,,555-000-450,ChildA-1195,,Former Parent,La Casita,Living
+FAM0891,Riley Perez 90,Riley,Perez,donor90@example.com,,555-000-90,,N/A,Former Parent,JP,Living
+IND1306,Riley Phillips 1170,Riley,Phillips,donor1170@example.com,,,,N/A,Community,Community,Living
+IND0654,Riley Rivera 1330,Riley,Rivera,donor1330@example.com,,555-000-1330,ChildA-2330,,Former Parent,La Casita,Living
+IND0718,Riley Scott 1370,Riley,Scott,donor1370@example.com,,555-000-1370,,N/A,Former Parent,JP,Living
+FAM0904,Riley Stewart 1490,Riley,Stewart,donor1490@example.com,,555-000-1490,ChildA-1857,,Parent,TD,Living
+FAM0896,Riley Taylor 770,Riley,Taylor,donor770@example.com,,555-000-770,,N/A,Former Parent,JP,Living
+FAM0228,Riley Thompson 1050,Riley,Thompson,donor1050@example.com,,555-000-1050,,N/A,Former Parent,JP,Living
+IND0598,Riley Thompson 970,Riley,Thompson,donor970@example.com,,555-000-970,ChildA-1970,,Former Parent,La Casita,Living
+FAM0034,Riley Torres 650,Riley,Torres,donor650@example.com,,555-000-650,ChildA-1208,,Former Parent,JP,Living
+FAM0818,Riley Walker 1210,Riley,Walker,donor1210@example.com,,555-000-1210,ChildA-1193,,Former Parent,La Casita,Living
+FAM0719,Riley Walker 290,Riley,Walker,donor290@example.com,,,,N/A,Community,Community,Dead
+FAM1020,Riley Walker 850,Riley,Walker,donor850@example.com,,555-000-850,,N/A,Former Parent,JP,Living
+IND0169,Riley White 370,Riley,White,donor370@example.com,,555-000-371,ChildA-1370,,Former Parent,HP,Living
+FAM0550,Riley White 371,Riley,White,donor371@example.com,,555-000-370,ChildA-1051,,Former Parent,JP,Living
+UNK1365,Riley Wright 1410,Riley,Wright,donor1410@example.com,,,,N/A,Community,Community,Living
+IND0260,Riley Young 1250,Riley,Young,donor1250@example.com,,555-000-1250,ChildA-2250,,Former Parent,La Casita,Living
+UNK1439,Riley Young 1439,Riley,Young,,,,,N/A,Community,Community,Living
+UNK1556,"RMS Communications Group, Inc.",,,,,,,,Corporate Donor,,Defunct
+UNK1574,Roberts Family Trust,,,,,,,,Corporate Donor,,Active
+FAM0627,Robin Allen 21,Robin,Allen,donor21@example.com,,,,N/A,Former Parent,JP,Living
+IND0707,Robin Campbell 501,Robin,Campbell,donor501@example.com,,555-000-501,ChildA-1501,,Former Parent,La Casita,Living
+FAM0900,Robin Campbell 741,Robin,Campbell,donor741@example.com,,,,N/A,Community,Community,Living
+IND0572,Robin Campbell 981,Robin,Campbell,donor981@example.com,,555-000-981,ChildA-1981,,Former Parent,La Casita,Living
+IND0504,Robin Carter 261,Robin,Carter,donor261@example.com,,555-000-261,ChildA-1261,,Former Parent,La Casita,Living
+FAM0715,Robin Carter 301,Robin,Carter,donor301@example.com,,555-000-301,ChildA-1301,,Former Parent,La Casita,Living
+IND0239,Robin Clark 421,Robin,Clark,donor421@example.com,,555-000-421,,N/A,Former Parent,JP,Living
+IND1175,Robin Collins 581,Robin,Collins,donor581@example.com,,,,N/A,Community,Community,Living
+FAM0347,Robin Edwards 381,Robin,Edwards,donor381@example.com,,555-000-381,ChildA-1358,,Former Parent,JP,Living
+IND1296,Robin Evans 1141,Robin,Evans,donor1141@example.com,,,,N/A,Community,Community,Living
+FAM0520,Robin Evans 221,Robin,Evans,donor221@example.com,,555-000-221,ChildA-1221,,Former Parent,La Casita,Living
+FAM0883,Robin Flores 1021,Robin,Flores,donor1021@example.com,,,ChildA-2021,,Former Parent,La Casita,Living
+IND1049,Robin Hall 621,Robin,Hall,donor621@example.com,,,,N/A,Community,Community,Living
+IND1485,Robin Johnson 1485,Robin,Johnson,,,,,N/A,Community,Community,Living
+FAM0824,Robin King 701,Robin,King,donor701@example.com,,555-000-701,,N/A,Former Parent,JP,Living
+FAM0237,Robin Lopez 1061,Robin,Lopez,donor1061@example.com,,555-000-1061,,N/A,Former Parent,JP,Living
+IND1344,Robin Mitchell 901,Robin,Mitchell,donor901@example.com,,,,N/A,Community,Community,Living
+IND0633,Robin Morris 1221,Robin,Morris,donor1221@example.com,,555-000-1221,ChildA-2221,,Former Parent,La Casita,Living
+IND1381,Robin Murphy 1461,Robin,Murphy,donor1461@example.com,,,,N/A,Community,Community,Living
+FAM0225,Robin Phillips 1381,Robin,Phillips,donor1381@example.com,,555-000-1381,ChildA-2163,,Former Parent,JP,Living
+FAM0215,Robin Phillips 461,Robin,Phillips,donor461@example.com,,,ChildA-1461,,Former Parent,La Casita,Living
+IND1233,Robin Phillips 941,Robin,Phillips,donor941@example.com,,,,N/A,Community,Community,Living
+FAM0328,Robin Rivera 1101,Robin,Rivera,donor1101@example.com,,555-000-1101,,N/A,Former Parent,JP,Living
+IND0049,Robin Rogers 1301,Robin,Rogers,donor1301@example.com,,555-000-1301,,N/A,Former Parent,JP,Living
+IND1070,Robin Rogers 141,Robin,Rogers,donor141@example.com,,,,N/A,Community,Community,Living
+FAM0349,Robin Rogers 1421,Robin,Rogers,donor1421@example.com,,555-000-1421,ChildA-2255,,Former Parent,JP,Living
+IND1489,Robin Rogers 1489,Robin,Rogers,,,,,N/A,Community,Community,Living
+IND1281,Robin Rogers 661,Robin,Rogers,donor661@example.com,,,,N/A,Community,Community,Living
+FAM0322,Robin Scott 861,Robin,Scott,donor861@example.com,,555-000-861,ChildA-1339,,Former Parent,JP,Living
+FAM0179,Robin Smith 1341,Robin,Smith,donor1341@example.com,,555-000-1341,ChildA-2270,,Parent,TD,Living
+IND1173,Robin Stewart 541,Robin,Stewart,donor541@example.com,,,,N/A,Community,Community,Living
+IND0685,Robin Taylor 341,Robin,Taylor,donor341@example.com,,555-000-341,ChildA-1341,,Former Parent,La Casita,Living
+IND1399,Robin Thomas 1501,Robin,Thomas,donor1501@example.com,,,,N/A,Community,Community,Living
+FAM0144,Robin Thompson 101,Robin,Thompson,donor101@example.com,,555-000-101,,N/A,Former Parent,JP,Living
+FAM0247,Robin Thompson 61,Robin,Thompson,donor61@example.com,,,ChildA-1025,,Former Parent,La Casita,Living
+FAM0922,Robin White 781,Robin,White,donor781@example.com,,555-000-781,ChildA-1781,,Former Parent,JP,Living
+IND0150,Robin White 821,Robin,White,donor821@example.com,,555-000-821,ChildA-1821,,Former Parent,La Casita,Living
+FAM0532,Robin Wright 181,Robin,Wright,donor181@example.com,,555-000-181,ChildA-1181,,Board Member,HP,Living
+UNK1557,"Rom Com, Inc.",,,,,,,,Corporate Donor,,Defunct
+UNK1558,Rubio's Fresh Mexican Grill,,,,,,,,Corporate Donor,,Active
+FAM0659,Sam Anderson 659,Sam,Anderson,,,,ChildA-1832,N/A,Former Parent,La Casita,Living
+IND1361,Sam Brown 1405,Sam,Brown,donor1405@example.com,,,,N/A,Community,Community,Living
+FAM0930,Sam Carter 930,Sam,Carter,,,,ChildA-1932,,Former Parent,La Casita,Living
+IND1462,Sam Clark 1462,Sam,Clark,,,,,N/A,Community,Community,Living
+FAM0748,Sam Collins 1085,Sam,Collins,donor1085@example.com,,555-000-1085,ChildA-1662,,Former Parent,HP,Living
+FAM0184,Sam Collins 285,Sam,Collins,donor285@example.com,,,,N/A,Community,Community,Living
+IND0462,Sam Cook 1365,Sam,Cook,donor1365@example.com,,555-000-1365,ChildA-2365,,Former Parent,La Casita,Living
+IND0913,Sam Edwards 1045,Sam,Edwards,donor1045@example.com,,555-000-1045,ChildA-2045,,Former Parent,JP,Living
+IND1467,Sam Edwards 1467,Sam,Edwards,,,,,N/A,Community,Community,Living
+FAM0621,Sam Edwards 85,Sam,Edwards,donor85@example.com,,555-000-85,ChildA-1085,,Former Parent,La Casita,Living
+IND0129,Sam Evans 485,Sam,Evans,donor485@example.com,,555-000-485,ChildA-1485,,Former Parent,JP,Living
+IND1193,Sam Flores 685,Sam,Flores,donor685@example.com,,,,N/A,Community,Community,Living
+IND0508,Sam Hall 125,Sam,Hall,donor125@example.com,,555-000-125,,N/A,Former Parent,JP,Living
+IND0122,Sam Harris 165,Sam,Harris,donor165@example.com,,555-000-165,ChildA-1165,,Former Parent,La Casita,Living
+IND1117,Sam Johnson 325,Sam,Johnson,donor325@example.com,,,,N/A,Community,Community,Living
+IND1115,Sam Johnson 405,Sam,Johnson,donor405@example.com,,,,N/A,Community,Community,Living
+IND1487,Sam King 1487,Sam,King,,,,,N/A,Community,Community,Living
+FAM0258,Sam King 205,Sam,King,donor205@example.com,,555-000-205,,N/A,Former Parent,JP,Living
+FAM0197,Sam Lewis 885,Sam,Lewis,donor885@example.com,,555-000-885,ChildA-1885,,Former Parent,JP,Living
+FAM0417,Sam Mitchell 365,Sam,Mitchell,donor365@example.com,,555-000-365,,N/A,Former Parent,JP,Living
+FAM0251,Sam Mitchell 45,Sam,Mitchell,donor45@example.com,,555-000-45,ChildA-1045,,Former Parent,JP,Living
+FAM0184,Sam Mitchell 525,Sam,Mitchell,donor525@example.com,,,,N/A,Community,Community,Living
+IND1392,Sam Morris 1485,Sam,Morris,donor1485@example.com,,,,N/A,Community,Community,Living
+FAM0412,Sam Morris 645,Sam,Morris,donor645@example.com,,555-000-645,ChildA-1645,,Parent,TD,Living
+FAM0073,Sam Murphy 1165,Sam,Murphy,donor1165@example.com,,555-000-1165,ChildA-2165,,Former Parent,JP,Living
+IND1340,Sam Parker 1285,Sam,Parker,donor1285@example.com,,,,N/A,Community,Community,Living
+IND0875,Sam Phillips 1445,Sam,Phillips,donor1445@example.com,,555-000-1445,ChildA-2445,,Former Parent,La Casita,Living
+IND0620,Sam Phillips 445,Sam,Phillips,donor445@example.com,,555-000-445,ChildA-1445,,Former Parent,La Casita,Living
+FAM0895,Sam Phillips 5,Sam,Phillips,donor5@example.com,,555-000-5,ChildA-1005,Yes,Parent,HP,Living
+IND1198,Sam Phillips 725,Sam,Phillips,donor725@example.com,,,,N/A,Community,Community,Living
+IND0327,Sam Rivera 765,Sam,Rivera,donor765@example.com,,555-000-765,ChildA-1765,,Former Parent,La Casita,Living
+FAM0161,Sam Roberts 565,Sam,Roberts,donor565@example.com,,,,N/A,Community,Community,Living
+FAM0939,Sam Rogers 245,Sam,Rogers,donor245@example.com,,555-000-245,,N/A,Former Parent,JP,Living
+IND1364,Sam Scott 605,Sam,Scott,donor605@example.com,,,,N/A,Community,Community,Living
+FAM0065,Sam Scott 805,Sam,Scott,donor805@example.com,,555-000-805,ChildA-1805,Yes,Parent,HP,Living
+FAM0574,Sam Walker 1245,Sam,Walker,donor1245@example.com,,555-000-1245,ChildA-2245,,Former Parent,La Casita,Living
+FAM0256,Sam Wright 1005,Sam,Wright,donor1005@example.com,,555-000-1005,ChildA-1754,,Former Parent,La Casita,Living
+FAM0864,Sam Wright 1325,Sam,Wright,donor1325@example.com,,555-000-1325,ChildA-2325,,Parent,TD,Living
+IND1127,Sawyer Allen 359,Sawyer,Allen,donor359@example.com,,,,N/A,Community,Community,Living
+FAM0127,Sawyer Anderson 959,Sawyer,Anderson,donor959@example.com,,555-000-959,,N/A,Former Parent,JP,Living
+FAM0107,Sawyer Brown 879,Sawyer,Brown,donor879@example.com,,,,N/A,Community,Community,Living
+IND1159,Sawyer Campbell 519,Sawyer,Campbell,donor519@example.com,,,,N/A,Community,Community,Living
+FAM0997,Sawyer Campbell 679,Sawyer,Campbell,donor679@example.com,,,,N/A,Community,Community,Living
+FAM0075,Sawyer Clark 1199,Sawyer,Clark,donor1199@example.com,,555-000-1199,ChildA-1472,,Former Parent,JP,Living
+FAM0789,Sawyer Collins 1039,Sawyer,Collins,donor1039@example.com,,,ChildA-1998,,Former Parent,La Casita,Living
+IND1095,Sawyer Cook 239,Sawyer,Cook,donor239@example.com,,,,N/A,Community,Community,Living
+IND1276,Sawyer Edwards 1079,Sawyer,Edwards,donor1079@example.com,,,,N/A,Community,Community,Living
+FAM1003,Sawyer Flores 39,Sawyer,Flores,donor39@example.com,donor392@example.com,555-000-39,,N/A,Former Parent,JP,Living
+FAM0833,Sawyer Flores 439,Sawyer,Flores,donor439@example.com,,555-000-439,ChildA-1439,,Former Parent,La Casita,Living
+IND0683,Sawyer Harris 319,Sawyer,Harris,donor319@example.com,,555-000-319,ChildA-1319,,Former Parent,La Casita,Living
+FAM1465,Sawyer Johnson 1465,Sawyer,Johnson,,,,,N/A,Community,Community,Living
+FAM0804,Sawyer Johnson 279,Sawyer,Johnson,donor279@example.com,,555-000-279,ChildA-1279,,Former Parent,La Casita,Living
+FAM0754,Sawyer Johnson 479,Sawyer,Johnson,donor479@example.com,,555-000-479,,N/A,Former Parent,JP,Living
+FAM1026,Sawyer Johnson 639,Sawyer,Johnson,donor639@example.com,,,,N/A,Community,Community,Living
+IND0750,Sawyer King 839,Sawyer,King,donor839@example.com,,555-000-839,ChildA-1839,,Former Parent,La Casita,Living
+IND1172,Sawyer Lopez 919,Sawyer,Lopez,donor919@example.com,,,,N/A,Community,Community,Living
+IND0740,Sawyer Morris 1239,Sawyer,Morris,donor1239@example.com,,555-000-1239,ChildA-2239,,Former Parent,JP,Living
+FAM0032,Sawyer Morris 159,Sawyer,Morris,donor159@example.com,,,,N/A,Community,Community,Living
+FAM0545,Sawyer Nguyen 719,Sawyer,Nguyen,donor719@example.com,,555-000-719,ChildA-1153,,Former Parent,La Casita,Living
+FAM0063,Sawyer Nguyen 999,Sawyer,Nguyen,donor999@example.com,,555-000-999,ChildA-1483,,Former Parent,JP,Living
+IND0002,Sawyer Parker 119,Sawyer,Parker,donor119@example.com,,555-000-119,ChildA-1119,,Former Parent,JP,Living
+IND1482,Sawyer Parker 1482,Sawyer,Parker,,,,,N/A,Community,Community,Living
+IND0814,Sawyer Perez 1399,Sawyer,Perez,donor1399@example.com,,555-000-1399,,N/A,Former Parent,La Casita,Living
+FAM0267,Sawyer Perez 199,Sawyer,Perez,donor199@example.com,,,ChildA-1199,,Former Parent,La Casita,Living
+IND1339,Sawyer Phillips 1279,Sawyer,Phillips,donor1279@example.com,,,,N/A,Community,Community,Living
+FAM0303,Sawyer Phillips 399,Sawyer,Phillips,donor399@example.com,,555-000-399,ChildA-1399,,Former Parent,La Casita,Living
+FAM0012,Sawyer Phillips 79,Sawyer,Phillips,donor79@example.com,,555-000-79,,N/A,Former Parent,JP,Living
+IND1377,Sawyer Rivera 1439,Sawyer,Rivera,donor1439@example.com,,,,N/A,Community,Community,Living
+IND1499,Sawyer Rivera 1499,Sawyer,Rivera,,,,,N/A,Community,Community,Living
+FAM0419,Sawyer Rivera 559,Sawyer,Rivera,donor559@example.com,,555-000-559,,N/A,Former Parent,JP,Living
+FAM1441,Sawyer Stewart 1441,Sawyer,Stewart,,,,,N/A,Community,Community,Living
+IND0648,Sawyer Stewart 599,Sawyer,Stewart,donor599@example.com,,555-000-599,ChildA-1599,,Former Parent,La Casita,Living
+UNK1312,Sawyer Taylor 1500,,,donor1500@example.com,,,,N/A,Community,Community,Living
+FAM0398,Sawyer Taylor 759,Sawyer,Taylor,donor759@example.com,,555-000-759,,N/A,Former Parent,JP,Living
+FAM0781,Sawyer Thompson 799,Sawyer,Thompson,donor799@example.com,,555-000-799,ChildA-1799,Yes,Parent,HP,Living
+FAM0924,Sawyer Walker 1479,Sawyer,Walker,donor1479@example.com,,555-000-1479,,N/A,Former Parent,JP,Living
+UNK1559,Scholastic,,,,,,,,Corporate Donor,,Active
+UNK1560,Self Realization Fellowship Church,,,,,,,,Corporate Donor,,Active
+UNK1561,Shakey's,,,,,,,,Corporate Donor,,Active
+FAM0251,Shannon Adams 428,Shannon,Adams,donor428@example.com,,555-000-428,ChildA-1045,,Former Parent,JP,Living
+FAM0424,Shannon Anderson 1388,Shannon,Anderson,donor1388@example.com,,,ChildA-1091,,Former Parent,La Casita,Living
+FAM0797,Shannon Campbell 268,Shannon,Campbell,donor268@example.com,,555-000-268,ChildA-1268,,Former Parent,La Casita,Living
+IND1372,Shannon Carter 1428,Shannon,Carter,donor1428@example.com,,,,N/A,Community,Community,Living
+IND1184,Shannon Clark 628,Shannon,Clark,donor628@example.com,,,,N/A,Community,Community,Living
+FAM0127,Shannon Edwards 28,Shannon,Edwards,donor28@example.com,,555-000-28,,N/A,Former Parent,JP,Living
+FAM0564,Shannon Edwards 508,Shannon,Edwards,donor508@example.com,,555-000-508,,N/A,Former Parent,JP,Living
+FAM1032,Shannon Edwards 908,Shannon,Edwards,donor908@example.com,,555-000-908,,N/A,Former Parent,JP,Living
+FAM0152,Shannon Evans 988,Shannon,Evans,donor988@example.com,,555-000-988,ChildA-1018,,Former Parent,JP,Living
+FAM0554,Shannon Flores 1108,Shannon,Flores,donor1108@example.com,,555-000-1108,ChildA-1786,,Former Parent,La Casita,Living
+FAM0666,Shannon Hall 668,Shannon,Hall,donor668@example.com,,,,N/A,Former Board Member,Community,Living
+IND1311,Shannon Johnson 1188,Shannon,Johnson,donor1188@example.com,,,,N/A,Community,Community,Living
+FAM0680,Shannon King 148,Shannon,King,donor148@example.com,,555-000-148,ChildA-1148,,Former Parent,La Casita,Living
+IND1151,Shannon King 468,Shannon,King,donor468@example.com,,,,N/A,Community,Community,Living
+FAM0941,Shannon King 941,Shannon,King,,,,,N/A,Community,Community,Living
+FAM0210,Shannon Lopez 1268,Shannon,Lopez,donor1268@example.com,,555-000-1268,ChildA-1469,,Parent,TD,Living
+FAM0024,Shannon Lopez 308,Shannon,Lopez,donor308@example.com,,555-000-308,ChildA-1308,,Former Parent,La Casita,Living
+FAM0656,Shannon Lopez 388,Shannon,Lopez,donor388@example.com,,555-000-388,ChildA-1388,,Former Parent,La Casita,Living
+FAM1001,Shannon Lopez 68,Shannon,Lopez,donor68@example.com,,555-000-68,,N/A,Former Parent,JP,Living
+FAM0206,Shannon Morris 1308,Shannon,Morris,donor1308@example.com,,555-000-1308,ChildA-2132,,Former Parent,JP,Living
+IND0513,Shannon Morris 348,Shannon,Morris,donor348@example.com,,555-000-348,,N/A,Former Parent,La Casita,Living
+IND1385,Shannon Murphy 1468,Shannon,Murphy,donor1468@example.com,,,,N/A,Community,Community,Living
+IND1275,Shannon Nguyen 1068,Shannon,Nguyen,donor1068@example.com,,,,N/A,Community,Community,Living
+IND1063,Shannon Phillips 108,Shannon,Phillips,donor108@example.com,,,,N/A,Community,Community,Living
+FAM0711,Shannon Phillips 708,Shannon,Phillips,donor708@example.com,,555-000-708,ChildA-1007,,Former Parent,JP,Living
+IND1379,Shannon Phillips 948,Shannon,Phillips,donor948@example.com,,,,N/A,Community,Community,Living
+FAM0645,Shannon Rivera 1148,Shannon,Rivera,donor1148@example.com,,555-000-1148,ChildA-1843,,Former Parent,La Casita,Living
+IND0519,Shannon Rivera 188,Shannon,Rivera,donor188@example.com,,555-000-188,ChildA-1188,,Former Parent,La Casita,Living
+FAM0254,Shannon Smith 1348,Shannon,Smith,donor1348@example.com,,555-000-1348,ChildA-1669,,Former Parent,JP,Living
+IND0227,Shannon Smith 828,Shannon,Smith,donor828@example.com,,555-000-828,,N/A,Former Parent,JP,Living
+FAM0609,Shannon Stewart 588,Shannon,Stewart,donor588@example.com,,555-000-588,,N/A,Former Parent,JP,Living
+FAM0558,Shannon Stewart 868,Shannon,Stewart,donor868@example.com,donor8682@example.com,,,N/A,Community,Community,Living
+IND1214,Shannon Thompson 788,Shannon,Thompson,donor788@example.com,,,,N/A,Community,Community,Living
+FAM0673,Shannon Walker 1228,Shannon,Walker,donor1228@example.com,,,,N/A,Community,Community,Living
+IND1208,Shannon Walker 748,Shannon,Walker,donor748@example.com,,,,N/A,Community,Community,Living
+IND1269,Shannon Wright 1028,Shannon,Wright,donor1028@example.com,,,,N/A,Community,Community,Living
+FAM0713,Shannon Wright 228,Shannon,Wright,donor228@example.com,,555-000-228,,N/A,Former Parent,JP,Living
+IND1346,Skylar Allen 1369,Skylar,Allen,donor1369@example.com,,,,N/A,Community,Community,Living
+IND1291,Skylar Brown 1129,Skylar,Brown,donor1129@example.com,,,,N/A,Community,Community,Living
+FAM0793,Skylar Brown 289,Skylar,Brown,donor289@example.com,,555-000-289,,N/A,Former Parent,HP,Living
+FAM0820,Skylar Collins 1049,Skylar,Collins,donor1049@example.com,,555-000-1049,ChildA-2049,,Former Parent,JP,Living
+IND0391,Skylar Cook 1289,Skylar,Cook,donor1289@example.com,,555-000-1289,ChildA-2289,,Former Parent,La Casita,Living
+IND1054,Skylar Cook 49,Skylar,Cook,donor49@example.com,,,,N/A,Community,Community,Living
+IND1113,Skylar Edwards 9,Skylar,Edwards,donor9@example.com,,,,N/A,Community,Community,Living
+FAM0758,Skylar Evans 1169,Skylar,Evans,donor1169@example.com,,555-000-1169,ChildA-2169,,Former Parent,JP,Living
+FAM0965,Skylar Evans 89,Skylar,Evans,donor89@example.com,,,ChildA-1043,,Former Parent,La Casita,Living
+FAM0403,Skylar Hall 1089,Skylar,Hall,donor1089@example.com,,555-000-1089,,N/A,Former Parent,JP,Living
+IND1112,Skylar Hall 249,Skylar,Hall,donor249@example.com,,,,N/A,Community,Community,Living
+IND1213,Skylar Harris 689,Skylar,Harris,donor689@example.com,,,,N/A,Community,Community,Living
+FAM0022,Skylar Johnson 849,Skylar,Johnson,donor849@example.com,,555-000-849,ChildA-1849,,Former Parent,La Casita,Living
+FAM0881,Skylar King 1409,Skylar,King,donor1409@example.com,,,,N/A,Community,Community,Living
+IND0792,Skylar King 329,Skylar,King,donor329@example.com,,555-000-329,ChildA-1329,,Former Parent,La Casita,Living
+IND1242,Skylar Lewis 929,Skylar,Lewis,donor929@example.com,,,,N/A,Community,Community,Living
+IND0636,Skylar Martin 129,Skylar,Martin,donor129@example.com,,555-000-129,ChildA-1129,,Former Parent,La Casita,Living
+FAM0983,Skylar Martin 649,Skylar,Martin,donor649@example.com,,555-000-649,ChildA-1649,,Former Parent,JP,Living
+FAM0116,Skylar Martin 729,Skylar,Martin,donor729@example.com,,555-000-729,ChildA-1729,,Former Parent,JP,Living
+FAM0331,Skylar Mitchell 529,Skylar,Mitchell,donor529@example.com,,555-000-529,ChildA-1529,,Former Parent,La Casita,Living
+FAM0631,Skylar Morris 1209,Skylar,Morris,donor1209@example.com,,555-000-1209,ChildA-1155,,Former Parent,La Casita,Living
+IND0460,Skylar Morris 1449,Skylar,Morris,donor1449@example.com,,555-000-1449,ChildA-2449,,Former Parent,La Casita,Living
+FAM0881,Skylar Morris 809,Skylar,Morris,donor809@example.com,,,,N/A,Community,Community,Living
+IND1403,Skylar Murphy 1489,Skylar,Murphy,donor1489@example.com,,555-000-1489,,N/A,Community,Community,Living
+FAM0101,Skylar Nguyen 369,Skylar,Nguyen,donor369@example.com,,555-000-369,ChildA-1369,,Former Parent,JP,Living
+FAM1008,Skylar Perez 169,Skylar,Perez,donor169@example.com,,,,N/A,Community,Community,Living
+FAM0552,Skylar Phillips 449,Skylar,Phillips,donor449@example.com,,555-000-449,ChildA-1014,,Former Parent,JP,Living
+IND1152,Skylar Phillips 489,Skylar,Phillips,donor489@example.com,,,,N/A,Community,Community,Living
+FAM0264,Skylar Rivera 209,Skylar,Rivera,donor209@example.com,,555-000-209,ChildA-1209,,Former Parent,JP,Living
+IND1286,Skylar Rivera 409,Skylar,Rivera,donor409@example.com,,,,N/A,Community,Community,Living
+IND0183,Skylar Scott 769,Skylar,Scott,donor769@example.com,,555-000-769,ChildA-1769,,Former Parent,La Casita,Living
+FAM0562,Skylar Smith 569,Skylar,Smith,donor569@example.com,,555-000-569,,N/A,Former Parent,JP,Living
+FAM0854,Skylar Stewart 1329,Skylar,Stewart,donor1329@example.com,,555-000-1329,,N/A,Former Parent,JP,Living
+IND1247,Skylar Taylor 969,Skylar,Taylor,donor969@example.com,,,,N/A,Community,Community,Living
+IND1234,Skylar Thomas 889,Skylar,Thomas,donor889@example.com,,,,N/A,Community,Community,Living
+FAM0173,Skylar Walker 609,Skylar,Walker,donor609@example.com,,555-000-609,ChildA-1609,,Former Parent,JP,Living
+FAM1432,Skylar Wright 1432,Skylar,Wright,,,,,N/A,Community,Community,Living
+FAM0785,Skylar Young 1249,Skylar,Young,donor1249@example.com,,555-000-1249,,N/A,Former Parent,JP,Living
+UNK1563,Smart Circle International LLC,,,,,,,,Corporate Donor,,Active
+UNK1564,SoCal Frozen Treat,,,,,,,,Corporate Donor,,Active
+IND1443,Spencer Allen 1443,Spencer,Allen,,,,,N/A,Community,Community,Living
+FAM0179,Spencer Brown 1270,Spencer,Brown,donor1270@example.com,,555-000-1270,ChildA-2270,,Former Parent,,Living
+FAM0090,Spencer Campbell 1430,Spencer,Campbell,donor1430@example.com,,555-000-1430,,N/A,Former Parent,JP,Living
+IND1050,Spencer Campbell 30,Spencer,Campbell,donor30@example.com,,,,N/A,Community,Community,Living
+FAM0873,Spencer Campbell 310,Spencer,Campbell,donor310@example.com,,555-000-310,,N/A,Former Parent,JP,Living
+FAM0038,Spencer Clark 1030,Spencer,Clark,donor1030@example.com,,555-000-1030,,N/A,Former Parent,JP,Living
+FAM0376,Spencer Clark 550,Spencer,Clark,donor550@example.com,,555-000-550,ChildA-1550,,Former Parent,JP,Living
+IND1498,Spencer Collins 1498,Spencer,Collins,,,,,N/A,Community,Community,Living
+FAM0024,Spencer Cook 790,Spencer,Cook,donor790@example.com,,555-000-790,ChildA-1308,,Former Parent,La Casita,Living
+FAM0133,Spencer Cook 870,Spencer,Cook,donor870@example.com,,555-000-870,ChildA-1870,,Former Parent,La Casita,Living
+FAM0506,Spencer Evans 750,Spencer,Evans,donor750@example.com,,,ChildA-1750,,Former Parent,La Casita,Living
+IND1238,Spencer Flores 710,Spencer,Flores,donor710@example.com,,,,N/A,Community,Community,Living
+FAM0640,Spencer Johnson 990,Spencer,Johnson,donor990@example.com,,555-000-990,,N/A,Community,Community,Living
+FAM0299,Spencer Lewis 1310,Spencer,Lewis,donor1310@example.com,,555-000-1310,ChildA-1744,,Former Parent,JP,Living
+FAM0396,Spencer Lewis 270,Spencer,Lewis,donor270@example.com,,555-000-270,ChildA-1270,,Former Parent,JP,Living
+FAM0061,Spencer Mitchell 150,Spencer,Mitchell,donor150@example.com,,555-000-150,,N/A,Former Parent,JP,Living
+FAM0945,Spencer Morris 1150,Spencer,Morris,donor1150@example.com,,,,N/A,Community,Community,Dead
+IND1357,Spencer Morris 1390,Spencer,Morris,donor1390@example.com,,,,N/A,Community,Community,Living
+FAM0305,Spencer Morris 230,Spencer,Morris,donor230@example.com,,555-000-230,ChildA-1230,,Parent,TD,Living
+FAM0783,Spencer Morris 430,Spencer,Morris,donor430@example.com,,,,N/A,Community,Community,Living
+FAM0036,Spencer Nguyen 510,Spencer,Nguyen,donor510@example.com,,555-000-510,,N/A,Former Parent,JP,Living
+IND0143,Spencer Parker 1230,Spencer,Parker,donor1230@example.com,,555-000-1230,ChildA-2230,,Former Parent,La Casita,Living
+FAM0666,Spencer Perez 950,Spencer,Perez,donor950@example.com,,,,N/A,Community,Community,Living
+FAM0916,Spencer Rivera 830,Spencer,Rivera,donor830@example.com,,555-000-830,ChildA-1830,,Former Parent,JP,Living
+IND1114,Spencer Scott 1110,Spencer,Scott,donor1110@example.com,,,,N/A,Community,Community,Living
+IND1506,Spencer Scott 1506,Spencer,Scott,,,,,N/A,Community,Community,Living
+FAM0889,Spencer Smith 1070,Spencer,Smith,donor1070@example.com,,555-000-1070,ChildA-1587,,Former Parent,JP,Living
+IND0451,Spencer Smith 390,Spencer,Smith,donor390@example.com,,555-000-390,ChildA-1390,,Former Parent,La Casita,Living
+FAM0167,Spencer Stewart 590,Spencer,Stewart,donor590@example.com,,555-000-590,,N/A,Former Parent,JP,Living
+FAM0476,Spencer Thomas 910,Spencer,Thomas,donor910@example.com,,555-000-910,,N/A,Former Parent,JP,Living
+IND0191,Spencer Thompson 1190,Spencer,Thompson,donor1190@example.com,,555-000-1190,ChildA-2190,,Former Parent,La Casita,Living
+IND0253,Spencer Thompson 470,Spencer,Thompson,donor470@example.com,,555-000-470,,N/A,Former Parent,JP,Living
+IND1069,Spencer Thompson 70,Spencer,Thompson,donor70@example.com,,,,N/A,Community,Community,Living
+IND1064,Spencer Walker 110,Spencer,Walker,donor110@example.com,,,,N/A,Community,Community,Living
+IND1081,Spencer Walker 190,Spencer,Walker,donor190@example.com,,555-000-190,,N/A,Community,Community,Living
+FAM0769,Spencer White 670,Spencer,White,donor670@example.com,,555-000-670,ChildA-1572,,Former Parent,La Casita,Living
+IND1119,Spencer Wright 350,Spencer,Wright,donor350@example.com,,,,N/A,Community,Community,Living
+FAM0530,Sydney Adams 1460,Sydney,Adams,donor1460@example.com,,555-000-1460,ChildA-1160,,Former Parent,La Casita,Living
+IND1042,Sydney Adams 60,Sydney,Adams,donor60@example.com,,,,N/A,Community,Community,Living
+FAM0487,Sydney Allen 180,Sydney,Allen,donor180@example.com,,555-000-180,ChildA-1180,,Former Board Member,JP,Living
+IND1224,Sydney Allen 860,Sydney,Allen,donor860@example.com,,,,N/A,Community,Community,Living
+IND1310,Sydney Anderson 1180,Sydney,Anderson,donor1180@example.com,,,,N/A,Community,Community,Living
+IND1261,Sydney Campbell 980,Sydney,Campbell,donor980@example.com,,,,N/A,Community,Community,Living
+IND0126,Sydney Carter 1220,Sydney,Carter,donor1220@example.com,,555-000-1220,ChildA-2220,,Former Parent,La Casita,Living
+FAM0331,Sydney Carter 1300,Sydney,Carter,donor1300@example.com,,555-000-1300,ChildA-1529,,Former Parent,La Casita,Living
+FAM0662,Sydney Clark 260,Sydney,Clark,donor260@example.com,donor2602@example.com,,,N/A,Community,Community,Living
+IND0588,Sydney Collins 620,Sydney,Collins,donor620@example.com,,555-000-620,ChildA-1620,,Former Parent,La Casita,Living
+IND0512,Sydney Edwards 820,Sydney,Edwards,donor820@example.com,,555-000-820,ChildA-1820,,Former Parent,JP,Living
+FAM0973,Sydney Evans 20,Sydney,Evans,donor20@example.com,,555-000-20,,N/A,Former Parent,JP,Living
+IND0463,Sydney Evans 380,Sydney,Evans,donor380@example.com,,555-000-380,ChildA-1380,,Former Parent,La Casita,Living
+IND1369,Sydney Hall 1420,Sydney,Hall,donor1420@example.com,,,,N/A,Community,Community,Living
+FAM0069,Sydney Hall 900,Sydney,Hall,donor900@example.com,,555-000-900,ChildA-1010,,Parent,TD,Living
+FAM0483,Sydney Johnson 740,Sydney,Johnson,donor740@example.com,,555-000-740,ChildA-1740,,Former Parent,La Casita,Living
+IND0561,Sydney Lopez 100,Sydney,Lopez,donor100@example.com,,555-000-100,ChildA-1100,,Former Parent,La Casita,Living
+FAM0809,Sydney Lopez 660,Sydney,Lopez,donor660@example.com,,555-000-660,ChildA-1083,,Former Parent,La Casita,Living
+FAM0135,Sydney Martin 340,Sydney,Martin,donor340@example.com,,555-000-340,ChildA-1340,,Former Parent,HP,Living
+IND1154,Sydney Mitchell 500,Sydney,Mitchell,donor500@example.com,,,,N/A,Community,Community,Living
+FAM0409,Sydney Morris 420,Sydney,Morris,donor420@example.com,,555-000-420,ChildA-1420,Yes,Parent,HP,Living
+IND0003,Sydney Morris 580,Sydney,Morris,donor580@example.com,,555-000-580,,N/A,Former Parent,JP,Living
+IND1297,Sydney Parker 1140,Sydney,Parker,donor1140@example.com,,,,N/A,Community,Community,Living
+FAM0170,Sydney Parker 140,Sydney,Parker,donor140@example.com,,555-000-140,,N/A,Former Parent,JP,Living
+IND1398,Sydney Perez 1500,Sydney,Perez,donor1500@example.com,,,,N/A,Community,Community,Living
+FAM0359,Sydney Perez 220,Sydney,Perez,donor220@example.com,,555-000-220,ChildA-1220,,Former Parent,La Casita,Living
+FAM0480,Sydney Roberts 1260,Sydney,Roberts,donor1260@example.com,,,ChildA-1883,,Former Parent,La Casita,Living
+FAM0958,Sydney Roberts 460,Sydney,Roberts,donor460@example.com,,555-000-460,ChildA-1460,,Former Parent,JP,Living
+FAM0325,Sydney Rogers 1100,Sydney,Rogers,donor1100@example.com,,555-000-1100,,N/A,Former Parent,JP,Living
+FAM0204,Sydney Rogers 700,Sydney,Rogers,donor700@example.com,,555-000-700,ChildA-1700,,Former Parent,JP,Living
+FAM0244,Sydney Rogers 940,Sydney,Rogers,donor940@example.com,,,,N/A,Community,Community,Living
+IND0394,Sydney Scott 1060,Sydney,Scott,donor1060@example.com,,555-000-1060,ChildA-2060,,Former Parent,JP,Living
+FAM0088,Sydney Scott 780,Sydney,Scott,donor780@example.com,,555-000-780,,N/A,Former Parent,JP,Living
+FAM0775,Sydney Taylor 540,Sydney,Taylor,donor540@example.com,,555-000-540,ChildA-1438,Yes,Parent,HP,Living
+IND1266,Sydney Torres 1020,Sydney,Torres,donor1020@example.com,,,,N/A,Community,Community,Living
+FAM0777,Sydney Torres 1380,Sydney,Torres,donor1380@example.com,,555-000-1380,,N/A,Former Parent,JP,Living
+FAM0911,Sydney Torres 300,Sydney,Torres,donor300@example.com,,555-000-300,ChildA-1300,,Former Parent,La Casita,Living
+FAM0673,Sydney Wright 1340,Sydney,Wright,donor1340@example.com,,,,N/A,Community,Community,Living
+FAM0586,Taylor Allen 1442,Taylor,Allen,donor1442@example.com,,555-000-1442,ChildA-1053,,Former Parent,JP,Living
+FAM0123,Taylor Allen 282,Taylor,Allen,donor282@example.com,,,,N/A,Former Parent,JP,Living
+FAM0181,Taylor Allen 802,Taylor,Allen,donor802@example.com,,,ChildA-1802,,Former Parent,La Casita,Living
+IND0364,Taylor Anderson 122,Taylor,Anderson,donor122@example.com,,555-000-122,ChildA-1122,,Former Parent,La Casita,Living
+FAM0876,Taylor Anderson 242,Taylor,Anderson,donor242@example.com,,,,N/A,Community,Community,Living
+FAM0167,Taylor Carter 362,Taylor,Carter,donor362@example.com,,555-000-362,,N/A,Former Parent,JP,Living
+FAM0468,Taylor Collins 482,Taylor,Collins,donor482@example.com,,555-000-482,ChildA-1482,,Former Parent,La Casita,Living
+FAM1030,Taylor Collins 722,Taylor,Collins,donor722@example.com,,,,N/A,Community,Community,Living
+FAM0961,Taylor Cook 682,Taylor,Cook,donor682@example.com,,555-000-682,,N/A,Former Parent,JP,Living
+FAM0618,Taylor Cook 82,Taylor,Cook,donor82@example.com,,555-000-82,ChildA-1082,,Former Parent,La Casita,Living
+FAM0705,Taylor Flores 1122,Taylor,Flores,donor1122@example.com,,555-000-1122,ChildA-2038,,Former Parent,JP,Living
+FAM0047,Taylor Hall 842,Taylor,Hall,donor842@example.com,,555-000-842,ChildA-1591,,Former Parent,JP,Living
+FAM0983,Taylor Harris 1082,Taylor,Harris,donor1082@example.com,,555-000-1082,ChildA-1649,,Former Parent,JP,Living
+FAM0878,Taylor Johnson 1322,Taylor,Johnson,donor1322@example.com,,555-000-1322,ChildA-2136,,Former Parent,HP,Living
+FAM0053,Taylor Lopez 1202,Taylor,Lopez,donor1202@example.com,donor12022@example.com,555-000-1202,ChildA-1840,,Former Parent,JP,Living
+FAM0274,Taylor Mitchell 402,Taylor,Mitchell,donor402@example.com,,555-000-402,ChildA-1402,,Former Parent,JP,Living
+FAM0908,Taylor Murphy 1162,Taylor,Murphy,donor1162@example.com,,555-000-1162,,N/A,Former Parent,JP,Living
+IND0547,Taylor Nguyen 1002,Taylor,Nguyen,donor1002@example.com,,,,N/A,Community,Community,Living
+IND0375,Taylor Parker 1362,Taylor,Parker,donor1362@example.com,,555-000-1362,ChildA-2362,,Former Parent,JP,Living
+IND1273,Taylor Parker 162,Taylor,Parker,donor162@example.com,,,,N/A,Community,Community,Living
+FAM0873,Taylor Phillips 1042,Taylor,Phillips,donor1042@example.com,,555-000-1042,,N/A,Former Parent,JP,Living
+IND0018,Taylor Phillips 1402,Taylor,Phillips,donor1402@example.com,,555-000-1402,ChildA-2402,,Former Parent,JP,Living
+FAM0135,Taylor Phillips 762,Taylor,Phillips,donor762@example.com,,555-000-762,ChildA-1340,,Former Parent,HP,Living
+UNK1437,Taylor Rivera 1437,Taylor,Rivera,,,,,N/A,Community,Community,Living
+IND1147,Taylor Rivera 442,Taylor,Rivera,donor442@example.com,,,,N/A,Community,Community,Living
+IND0010,Taylor Rogers 2,Taylor,Rogers,donor2@example.com,,555-000-2,ChildA-1002,,Former Parent,La Casita,Living
+FAM0080,Taylor Scott 602,Taylor,Scott,donor602@example.com,,555-000-602,ChildA-1602,Yes,Parent,HP,Living
+FAM1430,Taylor Smith 1430,Taylor,Smith,,,,,N/A,Community,Community,Living
+IND1378,Taylor Stewart 1242,Taylor,Stewart,donor1242@example.com,,,,N/A,Community,Community,Living
+IND0400,Taylor Thomas 1482,Taylor,Thomas,donor1482@example.com,,555-000-1482,ChildA-2482,,Former Parent,La Casita,Living
+IND0019,Taylor Thompson 1282,Taylor,Thompson,donor1282@example.com,,555-000-1282,ChildA-2282,,Former Parent,La Casita,Living
+FAM0723,Taylor Torres 42,Taylor,Torres,donor42@example.com,,555-000-42,ChildA-1042,,Former Parent,La Casita,Living
+FAM1414,Taylor Walker 1414,Taylor,Walker,,,,,N/A,Community,Community,Living
+FAM0230,Taylor Walker 322,Taylor,Walker,donor322@example.com,,555-000-322,,N/A,Former Parent,JP,Living
+FAM0340,Taylor Walker 922,Taylor,Walker,donor922@example.com,,,,N/A,Community,Community,Living
+IND1230,Taylor White 882,Taylor,White,donor882@example.com,,,,N/A,Community,Community,Living
+FAM0177,Taylor Wright 642,Taylor,Wright,donor642@example.com,,555-000-642,ChildA-1642,,Former Parent,La Casita,Living
+IND0968,Taylor Wright 962,Taylor,Wright,donor962@example.com,,555-000-962,ChildA-1962,,Former Parent,La Casita,Living
+UNK1565,The Caruso Family Foundation,,,,,,,,Corporate Donor,,Active
+UNK1566,The GE Foundation,,,,,,,,Corporate Donor,,Active
+UNK1567,"The Gordon Foundation, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1575,The Vazomica Foundation,,,,,,,,Corporate Donor,,Active
+UNK1568,Twentieth Century Fox Film Corp.,,,,,,,,Corporate Donor,,Defunct
+UNK1569,U.S. Bancorp Foundation,,,,,,,,Corporate Donor,,Active
+UNK1578,USI Education Sales,,,,,,,,Corporate Donor,,Active
+UNK1579,"VIP Accountancy, Inc.",,,,,,,,Corporate Donor,,Active
+UNK1570,Wahoo's Fish Taco,,,,,,,,Corporate Donor,,Active
+UNK1571,Wells Fargo Foundation,,,,,,,,Corporate Donor,,Active
+UNK1572,Wholesale Costume Club,,,,,,,,Corporate Donor,,Defunct
+UNK1580,Winters Designs,,,,,,,,Corporate Donor,,Defunct
+UNK1573,Ziggurat Child Development,,,,,,,,Corporate Donor,,Defunct
