@@ -1,0 +1,11 @@
+-- Query to examine how often MWPCCC has actively fundraised over the years.
+
+SELECT 
+    EXTRACT(YEAR FROM f.date_started) AS year,
+    COUNT(f.fundraiser_id) AS total_fundraisers,
+    SUM(d.amount) AS total_fundraiser_revenue
+FROM fundraisers f
+LEFT JOIN donations d ON f.fundraiser_id = d.fundraiser_id
+WHERE f.fundraiser_id IS NOT NULL
+GROUP BY year
+ORDER BY year;
