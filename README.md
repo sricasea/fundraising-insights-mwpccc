@@ -11,6 +11,9 @@ This project 15+ years of donor and fundraising data for Mt. Washington Preschoo
 1. Data Cleaning, Structuring & Migration — transforming messy Google Sheets and exported records into a clean, structured PostgreSQL database.
 2. Data Analysis & Visualization — using SQL, Python, and Deepnote to uncover insights, generate dashboards, and support decision-making.
 
+💖 **Want to support the real-world organization behind this project?**  
+[Donate to MWPCCC's current fundraiser here.](https://donorbox.org/mwpccc-annual-campaign)
+
 ---
 
 ## 🧭 Project Structure
