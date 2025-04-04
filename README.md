@@ -51,6 +51,11 @@ This project 15+ years of donor and fundraising data for Mt. Washington Preschoo
 │   └── structured_unstructured_donations.png
 │   └── trends_in_donor_behavior.png
 ├── data/                      ← CSVs for transparency and reproducibility
+│   └── donations_rows.csv
+│   └── fundraiser_costs_rows.csv
+│   └── fundraisers_rows.csv
+│   └── giving_entities_rows.csv
+│   └── occupants_rows.csv
 
 ```
 ---
