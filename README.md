@@ -127,7 +127,7 @@ MWPCCC faced a steep drop in fundraising revenue in the years following COVID-19
 
 ## 📬 Want to Learn More?
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/geneva-burleigh-8b76b117/) or check out more of my work on [Deepnote](https://deepnote.com/workspace/puddles-7d469830-b020-4998-9332-fad683944541/project/d50b48dc-8b60-4e72-885a-59c1190a91a3/notebook/Data-Driven-Fundraising-Insights-870451d5ae6d45a5bca1bd2f825144ae).
+Connect with me on [LinkedIn](www.linkedin.com/in/genevaburleigh) or check out more of my work on [Deepnote](https://deepnote.com/workspace/puddles-7d469830-b020-4998-9332-fad683944541/project/d50b48dc-8b60-4e72-885a-59c1190a91a3/notebook/Data-Driven-Fundraising-Insights-870451d5ae6d45a5bca1bd2f825144ae).
 
 ## 🙌 Get Involved
 
